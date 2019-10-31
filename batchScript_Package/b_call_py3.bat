@@ -1,0 +1,3 @@
+@ECHO ON
+python pow_gen_byFuel_excel_eppo_etl.py
+python pow_gen_bySector_excel_eppo_etl.py

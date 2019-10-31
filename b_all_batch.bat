@@ -1,0 +1,11 @@
+@echo off
+SET rootDir=%cd%\batchScript_Package
+SET bat1=b_call_py1.bat
+SET bat2=b_call_py2.bat
+SET bat3=b_call_py3.bat
+SET bat4=b_sourceMerge.bat
+echo %rootDir%\%bat1%
+call %rootDir%\%bat1%
+call %rootDir%\%bat2%
+call %rootDir%\%bat3%
+call %rootDir%\%bat4%

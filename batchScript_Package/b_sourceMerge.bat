@@ -1,0 +1,2 @@
+@ECHO ON
+python sourceMerge_correlation_matrix.py

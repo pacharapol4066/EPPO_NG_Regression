@@ -1,0 +1,2752 @@
+YEAR_PRD,MONTH_PRD,FUELTYPE,QTY
+1986,APR,Hydro Electricity,633.91
+1986,APR,Fuel Oil,333.95
+1986,APR,Coal & Lignite,336.14
+1986,APR,Natural Gas,817.25
+1986,APR,Diesel,0.49
+1986,APR,Imported,33.79
+1986,AUG,Hydro Electricity,542
+1986,AUG,Fuel Oil,246.9
+1986,AUG,Coal & Lignite,517.4
+1986,AUG,Natural Gas,800.96
+1986,AUG,Diesel,0.38
+1986,AUG,Imported,91.24
+1986,DEC,Hydro Electricity,229.09
+1986,DEC,Fuel Oil,265.77
+1986,DEC,Coal & Lignite,589.38
+1986,DEC,Natural Gas,966.21
+1986,DEC,Diesel,0.09
+1986,DEC,Imported,43
+1986,FEB,Hydro Electricity,391.76
+1986,FEB,Fuel Oil,288.67
+1986,FEB,Coal & Lignite,323.55
+1986,FEB,Natural Gas,755.35
+1986,FEB,Diesel,2.05
+1986,FEB,Imported,52.14
+1986,JAN,Hydro Electricity,218.9
+1986,JAN,Fuel Oil,229.46
+1986,JAN,Coal & Lignite,512.63
+1986,JAN,Natural Gas,880.34
+1986,JAN,Diesel,0.19
+1986,JAN,Imported,57
+1986,JUL,Hydro Electricity,525.44
+1986,JUL,Fuel Oil,243.03
+1986,JUL,Coal & Lignite,496.77
+1986,JUL,Natural Gas,820.81
+1986,JUL,Diesel,0.38
+1986,JUL,Imported,92.74
+1986,JUN,Hydro Electricity,615.11
+1986,JUN,Fuel Oil,208.12
+1986,JUN,Coal & Lignite,449.51
+1986,JUN,Natural Gas,845.57
+1986,JUN,Diesel,0.6
+1986,JUN,Imported,65.32
+1986,MAR,Hydro Electricity,629.74
+1986,MAR,Fuel Oil,227.37
+1986,MAR,Coal & Lignite,331.95
+1986,MAR,Natural Gas,899.54
+1986,MAR,Diesel,4.97
+1986,MAR,Imported,41.86
+1986,MAY,Hydro Electricity,498.05
+1986,MAY,Fuel Oil,302.11
+1986,MAY,Coal & Lignite,404.26
+1986,MAY,Natural Gas,900.01
+1986,MAY,Diesel,0.64
+1986,MAY,Imported,47.28
+1986,NOV,Hydro Electricity,407.21
+1986,NOV,Fuel Oil,261.86
+1986,NOV,Coal & Lignite,496.34
+1986,NOV,Natural Gas,923.61
+1986,NOV,Diesel,0.11
+1986,NOV,Imported,61.92
+1986,OCT,Hydro Electricity,362.4
+1986,OCT,Fuel Oil,357.69
+1986,OCT,Coal & Lignite,579.68
+1986,OCT,Natural Gas,901.73
+1986,OCT,Diesel,0.17
+1986,OCT,Imported,75.31
+1986,SEP,Hydro Electricity,478.09
+1986,SEP,Fuel Oil,369.95
+1986,SEP,Coal & Lignite,503.67
+1986,SEP,Natural Gas,740.33
+1986,SEP,Diesel,0.17
+1986,SEP,Imported,96.78
+1987,APR,Hydro Electricity,485.04
+1987,APR,Fuel Oil,197.22
+1987,APR,Coal & Lignite,598.14
+1987,APR,Natural Gas,1134.38
+1987,APR,Diesel,0.17
+1987,APR,Imported,34.66
+1987,AUG,Hydro Electricity,379.76
+1987,AUG,Fuel Oil,156.56
+1987,AUG,Coal & Lignite,607.47
+1987,AUG,Natural Gas,1375.53
+1987,AUG,Diesel,0.19
+1987,AUG,Imported,24.92
+1987,DEC,Hydro Electricity,123.51
+1987,DEC,Fuel Oil,230.59
+1987,DEC,Coal & Lignite,533.74
+1987,DEC,Natural Gas,1335.9
+1987,DEC,Diesel,0.03
+1987,DEC,Imported,64.95
+1987,DEC,Renewable Energy,0.96
+1987,FEB,Hydro Electricity,402.57
+1987,FEB,Fuel Oil,182.33
+1987,FEB,Coal & Lignite,457.4
+1987,FEB,Natural Gas,1014.48
+1987,FEB,Diesel,0.15
+1987,FEB,Imported,33.13
+1987,JAN,Hydro Electricity,265.68
+1987,JAN,Fuel Oil,227.8
+1987,JAN,Coal & Lignite,579.36
+1987,JAN,Natural Gas,1013.43
+1987,JAN,Diesel,0.21
+1987,JAN,Imported,39.23
+1987,JUL,Hydro Electricity,384.67
+1987,JUL,Fuel Oil,152.56
+1987,JUL,Coal & Lignite,585.69
+1987,JUL,Natural Gas,1405.16
+1987,JUL,Diesel,0.24
+1987,JUL,Imported,17.9
+1987,JUN,Hydro Electricity,340.68
+1987,JUN,Fuel Oil,136.2
+1987,JUN,Coal & Lignite,512.04
+1987,JUN,Natural Gas,1445.47
+1987,JUN,Diesel,0.18
+1987,JUN,Imported,31.82
+1987,MAR,Hydro Electricity,541.6
+1987,MAR,Fuel Oil,137.06
+1987,MAR,Coal & Lignite,610.99
+1987,MAR,Natural Gas,1150.4
+1987,MAR,Diesel,0.57
+1987,MAR,Imported,31.59
+1987,MAY,Hydro Electricity,409.23
+1987,MAY,Fuel Oil,245.44
+1987,MAY,Coal & Lignite,576.18
+1987,MAY,Natural Gas,1267.82
+1987,MAY,Diesel,0.2
+1987,MAY,Imported,29.97
+1987,NOV,Hydro Electricity,241.01
+1987,NOV,Fuel Oil,195.15
+1987,NOV,Coal & Lignite,515.53
+1987,NOV,Natural Gas,1467.48
+1987,NOV,Diesel,0.08
+1987,NOV,Imported,50.73
+1987,NOV,Renewable Energy,1.39
+1987,OCT,Hydro Electricity,230.43
+1987,OCT,Fuel Oil,141.8
+1987,OCT,Coal & Lignite,630.07
+1987,OCT,Natural Gas,1502.91
+1987,OCT,Diesel,0.33
+1987,OCT,Imported,48.21
+1987,OCT,Renewable Energy,2.57
+1987,SEP,Hydro Electricity,252.05
+1987,SEP,Fuel Oil,185.67
+1987,SEP,Coal & Lignite,491.4
+1987,SEP,Natural Gas,1510.7
+1987,SEP,Diesel,0.06
+1987,SEP,Imported,8.34
+1988,APR,Hydro Electricity,442.62
+1988,APR,Fuel Oil,226.39
+1988,APR,Coal & Lignite,599.86
+1988,APR,Natural Gas,1478.56
+1988,APR,Diesel,0.09
+1988,APR,Imported,28.99
+1988,APR,Renewable Energy,0.54
+1988,AUG,Hydro Electricity,287.39
+1988,AUG,Fuel Oil,295.65
+1988,AUG,Coal & Lignite,588.84
+1988,AUG,Natural Gas,1641.23
+1988,AUG,Diesel,0.09
+1988,AUG,Imported,44.71
+1988,AUG,Renewable Energy,8.95
+1988,DEC,Hydro Electricity,226.16
+1988,DEC,Fuel Oil,289.45
+1988,DEC,Coal & Lignite,529.75
+1988,DEC,Natural Gas,1585.4
+1988,DEC,Diesel,0.61
+1988,DEC,Imported,33.55
+1988,DEC,Renewable Energy,1.47
+1988,FEB,Hydro Electricity,340.26
+1988,FEB,Fuel Oil,138.86
+1988,FEB,Coal & Lignite,478.44
+1988,FEB,Natural Gas,1469.13
+1988,FEB,Diesel,0.15
+1988,FEB,Imported,43.73
+1988,FEB,Renewable Energy,1.24
+1988,JAN,Hydro Electricity,220.18
+1988,JAN,Fuel Oil,167.19
+1988,JAN,Coal & Lignite,535.64
+1988,JAN,Natural Gas,1505.89
+1988,JAN,Diesel,0.14
+1988,JAN,Imported,43.13
+1988,JAN,Renewable Energy,1.55
+1988,JUL,Hydro Electricity,305.17
+1988,JUL,Fuel Oil,275.28
+1988,JUL,Coal & Lignite,633.22
+1988,JUL,Natural Gas,1554.37
+1988,JUL,Diesel,0.05
+1988,JUL,Imported,31.19
+1988,JUL,Renewable Energy,7.26
+1988,JUN,Hydro Electricity,269.66
+1988,JUN,Fuel Oil,264.55
+1988,JUN,Coal & Lignite,607.74
+1988,JUN,Natural Gas,1584.31
+1988,JUN,Diesel,0.08
+1988,JUN,Imported,32.51
+1988,JUN,Renewable Energy,1.74
+1988,MAR,Hydro Electricity,550.48
+1988,MAR,Fuel Oil,238.96
+1988,MAR,Coal & Lignite,546.34
+1988,MAR,Natural Gas,1529.92
+1988,MAR,Diesel,0.25
+1988,MAR,Imported,29.84
+1988,MAR,Renewable Energy,0.54
+1988,MAY,Hydro Electricity,288.26
+1988,MAY,Fuel Oil,279.42
+1988,MAY,Coal & Lignite,616.65
+1988,MAY,Natural Gas,1572.08
+1988,MAY,Diesel,0.06
+1988,MAY,Imported,26.89
+1988,MAY,Renewable Energy,0.16
+1988,NOV,Hydro Electricity,247.79
+1988,NOV,Fuel Oil,263.84
+1988,NOV,Coal & Lignite,540.05
+1988,NOV,Natural Gas,1545.27
+1988,NOV,Diesel,1.11
+1988,NOV,Imported,39.05
+1988,NOV,Renewable Energy,1.86
+1988,OCT,Hydro Electricity,251.65
+1988,OCT,Fuel Oil,301.82
+1988,OCT,Coal & Lignite,618.78
+1988,OCT,Natural Gas,1642.22
+1988,OCT,Diesel,0.8
+1988,OCT,Imported,40.68
+1988,OCT,Renewable Energy,2.13
+1988,SEP,Hydro Electricity,288.55
+1988,SEP,Fuel Oil,400.62
+1988,SEP,Coal & Lignite,504.19
+1988,SEP,Natural Gas,1611.5
+1988,SEP,Diesel,0.04
+1988,SEP,Imported,35.51
+1988,SEP,Renewable Energy,2.75
+1989,APR,Hydro Electricity,679.34
+1989,APR,Fuel Oil,329.2
+1989,APR,Coal & Lignite,621.21
+1989,APR,Natural Gas,1543.28
+1989,APR,Diesel,0.39
+1989,APR,Imported,28.85
+1989,APR,Renewable Energy,0.59
+1989,AUG,Hydro Electricity,537.38
+1989,AUG,Fuel Oil,356.25
+1989,AUG,Coal & Lignite,697.36
+1989,AUG,Natural Gas,1635.85
+1989,AUG,Diesel,0.87
+1989,AUG,Imported,66.61
+1989,AUG,Renewable Energy,2.23
+1989,DEC,Hydro Electricity,238.64
+1989,DEC,Fuel Oil,466.93
+1989,DEC,Coal & Lignite,804.71
+1989,DEC,Natural Gas,1521.7
+1989,DEC,Diesel,7.36
+1989,DEC,Imported,81.51
+1989,DEC,Renewable Energy,0.92
+1989,FEB,Hydro Electricity,466.02
+1989,FEB,Fuel Oil,235.23
+1989,FEB,Coal & Lignite,544.21
+1989,FEB,Natural Gas,1396.71
+1989,FEB,Diesel,0.36
+1989,FEB,Imported,25.21
+1989,FEB,Renewable Energy,0.67
+1989,JAN,Hydro Electricity,332.65
+1989,JAN,Fuel Oil,413.52
+1989,JAN,Coal & Lignite,527.57
+1989,JAN,Natural Gas,1619.19
+1989,JAN,Diesel,0.3
+1989,JAN,Imported,27.07
+1989,JAN,Renewable Energy,0.75
+1989,JUL,Hydro Electricity,325.62
+1989,JUL,Fuel Oil,403.84
+1989,JUL,Coal & Lignite,719.31
+1989,JUL,Natural Gas,1735.76
+1989,JUL,Diesel,0.06
+1989,JUL,Imported,56.55
+1989,JUL,Renewable Energy,1.87
+1989,JUN,Hydro Electricity,423.75
+1989,JUN,Fuel Oil,382.57
+1989,JUN,Coal & Lignite,637.37
+1989,JUN,Natural Gas,1692
+1989,JUN,Diesel,0.41
+1989,JUN,Imported,38.09
+1989,JUN,Renewable Energy,1.47
+1989,MAR,Hydro Electricity,675.91
+1989,MAR,Fuel Oil,314.37
+1989,MAR,Coal & Lignite,608.9
+1989,MAR,Natural Gas,1575.68
+1989,MAR,Diesel,0.75
+1989,MAR,Imported,27.94
+1989,MAR,Renewable Energy,0.63
+1989,MAY,Hydro Electricity,601.83
+1989,MAY,Fuel Oil,357.02
+1989,MAY,Coal & Lignite,623.16
+1989,MAY,Natural Gas,1691.85
+1989,MAY,Diesel,0.38
+1989,MAY,Imported,28.44
+1989,MAY,Renewable Energy,0.88
+1989,NOV,Hydro Electricity,439.41
+1989,NOV,Fuel Oil,582.26
+1989,NOV,Coal & Lignite,707.56
+1989,NOV,Natural Gas,1420.03
+1989,NOV,Diesel,4.73
+1989,NOV,Imported,84.79
+1989,NOV,Renewable Energy,1.42
+1989,OCT,Hydro Electricity,333.38
+1989,OCT,Fuel Oil,516.67
+1989,OCT,Coal & Lignite,695.37
+1989,OCT,Natural Gas,1720.46
+1989,OCT,Diesel,0.09
+1989,OCT,Imported,80.99
+1989,OCT,Renewable Energy,3.34
+1989,SEP,Hydro Electricity,458.28
+1989,SEP,Fuel Oil,380.97
+1989,SEP,Coal & Lignite,682.84
+1989,SEP,Natural Gas,1642.24
+1989,SEP,Diesel,0.75
+1989,SEP,Imported,97.1
+1989,SEP,Renewable Energy,6.8
+1990,APR,Hydro Electricity,490.12
+1990,APR,Fuel Oil,738.4
+1990,APR,Coal & Lignite,949.72
+1990,APR,Natural Gas,1470.67
+1990,APR,Diesel,19.68
+1990,APR,Imported,39.76
+1990,APR,Renewable Energy,1.49
+1990,AUG,Hydro Electricity,413.36
+1990,AUG,Fuel Oil,1017.24
+1990,AUG,Coal & Lignite,921.94
+1990,AUG,Natural Gas,1464.95
+1990,AUG,Diesel,34.05
+1990,AUG,Imported,64.41
+1990,AUG,Renewable Energy,3.89
+1990,DEC,Hydro Electricity,266.12
+1990,DEC,Fuel Oil,908.39
+1990,DEC,Coal & Lignite,962.84
+1990,DEC,Natural Gas,1426.79
+1990,DEC,Diesel,30.04
+1990,DEC,Imported,60.21
+1990,DEC,Renewable Energy,0.86
+1990,FEB,Hydro Electricity,397.38
+1990,FEB,Fuel Oil,781.93
+1990,FEB,Coal & Lignite,714.83
+1990,FEB,Natural Gas,1363.23
+1990,FEB,Diesel,13.95
+1990,FEB,Imported,51.83
+1990,FEB,Renewable Energy,0.95
+1990,JAN,Hydro Electricity,317
+1990,JAN,Fuel Oil,643.61
+1990,JAN,Coal & Lignite,856.46
+1990,JAN,Natural Gas,1508.3
+1990,JAN,Diesel,16.19
+1990,JAN,Imported,67.57
+1990,JAN,Renewable Energy,1.01
+1990,JUL,Hydro Electricity,369.89
+1990,JUL,Fuel Oil,980.33
+1990,JUL,Coal & Lignite,913.81
+1990,JUL,Natural Gas,1439.4
+1990,JUL,Diesel,43.49
+1990,JUL,Imported,56.34
+1990,JUL,Renewable Energy,3.87
+1990,JUN,Hydro Electricity,373.01
+1990,JUN,Fuel Oil,884.11
+1990,JUN,Coal & Lignite,1010.32
+1990,JUN,Natural Gas,1470.7
+1990,JUN,Diesel,33.69
+1990,JUN,Imported,48.59
+1990,JUN,Renewable Energy,3.16
+1990,MAR,Hydro Electricity,575.93
+1990,MAR,Fuel Oil,772.41
+1990,MAR,Coal & Lignite,821.44
+1990,MAR,Natural Gas,1568.29
+1990,MAR,Diesel,17.25
+1990,MAR,Imported,48.2
+1990,MAR,Renewable Energy,1.38
+1990,MAY,Hydro Electricity,444.34
+1990,MAY,Fuel Oil,829.17
+1990,MAY,Coal & Lignite,945.47
+1990,MAY,Natural Gas,1597.16
+1990,MAY,Diesel,26.15
+1990,MAY,Imported,32.66
+1990,MAY,Renewable Energy,2.44
+1990,NOV,Hydro Electricity,390.6
+1990,NOV,Fuel Oil,784.6
+1990,NOV,Coal & Lignite,987.8
+1990,NOV,Natural Gas,1515.03
+1990,NOV,Diesel,27.48
+1990,NOV,Imported,56.41
+1990,NOV,Renewable Energy,1.37
+1990,OCT,Hydro Electricity,423.62
+1990,OCT,Fuel Oil,818.86
+1990,OCT,Coal & Lignite,1079.32
+1990,OCT,Natural Gas,1426.84
+1990,OCT,Diesel,53.44
+1990,OCT,Imported,65.95
+1990,OCT,Renewable Energy,1.71
+1990,SEP,Hydro Electricity,438.74
+1990,SEP,Fuel Oil,853.58
+1990,SEP,Coal & Lignite,888.9
+1990,SEP,Natural Gas,1513.7
+1990,SEP,Diesel,41.44
+1990,SEP,Imported,60.39
+1990,SEP,Renewable Energy,2.86
+1991,APR,Hydro Electricity,420.96
+1991,APR,Fuel Oil,1023.43
+1991,APR,Coal & Lignite,994.83
+1991,APR,Natural Gas,1641.54
+1991,APR,Diesel,13.65
+1991,APR,Imported,55.24
+1991,APR,Renewable Energy,3.56
+1991,AUG,Hydro Electricity,410.1
+1991,AUG,Fuel Oil,1126.44
+1991,AUG,Coal & Lignite,1743.68
+1991,AUG,Natural Gas,994.92
+1991,AUG,Diesel,0.54
+1991,AUG,Imported,85.75
+1991,AUG,Renewable Energy,1.09
+1991,DEC,Hydro Electricity,329.81
+1991,DEC,Fuel Oil,1228.11
+1991,DEC,Coal & Lignite,1232.51
+1991,DEC,Natural Gas,1347.62
+1991,DEC,Diesel,2.57
+1991,DEC,Imported,25
+1991,DEC,Renewable Energy,2.08
+1991,FEB,Hydro Electricity,332.91
+1991,FEB,Fuel Oil,816.13
+1991,FEB,Coal & Lignite,908.8
+1991,FEB,Natural Gas,1428.92
+1991,FEB,Diesel,9.49
+1991,FEB,Imported,42.69
+1991,FEB,Renewable Energy,1.09
+1991,JAN,Hydro Electricity,383.46
+1991,JAN,Fuel Oil,983.85
+1991,JAN,Coal & Lignite,1025.72
+1991,JAN,Natural Gas,1495.83
+1991,JAN,Diesel,33.26
+1991,JAN,Imported,40.98
+1991,JAN,Renewable Energy,0.84
+1991,JUL,Hydro Electricity,276.64
+1991,JUL,Fuel Oil,1086.16
+1991,JUL,Coal & Lignite,1190.82
+1991,JUL,Natural Gas,1795.7
+1991,JUL,Diesel,2.46
+1991,JUL,Imported,69.66
+1991,JUL,Renewable Energy,1.2
+1991,JUN,Hydro Electricity,231.26
+1991,JUN,Fuel Oil,882.96
+1991,JUN,Coal & Lignite,1166.19
+1991,JUN,Natural Gas,1933.54
+1991,JUN,Diesel,14.72
+1991,JUN,Imported,40.22
+1991,JUN,Renewable Energy,3.02
+1991,MAR,Hydro Electricity,463.44
+1991,MAR,Fuel Oil,1044.46
+1991,MAR,Coal & Lignite,1030.34
+1991,MAR,Natural Gas,1797.33
+1991,MAR,Diesel,12
+1991,MAR,Imported,41.99
+1991,MAR,Renewable Energy,1.43
+1991,MAY,Hydro Electricity,307.44
+1991,MAY,Fuel Oil,1078.68
+1991,MAY,Coal & Lignite,1128.88
+1991,MAY,Natural Gas,1898.31
+1991,MAY,Diesel,17.62
+1991,MAY,Imported,35.24
+1991,MAY,Renewable Energy,1.97
+1991,NOV,Hydro Electricity,456.49
+1991,NOV,Fuel Oil,1030.93
+1991,NOV,Coal & Lignite,1166.32
+1991,NOV,Natural Gas,1467.22
+1991,NOV,Diesel,3.59
+1991,NOV,Imported,49.49
+1991,NOV,Renewable Energy,3.1
+1991,OCT,Hydro Electricity,405.94
+1991,OCT,Fuel Oil,1213.62
+1991,OCT,Coal & Lignite,1153.05
+1991,OCT,Natural Gas,1601.55
+1991,OCT,Diesel,0.58
+1991,OCT,Imported,50.27
+1991,OCT,Renewable Energy,6.84
+1991,SEP,Hydro Electricity,486.9
+1991,SEP,Fuel Oil,1121.62
+1991,SEP,Coal & Lignite,1044.08
+1991,SEP,Natural Gas,1648.71
+1991,SEP,Diesel,2.09
+1991,SEP,Imported,56.58
+1991,SEP,Renewable Energy,3.43
+1992,APR,Hydro Electricity,475.98
+1992,APR,Fuel Oil,1420.89
+1992,APR,Coal & Lignite,1238.02
+1992,APR,Natural Gas,1723.41
+1992,APR,Diesel,2.48
+1992,APR,Imported,29.11
+1992,APR,Renewable Energy,2.03
+1992,AUG,Hydro Electricity,206.71
+1992,AUG,Fuel Oil,1174.85
+1992,AUG,Coal & Lignite,1376.16
+1992,AUG,Natural Gas,2127.24
+1992,AUG,Diesel,16.92
+1992,AUG,Imported,75.4
+1992,AUG,Renewable Energy,0.7
+1992,DEC,Hydro Electricity,323.59
+1992,DEC,Fuel Oil,1105.42
+1992,DEC,Coal & Lignite,958.54
+1992,DEC,Natural Gas,2314.54
+1992,DEC,Diesel,0.98
+1992,DEC,Imported,19.73
+1992,DEC,Renewable Energy,1.66
+1992,FEB,Hydro Electricity,404.93
+1992,FEB,Fuel Oil,1213.75
+1992,FEB,Coal & Lignite,1173.14
+1992,FEB,Natural Gas,1368.82
+1992,FEB,Diesel,1.25
+1992,FEB,Imported,35.23
+1992,FEB,Renewable Energy,1.89
+1992,JAN,Hydro Electricity,338.98
+1992,JAN,Fuel Oil,1128.07
+1992,JAN,Coal & Lignite,1301.86
+1992,JAN,Natural Gas,1436.21
+1992,JAN,Diesel,0.97
+1992,JAN,Imported,23.44
+1992,JAN,Renewable Energy,1.69
+1992,JUL,Hydro Electricity,281.89
+1992,JUL,Fuel Oil,1274.84
+1992,JUL,Coal & Lignite,1406.82
+1992,JUL,Natural Gas,1941.91
+1992,JUL,Diesel,31.39
+1992,JUL,Imported,69.72
+1992,JUL,Renewable Energy,0.57
+1992,JUN,Hydro Electricity,335.12
+1992,JUN,Fuel Oil,1370.41
+1992,JUN,Coal & Lignite,1298.16
+1992,JUN,Natural Gas,1830.98
+1992,JUN,Diesel,21.92
+1992,JUN,Imported,46.55
+1992,JUN,Renewable Energy,0.43
+1992,MAR,Hydro Electricity,561.37
+1992,MAR,Fuel Oil,1559.49
+1992,MAR,Coal & Lignite,1277.74
+1992,MAR,Natural Gas,1500.77
+1992,MAR,Diesel,6.39
+1992,MAR,Imported,21.03
+1992,MAR,Renewable Energy,1.85
+1992,MAY,Hydro Electricity,402.01
+1992,MAY,Fuel Oil,1435.44
+1992,MAY,Coal & Lignite,1220.56
+1992,MAY,Natural Gas,2004.46
+1992,MAY,Diesel,4.04
+1992,MAY,Imported,34.38
+1992,MAY,Renewable Energy,1.61
+1992,NOV,Hydro Electricity,269.54
+1992,NOV,Fuel Oil,1133.13
+1992,NOV,Coal & Lignite,996.25
+1992,NOV,Natural Gas,2214.63
+1992,NOV,Diesel,4.84
+1992,NOV,Imported,27.64
+1992,NOV,Renewable Energy,2.32
+1992,OCT,Hydro Electricity,276.86
+1992,OCT,Fuel Oil,994.01
+1992,OCT,Coal & Lignite,1330.35
+1992,OCT,Natural Gas,2197.44
+1992,OCT,Diesel,57.25
+1992,OCT,Imported,47.08
+1992,OCT,Renewable Energy,3.74
+1992,SEP,Hydro Electricity,281.96
+1992,SEP,Fuel Oil,1118.62
+1992,SEP,Coal & Lignite,1237.45
+1992,SEP,Natural Gas,2282.63
+1992,SEP,Diesel,12.91
+1992,SEP,Imported,50.58
+1992,SEP,Renewable Energy,2.35
+1993,APR,Hydro Electricity,394.094
+1993,APR,Fuel Oil,1365.171
+1993,APR,Coal & Lignite,1049.818
+1993,APR,Natural Gas,2367.726
+1993,APR,Diesel,24.092
+1993,APR,Imported,24.685
+1993,APR,Renewable Energy,1.729
+1993,AUG,Hydro Electricity,328.449
+1993,AUG,Fuel Oil,1361.452
+1993,AUG,Coal & Lignite,1409.205
+1993,AUG,Natural Gas,2189.237
+1993,AUG,Diesel,40.928
+1993,AUG,Imported,116.289
+1993,AUG,Renewable Energy,2.766
+1993,DEC,Hydro Electricity,172.184
+1993,DEC,Fuel Oil,1491.604
+1993,DEC,Coal & Lignite,943.346
+1993,DEC,Natural Gas,2377.881
+1993,DEC,Diesel,89.444
+1993,DEC,Imported,49.06
+1993,DEC,Renewable Energy,1.355
+1993,FEB,Hydro Electricity,352.839
+1993,FEB,Fuel Oil,1260.039
+1993,FEB,Coal & Lignite,753.727
+1993,FEB,Natural Gas,2233.516
+1993,FEB,Diesel,10.262
+1993,FEB,Imported,15.832
+1993,FEB,Renewable Energy,1.541
+1993,JAN,Hydro Electricity,220.241
+1993,JAN,Fuel Oil,1320.047
+1993,JAN,Coal & Lignite,896.118
+1993,JAN,Natural Gas,2252.209
+1993,JAN,Diesel,8.17
+1993,JAN,Imported,22.758
+1993,JAN,Renewable Energy,1.75
+1993,JUL,Hydro Electricity,274.168
+1993,JUL,Fuel Oil,1539.638
+1993,JUL,Coal & Lignite,1438.831
+1993,JUL,Natural Gas,2392.839
+1993,JUL,Diesel,36.898
+1993,JUL,Imported,77.836
+1993,JUL,Renewable Energy,2.065
+1993,JUN,Hydro Electricity,324.463
+1993,JUN,Fuel Oil,1460.094
+1993,JUN,Coal & Lignite,1389.994
+1993,JUN,Natural Gas,2234.096
+1993,JUN,Diesel,54.445
+1993,JUN,Imported,45.453
+1993,JUN,Renewable Energy,1.871
+1993,MAR,Hydro Electricity,451.642
+1993,MAR,Fuel Oil,1616.844
+1993,MAR,Coal & Lignite,924.019
+1993,MAR,Natural Gas,2454.566
+1993,MAR,Diesel,18.527
+1993,MAR,Imported,20.703
+1993,MAR,Renewable Energy,1.7480000000000002
+1993,MAY,Hydro Electricity,345.901
+1993,MAY,Fuel Oil,1470.185
+1993,MAY,Coal & Lignite,1409.093
+1993,MAY,Natural Gas,2336.6
+1993,MAY,Diesel,57.87
+1993,MAY,Imported,31.914
+1993,MAY,Renewable Energy,2.1799999999999997
+1993,NOV,Hydro Electricity,309.103
+1993,NOV,Fuel Oil,1747.871
+1993,NOV,Coal & Lignite,883.544
+1993,NOV,Natural Gas,2255.369
+1993,NOV,Diesel,132.375
+1993,NOV,Imported,37.278
+1993,NOV,Renewable Energy,3.061
+1993,OCT,Hydro Electricity,201.966
+1993,OCT,Fuel Oil,1567.683
+1993,OCT,Coal & Lignite,1130
+1993,OCT,Natural Gas,2473.185
+1993,OCT,Diesel,127.873
+1993,OCT,Imported,82.616
+1993,OCT,Renewable Energy,4.84
+1993,SEP,Hydro Electricity,237.451
+1993,SEP,Fuel Oil,1293.892
+1993,SEP,Coal & Lignite,1276.059
+1993,SEP,Natural Gas,2385.936
+1993,SEP,Diesel,143.081
+1993,SEP,Imported,120.092
+1993,SEP,Renewable Energy,4.523
+1994,APR,Hydro Electricity,302.072
+1994,APR,Fuel Oil,1627.016
+1994,APR,Coal & Lignite,1372.251
+1994,APR,Natural Gas,2504.81
+1994,APR,Diesel,87.899
+1994,APR,Imported,42.141
+1994,APR,Renewable Energy,3.7335599999999998
+1994,AUG,Hydro Electricity,374.321
+1994,AUG,Fuel Oil,1542.95
+1994,AUG,Coal & Lignite,1304.278
+1994,AUG,Natural Gas,2712.51
+1994,AUG,Diesel,114.696
+1994,AUG,Imported,116.486
+1994,AUG,Renewable Energy,7.244
+1994,DEC,Hydro Electricity,522.774
+1994,DEC,Fuel Oil,1737.266
+1994,DEC,Coal & Lignite,844.06
+1994,DEC,Natural Gas,2777.9939999999997
+1994,DEC,Diesel,151.859
+1994,DEC,Imported,60.388
+1994,DEC,Renewable Energy,8.66052
+1994,FEB,Hydro Electricity,286.588
+1994,FEB,Fuel Oil,1518.985
+1994,FEB,Coal & Lignite,984.73
+1994,FEB,Natural Gas,2311.103
+1994,FEB,Diesel,141.056
+1994,FEB,Imported,42.804
+1994,FEB,Renewable Energy,1.94904
+1994,JAN,Hydro Electricity,228.668
+1994,JAN,Fuel Oil,1679.718
+1994,JAN,Coal & Lignite,931.351
+1994,JAN,Natural Gas,2399.783
+1994,JAN,Diesel,173.633
+1994,JAN,Imported,47.307
+1994,JAN,Renewable Energy,1.88268
+1994,JUL,Hydro Electricity,204.278
+1994,JUL,Fuel Oil,1576.329
+1994,JUL,Coal & Lignite,1439.127
+1994,JUL,Natural Gas,2712.596
+1994,JUL,Diesel,62.691
+1994,JUL,Imported,103.992
+1994,JUL,Renewable Energy,3.2689999999999997
+1994,JUN,Hydro Electricity,197.665
+1994,JUN,Fuel Oil,1636.891
+1994,JUN,Coal & Lignite,1383.009
+1994,JUN,Natural Gas,2628.598
+1994,JUN,Diesel,155.773
+1994,JUN,Imported,60.647
+1994,JUN,Renewable Energy,1.979
+1994,MAR,Hydro Electricity,330.83
+1994,MAR,Fuel Oil,1504.255
+1994,MAR,Coal & Lignite,1341.485
+1994,MAR,Natural Gas,2770.875
+1994,MAR,Diesel,105.138
+1994,MAR,Imported,47.606
+1994,MAR,Renewable Energy,3.22956
+1994,MAY,Hydro Electricity,298.404
+1994,MAY,Fuel Oil,1782.952
+1994,MAY,Coal & Lignite,1405.696
+1994,MAY,Natural Gas,2550.16
+1994,MAY,Diesel,168.474
+1994,MAY,Imported,50.381
+1994,MAY,Renewable Energy,3.0557
+1994,NOV,Hydro Electricity,625.504
+1994,NOV,Fuel Oil,1759.012
+1994,NOV,Coal & Lignite,845.265
+1994,NOV,Natural Gas,2714.084
+1994,NOV,Diesel,114.664
+1994,NOV,Imported,64.505
+1994,NOV,Renewable Energy,1.77908
+1994,OCT,Hydro Electricity,507.186
+1994,OCT,Fuel Oil,1665.935
+1994,OCT,Coal & Lignite,1051.375
+1994,OCT,Natural Gas,2776.361
+1994,OCT,Diesel,56.494
+1994,OCT,Imported,113.87
+1994,OCT,Renewable Energy,4.71
+1994,SEP,Hydro Electricity,525.312
+1994,SEP,Fuel Oil,1615.872
+1994,SEP,Coal & Lignite,1228.281
+1994,SEP,Natural Gas,2625.924
+1994,SEP,Diesel,52.799
+1994,SEP,Imported,120.688
+1994,SEP,Renewable Energy,9.2714
+1995,APR,Hydro Electricity,597.263
+1995,APR,Fuel Oil,1944.334
+1995,APR,Coal & Lignite,1358.165
+1995,APR,Natural Gas,2643.776
+1995,APR,Diesel,104.32
+1995,APR,Imported,38.78
+1995,APR,Renewable Energy,18.42652
+1995,AUG,Hydro Electricity,507.521
+1995,AUG,Fuel Oil,1461.3
+1995,AUG,Coal & Lignite,1539.6055600000002
+1995,AUG,Natural Gas,3087.4491000000003
+1995,AUG,Diesel,310.037
+1995,AUG,Imported,93.07
+1995,AUG,Renewable Energy,16.476
+1995,DEC,Hydro Electricity,393.406
+1995,DEC,Fuel Oil,1822.287
+1995,DEC,Coal & Lignite,1160.4964
+1995,DEC,Natural Gas,2799.9408000000003
+1995,DEC,Diesel,130.829
+1995,DEC,Imported,55.127
+1995,DEC,Renewable Energy,10.945680000000001
+1995,FEB,Hydro Electricity,544.458
+1995,FEB,Fuel Oil,1720.765
+1995,FEB,Coal & Lignite,874.842
+1995,FEB,Natural Gas,2486.585
+1995,FEB,Diesel,67.868
+1995,FEB,Imported,46.852
+1995,FEB,Renewable Energy,17.5996
+1995,JAN,Hydro Electricity,445.311
+1995,JAN,Fuel Oil,1800.687
+1995,JAN,Coal & Lignite,854.997
+1995,JAN,Natural Gas,2749.659
+1995,JAN,Diesel,107.733
+1995,JAN,Imported,44.81
+1995,JAN,Renewable Energy,10.78802
+1995,JUL,Hydro Electricity,389.964
+1995,JUL,Fuel Oil,1613.707
+1995,JUL,Coal & Lignite,1688.384
+1995,JUL,Natural Gas,2953.92835
+1995,JUL,Diesel,257.503
+1995,JUL,Imported,54.341
+1995,JUL,Renewable Energy,10.2754
+1995,JUN,Hydro Electricity,592.064
+1995,JUN,Fuel Oil,1842.817
+1995,JUN,Coal & Lignite,1590.92
+1995,JUN,Natural Gas,2688.568
+1995,JUN,Diesel,247.148
+1995,JUN,Imported,41.035
+1995,JUN,Renewable Energy,11.752479999999998
+1995,MAR,Hydro Electricity,742.33
+1995,MAR,Fuel Oil,2136.12
+1995,MAR,Coal & Lignite,1246.389
+1995,MAR,Natural Gas,2833.7690000000002
+1995,MAR,Diesel,90.683
+1995,MAR,Imported,40.29
+1995,MAR,Renewable Energy,18.46088
+1995,MAY,Hydro Electricity,611.279
+1995,MAY,Fuel Oil,2101.789
+1995,MAY,Coal & Lignite,1386.826
+1995,MAY,Natural Gas,2777.014
+1995,MAY,Diesel,199.434
+1995,MAY,Imported,39.004
+1995,MAY,Renewable Energy,9.31608
+1995,NOV,Hydro Electricity,593.439
+1995,NOV,Fuel Oil,1805.39
+1995,NOV,Coal & Lignite,1113.30812
+1995,NOV,Natural Gas,2818.1495
+1995,NOV,Diesel,270.311
+1995,NOV,Imported,57.684
+1995,NOV,Renewable Energy,2.2406
+1995,OCT,Hydro Electricity,577.047
+1995,OCT,Fuel Oil,1870.02
+1995,OCT,Coal & Lignite,1087.69932
+1995,OCT,Natural Gas,3065.1877
+1995,OCT,Diesel,238.444
+1995,OCT,Imported,83.298
+1995,OCT,Renewable Energy,5.3995999999999995
+1995,SEP,Hydro Electricity,598.929
+1995,SEP,Fuel Oil,1592.674
+1995,SEP,Coal & Lignite,1263.48024
+1995,SEP,Natural Gas,2959.2358000000004
+1995,SEP,Diesel,236.87
+1995,SEP,Imported,104.83
+1995,SEP,Renewable Energy,11.068200000000001
+1996,APR,Hydro Electricity,688.477
+1996,APR,Fuel Oil,1982.105
+1996,APR,Coal & Lignite,1521.3190000000002
+1996,APR,Natural Gas,2850.2997
+1996,APR,Diesel,210.723
+1996,APR,Imported,33.807
+1996,APR,Renewable Energy,15.96016
+1996,AUG,Hydro Electricity,612.149
+1996,AUG,Fuel Oil,1831.335
+1996,AUG,Coal & Lignite,1756.5018400000001
+1996,AUG,Natural Gas,2963.5681
+1996,AUG,Diesel,430.404
+1996,AUG,Imported,99.189
+1996,AUG,Renewable Energy,21.6085
+1996,DEC,Hydro Electricity,423.955
+1996,DEC,Fuel Oil,1224.276
+1996,DEC,Coal & Lignite,1397.74
+1996,DEC,Natural Gas,3297.60625
+1996,DEC,Diesel,384.421
+1996,DEC,Imported,85.641
+1996,DEC,Renewable Energy,22.09611
+1996,FEB,Hydro Electricity,635.918
+1996,FEB,Fuel Oil,1879.178
+1996,FEB,Coal & Lignite,1211.0552
+1996,FEB,Natural Gas,2504.4673
+1996,FEB,Diesel,135.025
+1996,FEB,Imported,43.774
+1996,FEB,Renewable Energy,19.7541
+1996,JAN,Hydro Electricity,544.692
+1996,JAN,Fuel Oil,1980.691
+1996,JAN,Coal & Lignite,1186.6831200000001
+1996,JAN,Natural Gas,2746.8602
+1996,JAN,Diesel,195.679
+1996,JAN,Imported,40.475
+1996,JAN,Renewable Energy,18.700499999999998
+1996,JUL,Hydro Electricity,505.823
+1996,JUL,Fuel Oil,1648.37
+1996,JUL,Coal & Lignite,1814.84972
+1996,JUL,Natural Gas,3106.6772499999997
+1996,JUL,Diesel,493.731
+1996,JUL,Imported,64.617
+1996,JUL,Renewable Energy,16.57594
+1996,JUN,Hydro Electricity,637.305
+1996,JUN,Fuel Oil,1798.401
+1996,JUN,Coal & Lignite,1599.33032
+1996,JUN,Natural Gas,2871.87545
+1996,JUN,Diesel,443.943
+1996,JUN,Imported,54.63
+1996,JUN,Renewable Energy,17.42016
+1996,MAR,Hydro Electricity,831.624
+1996,MAR,Fuel Oil,2093.849
+1996,MAR,Coal & Lignite,1473.92404
+1996,MAR,Natural Gas,2882.4945000000002
+1996,MAR,Diesel,312.268
+1996,MAR,Imported,35.377
+1996,MAR,Renewable Energy,21.40618
+1996,MAY,Hydro Electricity,641.186
+1996,MAY,Fuel Oil,2066.306
+1996,MAY,Coal & Lignite,1491.27748
+1996,MAY,Natural Gas,3090.87075
+1996,MAY,Diesel,339.987
+1996,MAY,Imported,38.915
+1996,MAY,Renewable Energy,17.1016
+1996,NOV,Hydro Electricity,628.69
+1996,NOV,Fuel Oil,1221.484
+1996,NOV,Coal & Lignite,1402.2995600000002
+1996,NOV,Natural Gas,3457.064
+1996,NOV,Diesel,525.643
+1996,NOV,Imported,81.433
+1996,NOV,Renewable Energy,11.788640000000001
+1996,OCT,Hydro Electricity,492.479
+1996,OCT,Fuel Oil,1524.378
+1996,OCT,Coal & Lignite,1364.7143999999998
+1996,OCT,Natural Gas,3592.59605
+1996,OCT,Diesel,573.924
+1996,OCT,Imported,113.679
+1996,OCT,Renewable Energy,8.707719999999998
+1996,SEP,Hydro Electricity,572.704
+1996,SEP,Fuel Oil,1733.358
+1996,SEP,Coal & Lignite,1360.37736
+1996,SEP,Natural Gas,3068.96465
+1996,SEP,Diesel,526.615
+1996,SEP,Imported,114.069
+1996,SEP,Renewable Energy,16.0012
+1997,APR,Hydro Electricity,645.554
+1997,APR,Fuel Oil,1718.265
+1997,APR,Coal & Lignite,1613.6375899999998
+1997,APR,Natural Gas,3445.04517
+1997,APR,Diesel,161.372
+1997,APR,Imported,43.659
+1997,APR,Renewable Energy,29.67434
+1997,AUG,Hydro Electricity,584.115
+1997,AUG,Fuel Oil,1622.804
+1997,AUG,Coal & Lignite,1703.4431399999999
+1997,AUG,Natural Gas,3895.52004
+1997,AUG,Diesel,112.3
+1997,AUG,Imported,99.792
+1997,AUG,Renewable Energy,22.555948
+1997,DEC,Hydro Electricity,509.26
+1997,DEC,Fuel Oil,1219.868638
+1997,DEC,Coal & Lignite,1408.75482
+1997,DEC,Natural Gas,3926.927282
+1997,DEC,Diesel,184.351
+1997,DEC,Imported,51.865
+1997,DEC,Renewable Energy,26.92126
+1997,FEB,Hydro Electricity,635.524
+1997,FEB,Fuel Oil,1357.856
+1997,FEB,Coal & Lignite,1471.31401
+1997,FEB,Natural Gas,3221.8876800000003
+1997,FEB,Diesel,240.948
+1997,FEB,Imported,40.476
+1997,FEB,Renewable Energy,19.4391
+1997,JAN,Hydro Electricity,505.833
+1997,JAN,Fuel Oil,1412.28
+1997,JAN,Coal & Lignite,1377.1997800000001
+1997,JAN,Natural Gas,3471.69055
+1997,JAN,Diesel,300.422
+1997,JAN,Imported,45.756
+1997,JAN,Renewable Energy,26.20292
+1997,JUL,Hydro Electricity,546.704
+1997,JUL,Fuel Oil,1639.275
+1997,JUL,Coal & Lignite,1875.08213
+1997,JUL,Natural Gas,3916.6618799999997
+1997,JUL,Diesel,124.928
+1997,JUL,Imported,69.28
+1997,JUL,Renewable Energy,15.4923
+1997,JUN,Hydro Electricity,578.613
+1997,JUN,Fuel Oil,1947.64
+1997,JUN,Coal & Lignite,1797.56853
+1997,JUN,Natural Gas,3704.68559
+1997,JUN,Diesel,234.094
+1997,JUN,Imported,42.257
+1997,JUN,Renewable Energy,18.972988
+1997,MAR,Hydro Electricity,770.979
+1997,MAR,Fuel Oil,1826.188
+1997,MAR,Coal & Lignite,1835.7214199999999
+1997,MAR,Natural Gas,3557.35735
+1997,MAR,Diesel,247.633
+1997,MAR,Imported,32.406
+1997,MAR,Renewable Energy,25.5433
+1997,MAY,Hydro Electricity,704.518
+1997,MAY,Fuel Oil,2011.486
+1997,MAY,Coal & Lignite,1641.97898
+1997,MAY,Natural Gas,3788.3847100000003
+1997,MAY,Diesel,325.471
+1997,MAY,Imported,44.016
+1997,MAY,Renewable Energy,29.067140000000002
+1997,NOV,Hydro Electricity,470.883
+1997,NOV,Fuel Oil,1431.752107
+1997,NOV,Coal & Lignite,1368.60144
+1997,NOV,Natural Gas,3921.23666
+1997,NOV,Diesel,72.304
+1997,NOV,Imported,66.286
+1997,NOV,Renewable Energy,11.80202
+1997,OCT,Hydro Electricity,591.512
+1997,OCT,Fuel Oil,1502.576686
+1997,OCT,Coal & Lignite,1511.31932
+1997,OCT,Natural Gas,3925.7518499999996
+1997,OCT,Diesel,195.707
+1997,OCT,Imported,105.172
+1997,OCT,Renewable Energy,15.40175
+1997,SEP,Hydro Electricity,538.505
+1997,SEP,Fuel Oil,1590.9417760000001
+1997,SEP,Coal & Lignite,1421.17333
+1997,SEP,Natural Gas,3798.52487
+1997,SEP,Diesel,241.149
+1997,SEP,Imported,104.663
+1997,SEP,Renewable Energy,17.606991999999998
+1998,APR,Hydro Electricity,675.033
+1998,APR,Fuel Oil,1794.647959
+1998,APR,Coal & Lignite,1519.5329199999999
+1998,APR,Natural Gas,3585.3766000000005
+1998,APR,Diesel,125.444
+1998,APR,Imported,92.214
+1998,APR,Renewable Energy,34.56264
+1998,AUG,Hydro Electricity,361.877
+1998,AUG,Fuel Oil,1224.972062
+1998,AUG,Coal & Lignite,1439.9383
+1998,AUG,Natural Gas,4368.827670000001
+1998,AUG,Diesel,78.895
+1998,AUG,Imported,151.91
+1998,AUG,Renewable Energy,15.26454
+1998,DEC,Hydro Electricity,198.767
+1998,DEC,Fuel Oil,1100.8092319999998
+1998,DEC,Coal & Lignite,1335.05428
+1998,DEC,Natural Gas,4015.036803
+1998,DEC,Diesel,28.927
+1998,DEC,Imported,140.71
+1998,DEC,Renewable Energy,22.618539999999996
+1998,FEB,Hydro Electricity,539.197
+1998,FEB,Fuel Oil,1437.814673
+1998,FEB,Coal & Lignite,1324.38092
+1998,FEB,Natural Gas,3774.1458599999996
+1998,FEB,Diesel,14.355
+1998,FEB,Imported,102.902
+1998,FEB,Renewable Energy,28.482591
+1998,JAN,Hydro Electricity,522.061
+1998,JAN,Fuel Oil,1245.272596
+1998,JAN,Coal & Lignite,1342.81084
+1998,JAN,Natural Gas,3887.49691
+1998,JAN,Diesel,124.323
+1998,JAN,Imported,71.987
+1998,JAN,Renewable Energy,33.191013000000005
+1998,JUL,Hydro Electricity,306.634
+1998,JUL,Fuel Oil,1626.9435400000002
+1998,JUL,Coal & Lignite,1499.2509
+1998,JUL,Natural Gas,4153.318450000001
+1998,JUL,Diesel,17.991
+1998,JUL,Imported,197.53
+1998,JUL,Renewable Energy,11.52208
+1998,JUN,Hydro Electricity,387.07
+1998,JUN,Fuel Oil,1740.5286489999999
+1998,JUN,Coal & Lignite,1541.908
+1998,JUN,Natural Gas,3934.37737
+1998,JUN,Diesel,52.932
+1998,JUN,Imported,181.123
+1998,JUN,Renewable Energy,13.61436
+1998,MAR,Hydro Electricity,726.376
+1998,MAR,Fuel Oil,1682.132124
+1998,MAR,Coal & Lignite,1476.96308
+1998,MAR,Natural Gas,4265.985909999999
+1998,MAR,Diesel,43.817
+1998,MAR,Imported,87.181
+1998,MAR,Renewable Energy,49.21778
+1998,MAY,Hydro Electricity,512.948
+1998,MAY,Fuel Oil,1979.98062
+1998,MAY,Coal & Lignite,1396.89958
+1998,MAY,Natural Gas,4123.09792
+1998,MAY,Diesel,111.806
+1998,MAY,Imported,101.403
+1998,MAY,Renewable Energy,17.73128
+1998,NOV,Hydro Electricity,305.488
+1998,NOV,Fuel Oil,1116.1644959999999
+1998,NOV,Coal & Lignite,1280.1695300000001
+1998,NOV,Natural Gas,4151.08063
+1998,NOV,Diesel,105.26
+1998,NOV,Imported,130.025
+1998,NOV,Renewable Energy,16.77252
+1998,OCT,Hydro Electricity,274.348
+1998,OCT,Fuel Oil,1182.309044
+1998,OCT,Coal & Lignite,1329.01189
+1998,OCT,Natural Gas,4412.85913
+1998,OCT,Diesel,202.537
+1998,OCT,Imported,174.336
+1998,OCT,Renewable Energy,15.303540000000002
+1998,SEP,Hydro Electricity,279.023
+1998,SEP,Fuel Oil,1440.942676
+1998,SEP,Coal & Lignite,1104.55798
+1998,SEP,Natural Gas,4349.52472
+1998,SEP,Diesel,82.686
+1998,SEP,Imported,191.391
+1998,SEP,Renewable Energy,12.81254
+1999,APR,Hydro Electricity,329.101
+1999,APR,Fuel Oil,1289.483023
+1999,APR,Coal & Lignite,1384.330492
+1999,APR,Natural Gas,4509.683387
+1999,APR,Diesel,74.792
+1999,APR,Imported,76.946
+1999,APR,Renewable Energy,42.46691500000001
+1999,AUG,Hydro Electricity,348.832
+1999,AUG,Fuel Oil,1490.158952
+1999,AUG,Coal & Lignite,1394.7023040000001
+1999,AUG,Natural Gas,4457.33482
+1999,AUG,Diesel,35.449
+1999,AUG,Imported,258.48
+1999,AUG,Renewable Energy,29.718094999999998
+1999,DEC,Hydro Electricity,237.063
+1999,DEC,Fuel Oil,601.187368
+1999,DEC,Coal & Lignite,1459.55133
+1999,DEC,Natural Gas,4298.74817
+1999,DEC,Diesel,15.201
+1999,DEC,Imported,250.826
+1999,DEC,Renewable Energy,29.525263
+1999,FEB,Hydro Electricity,311.838
+1999,FEB,Fuel Oil,1003.359664
+1999,FEB,Coal & Lignite,1368.60381
+1999,FEB,Natural Gas,3924.79108
+1999,FEB,Diesel,18.388
+1999,FEB,Imported,63.178
+1999,FEB,Renewable Energy,34.25344
+1999,JAN,Hydro Electricity,249.82
+1999,JAN,Fuel Oil,1106.182976
+1999,JAN,Coal & Lignite,1424.91954
+1999,JAN,Natural Gas,4080.2153129999997
+1999,JAN,Diesel,16.786
+1999,JAN,Imported,102.681
+1999,JAN,Renewable Energy,40.81398
+1999,JUL,Hydro Electricity,279.732
+1999,JUL,Fuel Oil,1582.9702639999998
+1999,JUL,Coal & Lignite,1444.56462
+1999,JUL,Natural Gas,4463.91212
+1999,JUL,Diesel,66.839
+1999,JUL,Imported,241.722
+1999,JUL,Renewable Energy,24.610956
+1999,JUN,Hydro Electricity,217.549
+1999,JUN,Fuel Oil,1578.2306130000002
+1999,JUN,Coal & Lignite,1232.354888
+1999,JUN,Natural Gas,4852.835814
+1999,JUN,Diesel,22.681
+1999,JUN,Imported,199.057
+1999,JUN,Renewable Energy,42.886906
+1999,MAR,Hydro Electricity,435.195
+1999,MAR,Fuel Oil,1472.702304
+1999,MAR,Coal & Lignite,1473.57948
+1999,MAR,Natural Gas,4644.89741
+1999,MAR,Diesel,114.105
+1999,MAR,Imported,61.91
+1999,MAR,Renewable Energy,40.338829999999994
+1999,MAY,Hydro Electricity,185.616
+1999,MAY,Fuel Oil,1634.462573
+1999,MAY,Coal & Lignite,1244.690618
+1999,MAY,Natural Gas,4717.242386
+1999,MAY,Diesel,29.307
+1999,MAY,Imported,177.146
+1999,MAY,Renewable Energy,38.965096
+1999,NOV,Hydro Electricity,275.303
+1999,NOV,Fuel Oil,1051.733568
+1999,NOV,Coal & Lignite,1420.06646
+1999,NOV,Natural Gas,4622.44683
+1999,NOV,Diesel,22.179
+1999,NOV,Imported,262.92
+1999,NOV,Renewable Energy,21.960248999999997
+1999,OCT,Hydro Electricity,242.449
+1999,OCT,Fuel Oil,1253.5922
+1999,OCT,Coal & Lignite,1312.15615
+1999,OCT,Natural Gas,4791.77218
+1999,OCT,Diesel,30.658
+1999,OCT,Imported,283.139
+1999,OCT,Renewable Energy,20.252010999999996
+1999,SEP,Hydro Electricity,297.17
+1999,SEP,Fuel Oil,1408.475024
+1999,SEP,Coal & Lignite,1473.6758399999999
+1999,SEP,Natural Gas,4440.555119000001
+1999,SEP,Diesel,10.944
+1999,SEP,Imported,277.656
+1999,SEP,Renewable Energy,38.357017
+2000,APR,Hydro Electricity,599.123
+2000,APR,Fuel Oil,1229.185624
+2000,APR,Coal & Lignite,1512.62438
+2000,APR,Natural Gas,4420.73473
+2000,APR,Diesel,11.179
+2000,APR,Imported,192.371
+2000,APR,Renewable Energy,44.041526
+2000,AUG,Hydro Electricity,502.494
+2000,AUG,Fuel Oil,676.019456
+2000,AUG,Coal & Lignite,1598.5864900000001
+2000,AUG,Natural Gas,5393.856992
+2000,AUG,Diesel,2.344
+2000,AUG,Imported,320.312
+2000,AUG,Renewable Energy,45.17533
+2000,DEC,Hydro Electricity,484.419
+2000,DEC,Fuel Oil,172.21671999999998
+2000,DEC,Coal & Lignite,1498.03906
+2000,DEC,Natural Gas,5533.24424
+2000,DEC,Diesel,1.864
+2000,DEC,Imported,227.723
+2000,DEC,Renewable Energy,52.87384300000001
+2000,FEB,Hydro Electricity,566.829
+2000,FEB,Fuel Oil,862.626624
+2000,FEB,Coal & Lignite,1241.0346399999999
+2000,FEB,Natural Gas,4526.928351
+2000,FEB,Diesel,3.886
+2000,FEB,Imported,137.867
+2000,FEB,Renewable Energy,54.039902
+2000,JAN,Hydro Electricity,425.261
+2000,JAN,Fuel Oil,1173.403304
+2000,JAN,Coal & Lignite,1146.94567
+2000,JAN,Natural Gas,4648.67078
+2000,JAN,Diesel,3.806
+2000,JAN,Imported,176.639
+2000,JAN,Renewable Energy,40.65116799999999
+2000,JUL,Hydro Electricity,357.477
+2000,JUL,Fuel Oil,828.535264
+2000,JUL,Coal & Lignite,1586.44521
+2000,JUL,Natural Gas,5341.41618
+2000,JUL,Diesel,2.761
+2000,JUL,Imported,301.01
+2000,JUL,Renewable Energy,34.481311
+2000,JUN,Hydro Electricity,371.107
+2000,JUN,Fuel Oil,984.0859919999999
+2000,JUN,Coal & Lignite,1562.10884
+2000,JUN,Natural Gas,5198.32109
+2000,JUN,Diesel,3.41
+2000,JUN,Imported,267.332
+2000,JUN,Renewable Energy,34.794015
+2000,MAR,Hydro Electricity,659.817
+2000,MAR,Fuel Oil,1169.2364799999998
+2000,MAR,Coal & Lignite,1598.30728
+2000,MAR,Natural Gas,4948.285712999999
+2000,MAR,Diesel,4.084
+2000,MAR,Imported,167.361
+2000,MAR,Renewable Energy,58.826983
+2000,MAY,Hydro Electricity,577.702
+2000,MAY,Fuel Oil,996.06488
+2000,MAY,Coal & Lignite,1594.20182
+2000,MAY,Natural Gas,5198.17426
+2000,MAY,Diesel,44.217
+2000,MAY,Imported,294.31
+2000,MAY,Renewable Energy,45.386629000000006
+2000,NOV,Hydro Electricity,485.676
+2000,NOV,Fuel Oil,244.63778399999998
+2000,NOV,Coal & Lignite,1622.9771700000001
+2000,NOV,Natural Gas,5172.799870000001
+2000,NOV,Diesel,13.264
+2000,NOV,Imported,246.174
+2000,NOV,Renewable Energy,34.1656
+2000,OCT,Hydro Electricity,380.136
+2000,OCT,Fuel Oil,635.349776
+2000,OCT,Coal & Lignite,1672.9763699999999
+2000,OCT,Natural Gas,5474.5543099999995
+2000,OCT,Diesel,5.072
+2000,OCT,Imported,298.645
+2000,OCT,Renewable Energy,28.529666
+2000,SEP,Hydro Electricity,481.403
+2000,SEP,Fuel Oil,672.183048
+2000,SEP,Coal & Lignite,1563.09176
+2000,SEP,Natural Gas,5237.57235
+2000,SEP,Diesel,12.061
+2000,SEP,Imported,336.509
+2000,SEP,Renewable Energy,21.804566
+2001,APR,Hydro Electricity,685.136
+2001,APR,Fuel Oil,289.010096
+2001,APR,Coal & Lignite,1648.12921
+2001,APR,Natural Gas,6151.694310000001
+2001,APR,Diesel,7.561
+2001,APR,Imported,138.515
+2001,APR,Renewable Energy,61.677974000000006
+2001,AUG,Hydro Electricity,519.548
+2001,AUG,Fuel Oil,119.172648
+2001,AUG,Coal & Lignite,1869.14779
+2001,AUG,Natural Gas,6115.26375
+2001,AUG,Diesel,78.048
+2001,AUG,Imported,316.532
+2001,AUG,Renewable Energy,39.782731
+2001,DEC,Hydro Electricity,457.741
+2001,DEC,Fuel Oil,130.030904
+2001,DEC,Coal & Lignite,1803.4025
+2001,DEC,Natural Gas,5383.93116
+2001,DEC,Diesel,61.463
+2001,DEC,Imported,213.273
+2001,DEC,Renewable Energy,47.55922700000001
+2001,FEB,Hydro Electricity,643.156
+2001,FEB,Fuel Oil,238.92909600000002
+2001,FEB,Coal & Lignite,1474.23906
+2001,FEB,Natural Gas,5342.99356
+2001,FEB,Diesel,2.787
+2001,FEB,Imported,158.355
+2001,FEB,Renewable Energy,66.61883799999998
+2001,JAN,Hydro Electricity,544.013
+2001,JAN,Fuel Oil,160.778392
+2001,JAN,Coal & Lignite,1578.41643
+2001,JAN,Natural Gas,5560.4985
+2001,JAN,Diesel,4.154
+2001,JAN,Imported,206.111
+2001,JAN,Renewable Energy,71.602523
+2001,JUL,Hydro Electricity,434.982
+2001,JUL,Fuel Oil,164.992648
+2001,JUL,Coal & Lignite,1670.7955
+2001,JUL,Natural Gas,6363.87015
+2001,JUL,Diesel,18.952
+2001,JUL,Imported,318.688
+2001,JUL,Renewable Energy,41.075559000000005
+2001,JUN,Hydro Electricity,313.569
+2001,JUN,Fuel Oil,267.272608
+2001,JUN,Coal & Lignite,1703.35327
+2001,JUN,Natural Gas,6285.1374
+2001,JUN,Diesel,4.822
+2001,JUN,Imported,279.938
+2001,JUN,Renewable Energy,43.437146999999996
+2001,MAR,Hydro Electricity,623.353
+2001,MAR,Fuel Oil,285.34228
+2001,MAR,Coal & Lignite,1701.18442
+2001,MAR,Natural Gas,6064.242045
+2001,MAR,Diesel,7.552
+2001,MAR,Imported,171.131
+2001,MAR,Renewable Energy,74.55174
+2001,MAY,Hydro Electricity,483.325
+2001,MAY,Fuel Oil,255.992128
+2001,MAY,Coal & Lignite,1757.96446
+2001,MAY,Natural Gas,6333.50064
+2001,MAY,Diesel,6.923
+2001,MAY,Imported,205.79
+2001,MAY,Renewable Energy,46.557671
+2001,NOV,Hydro Electricity,351.103
+2001,NOV,Fuel Oil,129.979304
+2001,NOV,Coal & Lignite,1750.7018
+2001,NOV,Natural Gas,5505.066720000001
+2001,NOV,Diesel,50.212
+2001,NOV,Imported,257.962
+2001,NOV,Renewable Energy,27.288149999999998
+2001,OCT,Hydro Electricity,405.177
+2001,OCT,Fuel Oil,183.513832
+2001,OCT,Coal & Lignite,1656.8323500000001
+2001,OCT,Natural Gas,6267.65499
+2001,OCT,Diesel,2.125
+2001,OCT,Imported,302.729
+2001,OCT,Renewable Energy,28.525145999999996
+2001,SEP,Hydro Electricity,713.242
+2001,SEP,Fuel Oil,231.494584
+2001,SEP,Coal & Lignite,1681.8623200000002
+2001,SEP,Natural Gas,5854.92609
+2001,SEP,Diesel,3.464
+2001,SEP,Imported,312.69
+2001,SEP,Renewable Energy,35.863613
+2002,APR,Hydro Electricity,718.75
+2002,APR,Fuel Oil,250.780328
+2002,APR,Coal & Lignite,1772.4956300000001
+2002,APR,Natural Gas,6399.17806
+2002,APR,Diesel,3.39
+2002,APR,Imported,163.458
+2002,APR,Renewable Energy,70.30477400000001
+2002,AUG,Hydro Electricity,551.233
+2002,AUG,Fuel Oil,160.446584
+2002,AUG,Coal & Lignite,1499.10156
+2002,AUG,Natural Gas,6982.194390000001
+2002,AUG,Diesel,46.727
+2002,AUG,Imported,313.36
+2002,AUG,Renewable Energy,46.471705
+2002,DEC,Hydro Electricity,641.938
+2002,DEC,Fuel Oil,119.20912
+2002,DEC,Coal & Lignite,1669.806628
+2002,DEC,Natural Gas,6417.44485
+2002,DEC,Diesel,2.252
+2002,DEC,Imported,223.118
+2002,DEC,Renewable Energy,78.61802300000002
+2002,FEB,Hydro Electricity,588.929
+2002,FEB,Fuel Oil,138.011848
+2002,FEB,Coal & Lignite,1552.04965
+2002,FEB,Natural Gas,5683.19541
+2002,FEB,Diesel,8.296
+2002,FEB,Imported,149.192
+2002,FEB,Renewable Energy,68.27740800000001
+2002,JAN,Hydro Electricity,512.577
+2002,JAN,Fuel Oil,168.271544
+2002,JAN,Coal & Lignite,1623.39279
+2002,JAN,Natural Gas,5689.22297
+2002,JAN,Diesel,8.204
+2002,JAN,Imported,190.302
+2002,JAN,Renewable Energy,71.80292399999999
+2002,JUL,Hydro Electricity,483.933
+2002,JUL,Fuel Oil,141.29256
+2002,JUL,Coal & Lignite,1406.55346
+2002,JUL,Natural Gas,7340.671179999999
+2002,JUL,Diesel,23.763
+2002,JUL,Imported,301.329
+2002,JUL,Renewable Energy,54.45689
+2002,JUN,Hydro Electricity,413.523
+2002,JUN,Fuel Oil,163.845232
+2002,JUN,Coal & Lignite,1414.12534
+2002,JUN,Natural Gas,7156.95644
+2002,JUN,Diesel,4.988
+2002,JUN,Imported,271.794
+2002,JUN,Renewable Energy,58.922458999999996
+2002,MAR,Hydro Electricity,797.977
+2002,MAR,Fuel Oil,218.26056
+2002,MAR,Coal & Lignite,1775.3105500000001
+2002,MAR,Natural Gas,6674.43073
+2002,MAR,Diesel,5.007
+2002,MAR,Imported,146.5
+2002,MAR,Renewable Energy,69.62711300000001
+2002,MAY,Hydro Electricity,602.437
+2002,MAY,Fuel Oil,186.544644
+2002,MAY,Coal & Lignite,1536.4265699999999
+2002,MAY,Natural Gas,7023.3837300000005
+2002,MAY,Diesel,15.528
+2002,MAY,Imported,221.697
+2002,MAY,Renewable Energy,68.65338700000001
+2002,NOV,Hydro Electricity,788.591
+2002,NOV,Fuel Oil,113.487048
+2002,NOV,Coal & Lignite,1694.58788
+2002,NOV,Natural Gas,6290.70407
+2002,NOV,Diesel,1.809
+2002,NOV,Imported,241.297
+2002,NOV,Renewable Energy,49.463449000000004
+2002,OCT,Hydro Electricity,669.569
+2002,OCT,Fuel Oil,155.426904
+2002,OCT,Coal & Lignite,1665.9632000000001
+2002,OCT,Natural Gas,6734.45434
+2002,OCT,Diesel,3.094
+2002,OCT,Imported,300.716
+2002,OCT,Renewable Energy,45.319131
+2002,SEP,Hydro Electricity,597.483
+2002,SEP,Fuel Oil,191.170232
+2002,SEP,Coal & Lignite,1681.69258
+2002,SEP,Natural Gas,6518.4051500000005
+2002,SEP,Diesel,27.925
+2002,SEP,Imported,289.412
+2002,SEP,Renewable Energy,33.1233
+2003,APR,Hydro Electricity,734.497
+2003,APR,Fuel Oil,176.409984
+2003,APR,Coal & Lignite,1613.403413
+2003,APR,Natural Gas,7204.7557
+2003,APR,Diesel,4.322
+2003,APR,Imported,114.733
+2003,APR,Renewable Energy,114.981309
+2003,AUG,Hydro Electricity,471.435
+2003,AUG,Fuel Oil,238.507312
+2003,AUG,Coal & Lignite,1492.685173
+2003,AUG,Natural Gas,7706.70627
+2003,AUG,Diesel,7.588
+2003,AUG,Imported,259.511
+2003,AUG,Renewable Energy,87.157688
+2003,DEC,Hydro Electricity,565.359
+2003,DEC,Fuel Oil,206.752488
+2003,DEC,Coal & Lignite,1697.005164
+2003,DEC,Natural Gas,6575.68065
+2003,DEC,Diesel,6.575
+2003,DEC,Imported,181.648
+2003,DEC,Renewable Energy,121.413302
+2003,FEB,Hydro Electricity,696.466
+2003,FEB,Fuel Oil,141.805728
+2003,FEB,Coal & Lignite,1689.866336
+2003,FEB,Natural Gas,6048.95529
+2003,FEB,Diesel,1.519
+2003,FEB,Imported,140.375
+2003,FEB,Renewable Energy,100.927502
+2003,JAN,Hydro Electricity,687.911
+2003,JAN,Fuel Oil,111.114048
+2003,JAN,Coal & Lignite,1761.1487840000002
+2003,JAN,Natural Gas,6115.80199
+2003,JAN,Diesel,2.984
+2003,JAN,Imported,189.802
+2003,JAN,Renewable Energy,109.11495400000001
+2003,JUL,Hydro Electricity,454.966
+2003,JUL,Fuel Oil,136.755232
+2003,JUL,Coal & Lignite,1628.010973
+2003,JUL,Natural Gas,7497.97172
+2003,JUL,Diesel,2.783
+2003,JUL,Imported,237.112
+2003,JUL,Renewable Energy,94.81314300000001
+2003,JUN,Hydro Electricity,624.997
+2003,JUN,Fuel Oil,163.463416
+2003,JUN,Coal & Lignite,1705.8301860000001
+2003,JUN,Natural Gas,7181.360409999999
+2003,JUN,Diesel,3.017
+2003,JUN,Imported,223.706
+2003,JUN,Renewable Energy,109.15379899999999
+2003,MAR,Hydro Electricity,801.516
+2003,MAR,Fuel Oil,141.61828
+2003,MAR,Coal & Lignite,1705.042726
+2003,MAR,Natural Gas,7309.72838
+2003,MAR,Diesel,3
+2003,MAR,Imported,146.974
+2003,MAR,Renewable Energy,107.232232
+2003,MAY,Hydro Electricity,815.871
+2003,MAY,Fuel Oil,293.332272
+2003,MAY,Coal & Lignite,1565.8849400000001
+2003,MAY,Natural Gas,7574.8250499999995
+2003,MAY,Diesel,4.752
+2003,MAY,Imported,174.739
+2003,MAY,Renewable Energy,110.6692
+2003,NOV,Hydro Electricity,612.745
+2003,NOV,Fuel Oil,232.25508
+2003,NOV,Coal & Lignite,1568.637608
+2003,NOV,Natural Gas,7254.98481
+2003,NOV,Diesel,19.722
+2003,NOV,Imported,221.68
+2003,NOV,Renewable Energy,75.11657600000001
+2003,OCT,Hydro Electricity,388.326
+2003,OCT,Fuel Oil,271.64884
+2003,OCT,Coal & Lignite,1406.871743
+2003,OCT,Natural Gas,7817.93321
+2003,OCT,Diesel,10.983
+2003,OCT,Imported,298.834
+2003,OCT,Renewable Energy,71.84444700000002
+2003,SEP,Hydro Electricity,353.666
+2003,SEP,Fuel Oil,357.86832
+2003,SEP,Coal & Lignite,1466.9928579999998
+2003,SEP,Natural Gas,7399.123030000001
+2003,SEP,Diesel,8.051
+2003,SEP,Imported,284.298
+2003,SEP,Renewable Energy,91.81716
+2004,APR,Hydro Electricity,620.529
+2004,APR,Fuel Oil,527.045256
+2004,APR,Coal & Lignite,1582.52317
+2004,APR,Natural Gas,7591.44379
+2004,APR,Diesel,16.151
+2004,APR,Imported,310.092
+2004,APR,Renewable Energy,128.846673
+2004,AUG,Hydro Electricity,374.244
+2004,AUG,Fuel Oil,430.331952
+2004,AUG,Coal & Lignite,1665.432596
+2004,AUG,Natural Gas,7971.603800000001
+2004,AUG,Diesel,2.526
+2004,AUG,Imported,382.178
+2004,AUG,Renewable Energy,96.65086500000001
+2004,DEC,Hydro Electricity,501.336
+2004,DEC,Fuel Oil,234.49567
+2004,DEC,Coal & Lignite,1782.067256
+2004,DEC,Natural Gas,6935.434831
+2004,DEC,Diesel,3.356
+2004,DEC,Imported,254.498
+2004,DEC,Renewable Energy,201.367619
+2004,FEB,Hydro Electricity,579.454
+2004,FEB,Fuel Oil,336.377596
+2004,FEB,Coal & Lignite,1634.0183379999999
+2004,FEB,Natural Gas,6580.0525800000005
+2004,FEB,Diesel,142.936
+2004,FEB,Imported,182.149
+2004,FEB,Renewable Energy,131.040818
+2004,JAN,Hydro Electricity,566.563
+2004,JAN,Fuel Oil,367.85301599999997
+2004,JAN,Coal & Lignite,1796.957242
+2004,JAN,Natural Gas,6535.61385
+2004,JAN,Diesel,37.412
+2004,JAN,Imported,151.658
+2004,JAN,Renewable Energy,130.13743599999998
+2004,JUL,Hydro Electricity,417.505
+2004,JUL,Fuel Oil,633.089916
+2004,JUL,Coal & Lignite,1623.903352
+2004,JUL,Natural Gas,7967.66697
+2004,JUL,Diesel,2.477
+2004,JUL,Imported,361.387
+2004,JUL,Renewable Energy,101.619412
+2004,JUN,Hydro Electricity,286.088
+2004,JUN,Fuel Oil,528.973436
+2004,JUN,Coal & Lignite,1866.466993
+2004,JUN,Natural Gas,7569.8802
+2004,JUN,Diesel,1.121
+2004,JUN,Imported,282.325
+2004,JUN,Renewable Energy,113.59117
+2004,MAR,Hydro Electricity,704.088
+2004,MAR,Fuel Oil,683.9217600000001
+2004,MAR,Coal & Lignite,1576.762162
+2004,MAR,Natural Gas,7953.72999
+2004,MAR,Diesel,12.128
+2004,MAR,Imported,148.301
+2004,MAR,Renewable Energy,122.709382
+2004,MAY,Hydro Electricity,400.861
+2004,MAY,Fuel Oil,742.651444
+2004,MAY,Coal & Lignite,1870.3044180000002
+2004,MAY,Natural Gas,7815.15899
+2004,MAY,Diesel,7.809
+2004,MAY,Imported,216.585
+2004,MAY,Renewable Energy,123.00896399999999
+2004,NOV,Hydro Electricity,611.65
+2004,NOV,Fuel Oil,341.28679
+2004,NOV,Coal & Lignite,1615.87807
+2004,NOV,Natural Gas,7627.171938
+2004,NOV,Diesel,2.384
+2004,NOV,Imported,352.356
+2004,NOV,Renewable Energy,202.233476
+2004,OCT,Hydro Electricity,434.266
+2004,OCT,Fuel Oil,454.68467
+2004,OCT,Coal & Lignite,1653.597694
+2004,OCT,Natural Gas,7923.651878000001
+2004,OCT,Diesel,0.969
+2004,OCT,Imported,373.341
+2004,OCT,Renewable Energy,218.019975
+2004,SEP,Hydro Electricity,399.71
+2004,SEP,Fuel Oil,349.13602000000003
+2004,SEP,Coal & Lignite,1736.567777
+2004,SEP,Natural Gas,7817.64226
+2004,SEP,Diesel,3.68
+2004,SEP,Imported,362.984
+2004,SEP,Renewable Energy,110.516579
+2005,APR,Hydro Electricity,558.81
+2005,APR,Fuel Oil,861.586826
+2005,APR,Coal & Lignite,1706.6002720000001
+2005,APR,Natural Gas,7676.46322
+2005,APR,Diesel,42.594
+2005,APR,Imported,311.016
+2005,APR,Renewable Energy,144.1061
+2005,AUG,Hydro Electricity,272.309
+2005,AUG,Fuel Oil,634.0121320000001
+2005,AUG,Coal & Lignite,1733.893719
+2005,AUG,Natural Gas,8202.29487
+2005,AUG,Diesel,3.582
+2005,AUG,Imported,489.889
+2005,AUG,Renewable Energy,134.493809
+2005,DEC,Hydro Electricity,538.147
+2005,DEC,Fuel Oil,365.029426
+2005,DEC,Coal & Lignite,1768.3649540000001
+2005,DEC,Natural Gas,7119.365768000001
+2005,DEC,Diesel,1.855
+2005,DEC,Imported,400.927
+2005,DEC,Renewable Energy,140.34714099999997
+2005,FEB,Hydro Electricity,634.716
+2005,FEB,Fuel Oil,586.170892
+2005,FEB,Coal & Lignite,1405.497212
+2005,FEB,Natural Gas,7351.06654
+2005,FEB,Diesel,26.311
+2005,FEB,Imported,193.955
+2005,FEB,Renewable Energy,163.708583
+2005,JAN,Hydro Electricity,574.425
+2005,JAN,Fuel Oil,245.91872
+2005,JAN,Coal & Lignite,1649.300951
+2005,JAN,Natural Gas,7271.004517
+2005,JAN,Diesel,11.083
+2005,JAN,Imported,234.066
+2005,JAN,Renewable Energy,241.69109
+2005,JUL,Hydro Electricity,338.344
+2005,JUL,Fuel Oil,625.5318579999999
+2005,JUL,Coal & Lignite,1833.89824
+2005,JUL,Natural Gas,8047.26175
+2005,JUL,Diesel,2.193
+2005,JUL,Imported,434.848
+2005,JUL,Renewable Energy,137.538541
+2005,JUN,Hydro Electricity,427.05
+2005,JUN,Fuel Oil,683.6966080000001
+2005,JUN,Coal & Lignite,1859.7931059999999
+2005,JUN,Natural Gas,8117.14056
+2005,JUN,Diesel,5.147
+2005,JUN,Imported,409.149
+2005,JUN,Renewable Energy,135.254778
+2005,MAR,Hydro Electricity,635.748
+2005,MAR,Fuel Oil,732.409608
+2005,MAR,Coal & Lignite,1798.1876109999998
+2005,MAR,Natural Gas,8215.16984
+2005,MAR,Diesel,9.492
+2005,MAR,Imported,304.439
+2005,MAR,Renewable Energy,177.87104
+2005,MAY,Hydro Electricity,571.589
+2005,MAY,Fuel Oil,836.67379
+2005,MAY,Coal & Lignite,1766.7995879999999
+2005,MAY,Natural Gas,8709.35498
+2005,MAY,Diesel,36.85
+2005,MAY,Imported,282.501
+2005,MAY,Renewable Energy,149.713409
+2005,NOV,Hydro Electricity,452.166
+2005,NOV,Fuel Oil,383.11465
+2005,NOV,Coal & Lignite,1777.964455
+2005,NOV,Natural Gas,7866.012181
+2005,NOV,Diesel,1.796
+2005,NOV,Imported,440.681
+2005,NOV,Renewable Energy,102.07844200000001
+2005,OCT,Hydro Electricity,382.632
+2005,OCT,Fuel Oil,932.578756
+2005,OCT,Coal & Lignite,1708.584104
+2005,OCT,Natural Gas,8025.5183
+2005,OCT,Diesel,5.493
+2005,OCT,Imported,376.636
+2005,OCT,Renewable Energy,114.420277
+2005,SEP,Hydro Electricity,285.245
+2005,SEP,Fuel Oil,844.3174660000001
+2005,SEP,Coal & Lignite,1605.4204419999999
+2005,SEP,Natural Gas,7866.96994
+2005,SEP,Diesel,30.452
+2005,SEP,Imported,493.778
+2005,SEP,Renewable Energy,124.006097
+2006,APR,Hydro Electricity,661.971
+2006,APR,Fuel Oil,810.60293
+2006,APR,Coal & Lignite,1731.951195
+2006,APR,Natural Gas,7827.542709
+2006,APR,Diesel,9.975
+2006,APR,Imported,409.014
+2006,APR,Renewable Energy,176.41174600000002
+2006,AUG,Hydro Electricity,667.715
+2006,AUG,Fuel Oil,593.414238
+2006,AUG,Coal & Lignite,2209.809809
+2006,AUG,Natural Gas,8067.034485
+2006,AUG,Diesel,2.428
+2006,AUG,Imported,511.427
+2006,AUG,Renewable Energy,181.35724899999997
+2006,DEC,Hydro Electricity,742.666
+2006,DEC,Fuel Oil,101.517834
+2006,DEC,Coal & Lignite,2334.294623
+2006,DEC,Natural Gas,7351.116343
+2006,DEC,Diesel,0.991
+2006,DEC,Imported,390.292
+2006,DEC,Renewable Energy,182.77150500000002
+2006,FEB,Hydro Electricity,683.335
+2006,FEB,Fuel Oil,1271.690062
+2006,FEB,Coal & Lignite,1458.10025
+2006,FEB,Natural Gas,6813.991013000001
+2006,FEB,Diesel,10.863
+2006,FEB,Imported,366.694
+2006,FEB,Renewable Energy,164.069844
+2006,JAN,Hydro Electricity,629.125
+2006,JAN,Fuel Oil,540.717864
+2006,JAN,Coal & Lignite,1681.4418699999999
+2006,JAN,Natural Gas,7335.652969999999
+2006,JAN,Diesel,3.396
+2006,JAN,Imported,377.456
+2006,JAN,Renewable Energy,189.00935400000003
+2006,JUL,Hydro Electricity,541.743
+2006,JUL,Fuel Oil,973.595306
+2006,JUL,Coal & Lignite,2010.547929
+2006,JUL,Natural Gas,8084.406616
+2006,JUL,Diesel,1.056
+2006,JUL,Imported,496.196
+2006,JUL,Renewable Energy,164.96801100000002
+2006,JUN,Hydro Electricity,516.006
+2006,JUN,Fuel Oil,1122.24898
+2006,JUN,Coal & Lignite,1998.356454
+2006,JUN,Natural Gas,7985.80043
+2006,JUN,Diesel,2.356
+2006,JUN,Imported,437.643
+2006,JUN,Renewable Energy,118.25778700000001
+2006,MAR,Hydro Electricity,756.242
+2006,MAR,Fuel Oil,1018.207718
+2006,MAR,Coal & Lignite,1676.3664290000002
+2006,MAR,Natural Gas,8573.072352000001
+2006,MAR,Diesel,37.429
+2006,MAR,Imported,449.858
+2006,MAR,Renewable Energy,208.863571
+2006,MAY,Hydro Electricity,535.934
+2006,MAY,Fuel Oil,860.924422
+2006,MAY,Coal & Lignite,2043.8933889999998
+2006,MAY,Natural Gas,8544.187163999999
+2006,MAY,Diesel,3.298
+2006,MAY,Imported,294.487
+2006,MAY,Renewable Energy,153.68519899999998
+2006,NOV,Hydro Electricity,663.127
+2006,NOV,Fuel Oil,120.41685199999999
+2006,NOV,Coal & Lignite,2503.036292
+2006,NOV,Natural Gas,8023.881754
+2006,NOV,Diesel,0.704
+2006,NOV,Imported,478.716
+2006,NOV,Renewable Energy,135.418914
+2006,OCT,Hydro Electricity,846.2
+2006,OCT,Fuel Oil,136.19386
+2006,OCT,Coal & Lignite,2476.186634
+2006,OCT,Natural Gas,7954.942198
+2006,OCT,Diesel,0.609
+2006,OCT,Imported,434.085
+2006,OCT,Renewable Energy,160.40149699999998
+2006,SEP,Hydro Electricity,705.986
+2006,SEP,Fuel Oil,287.25912999999997
+2006,SEP,Coal & Lignite,2344.394678
+2006,SEP,Natural Gas,7876.828326
+2006,SEP,Diesel,3.817
+2006,SEP,Imported,505.986
+2006,SEP,Renewable Energy,160.90302200000002
+2007,APR,Hydro Electricity,732.705
+2007,APR,Fuel Oil,295.126874
+2007,APR,Coal & Lignite,2587.084794
+2007,APR,Natural Gas,8001.947276999999
+2007,APR,Diesel,4.933
+2007,APR,Imported,365.275
+2007,APR,Renewable Energy,227.41789699999998
+2007,AUG,Hydro Electricity,644.381
+2007,AUG,Fuel Oil,429.558496
+2007,AUG,Coal & Lignite,2579.858436
+2007,AUG,Natural Gas,8554.81963
+2007,AUG,Diesel,2.448
+2007,AUG,Imported,335.659
+2007,AUG,Renewable Energy,187.841126
+2007,DEC,Hydro Electricity,761.182
+2007,DEC,Fuel Oil,452.785
+2007,DEC,Coal & Lignite,2238.168654
+2007,DEC,Natural Gas,7794.6782220000005
+2007,DEC,Diesel,3.236
+2007,DEC,Imported,418.368
+2007,DEC,Renewable Energy,198.480324
+2007,FEB,Hydro Electricity,777.031
+2007,FEB,Fuel Oil,107.039714
+2007,FEB,Coal & Lignite,2481.475121
+2007,FEB,Natural Gas,7042.4461790000005
+2007,FEB,Diesel,1.916
+2007,FEB,Imported,278.82
+2007,FEB,Renewable Energy,214.568313
+2007,JAN,Hydro Electricity,754.107
+2007,JAN,Fuel Oil,19.919431999999997
+2007,JAN,Coal & Lignite,2587.882068
+2007,JAN,Natural Gas,7315.043858
+2007,JAN,Diesel,2.131
+2007,JAN,Imported,335.497
+2007,JAN,Renewable Energy,244.763252
+2007,JUL,Hydro Electricity,705.674
+2007,JUL,Fuel Oil,33.193488
+2007,JUL,Coal & Lignite,2759.544358
+2007,JUL,Natural Gas,8457.310532
+2007,JUL,Diesel,2.816
+2007,JUL,Imported,422.916
+2007,JUL,Renewable Energy,195.51755699999998
+2007,JUN,Hydro Electricity,677.785
+2007,JUN,Fuel Oil,278.15542
+2007,JUN,Coal & Lignite,2656.6271500000003
+2007,JUN,Natural Gas,8621.458083000001
+2007,JUN,Diesel,2.519
+2007,JUN,Imported,333.761
+2007,JUN,Renewable Energy,197.365766
+2007,MAR,Hydro Electricity,844.966
+2007,MAR,Fuel Oil,268.15283999999997
+2007,MAR,Coal & Lignite,2679.405536
+2007,MAR,Natural Gas,8829.521519
+2007,MAR,Diesel,1.26
+2007,MAR,Imported,386.005
+2007,MAR,Renewable Energy,252.884214
+2007,MAY,Hydro Electricity,540.524
+2007,MAY,Fuel Oil,207.888302
+2007,MAY,Coal & Lignite,2613.367628
+2007,MAY,Natural Gas,8681.213512
+2007,MAY,Diesel,1.964
+2007,MAY,Imported,400.039
+2007,MAY,Renewable Energy,217.564908
+2007,NOV,Hydro Electricity,552.933
+2007,NOV,Fuel Oil,221.468
+2007,NOV,Coal & Lignite,2368.203997
+2007,NOV,Natural Gas,7847.089784
+2007,NOV,Diesel,1.813
+2007,NOV,Imported,435.945
+2007,NOV,Renewable Energy,151.361909
+2007,OCT,Hydro Electricity,439.721
+2007,OCT,Fuel Oil,437.098952
+2007,OCT,Coal & Lignite,2644.250846
+2007,OCT,Natural Gas,8278.434966
+2007,OCT,Diesel,2.116
+2007,OCT,Imported,502.59
+2007,OCT,Renewable Energy,175.084006
+2007,SEP,Hydro Electricity,530.348
+2007,SEP,Fuel Oil,238.25959799999998
+2007,SEP,Coal & Lignite,2685.243759
+2007,SEP,Natural Gas,8819.507071
+2007,SEP,Diesel,1.086
+2007,SEP,Imported,273.483
+2007,SEP,Renewable Energy,171.86246599999998
+2008,APR,Hydro Electricity,824.427
+2008,APR,Fuel Oil,344.63064
+2008,APR,Coal & Lignite,2780.01118
+2008,APR,Natural Gas,8181.950588
+2008,APR,Diesel,5.975
+2008,APR,Imported,260.317
+2008,APR,Renewable Energy,194.647495
+2008,AUG,Hydro Electricity,436.718
+2008,AUG,Fuel Oil,4.541592
+2008,AUG,Coal & Lignite,2514.746148
+2008,AUG,Natural Gas,9641.281555
+2008,AUG,Diesel,1.292
+2008,AUG,Imported,271.387
+2008,AUG,Renewable Energy,168.79037100000002
+2008,DEC,Hydro Electricity,626.112
+2008,DEC,Fuel Oil,2.701504
+2008,DEC,Coal & Lignite,2261.605686
+2008,DEC,Natural Gas,7341.047469000001
+2008,DEC,Diesel,1.372
+2008,DEC,Imported,138.023
+2008,DEC,Renewable Energy,167.884186
+2008,FEB,Hydro Electricity,714.014
+2008,FEB,Fuel Oil,95.989
+2008,FEB,Coal & Lignite,2533.468385
+2008,FEB,Natural Gas,7817.421619000001
+2008,FEB,Diesel,1.321
+2008,FEB,Imported,170.173
+2008,FEB,Renewable Energy,198.566456
+2008,JAN,Hydro Electricity,739.385
+2008,JAN,Fuel Oil,2.54
+2008,JAN,Coal & Lignite,2623.58396
+2008,JAN,Natural Gas,7950.281067
+2008,JAN,Diesel,2.057
+2008,JAN,Imported,342.253
+2008,JAN,Renewable Energy,221.005796
+2008,JUL,Hydro Electricity,520.522
+2008,JUL,Fuel Oil,4.147704
+2008,JUL,Coal & Lignite,2498.4287830000003
+2008,JUL,Natural Gas,9590.386107
+2008,JUL,Diesel,1.424
+2008,JUL,Imported,275.81
+2008,JUL,Renewable Energy,179.783562
+2008,JUN,Hydro Electricity,530.028
+2008,JUN,Fuel Oil,4.284
+2008,JUN,Coal & Lignite,2603.5719849999996
+2008,JUN,Natural Gas,9243.194406999999
+2008,JUN,Diesel,1.817
+2008,JUN,Imported,227.364
+2008,JUN,Renewable Energy,174.376207
+2008,MAR,Hydro Electricity,823.863
+2008,MAR,Fuel Oil,449.244
+2008,MAR,Coal & Lignite,2698.223838
+2008,MAR,Natural Gas,8954.575709
+2008,MAR,Diesel,2.636
+2008,MAR,Imported,152.479
+2008,MAR,Renewable Energy,206.740812
+2008,MAY,Hydro Electricity,542.474
+2008,MAY,Fuel Oil,95.725528
+2008,MAY,Coal & Lignite,2730.874569
+2008,MAY,Natural Gas,9342.356518999999
+2008,MAY,Diesel,1.014
+2008,MAY,Imported,167.29
+2008,MAY,Renewable Energy,178.14339399999997
+2008,NOV,Hydro Electricity,428.336
+2008,NOV,Fuel Oil,2.917098
+2008,NOV,Coal & Lignite,2417.589355
+2008,NOV,Natural Gas,8194.622183
+2008,NOV,Diesel,1.295
+2008,NOV,Imported,183.027
+2008,NOV,Renewable Energy,119.857027
+2008,OCT,Hydro Electricity,376.447
+2008,OCT,Fuel Oil,3.836828
+2008,OCT,Coal & Lignite,2593.7889189999996
+2008,OCT,Natural Gas,9301.842434
+2008,OCT,Diesel,1.28
+2008,OCT,Imported,268.448
+2008,OCT,Renewable Energy,171.966192
+2008,SEP,Hydro Electricity,388.364
+2008,SEP,Fuel Oil,6.248872
+2008,SEP,Coal & Lignite,2581.7470940000003
+2008,SEP,Natural Gas,8898.961308
+2008,SEP,Diesel,1.799
+2008,SEP,Imported,327.002
+2008,SEP,Renewable Energy,169.25996899999998
+2009,APR,Hydro Electricity,718.984
+2009,APR,Fuel Oil,2.489016
+2009,APR,Coal & Lignite,2579.322352
+2009,APR,Natural Gas,8579.835954
+2009,APR,Diesel,8.242
+2009,APR,Imported,108.284
+2009,APR,Renewable Energy,168.052438
+2009,AUG,Hydro Electricity,584.436
+2009,AUG,Fuel Oil,152.47227600000002
+2009,AUG,Coal & Lignite,2547.782291
+2009,AUG,Natural Gas,9417.869056
+2009,AUG,Diesel,0.434
+2009,AUG,Imported,275.083
+2009,AUG,Renewable Energy,179.613221
+2009,DEC,Hydro Electricity,732.772
+2009,DEC,Fuel Oil,41.541830000000004
+2009,DEC,Coal & Lignite,2194.869037
+2009,DEC,Natural Gas,8795.379648
+2009,DEC,Diesel,3.826
+2009,DEC,Imported,277.762
+2009,DEC,Renewable Energy,192.216947
+2009,FEB,Hydro Electricity,715.348
+2009,FEB,Fuel Oil,2.762794
+2009,FEB,Coal & Lignite,2280.617187
+2009,FEB,Natural Gas,7680.213357
+2009,FEB,Diesel,1.011
+2009,FEB,Imported,106.098
+2009,FEB,Renewable Energy,308.13460200000003
+2009,JAN,Hydro Electricity,742.812
+2009,JAN,Fuel Oil,36.210276
+2009,JAN,Coal & Lignite,2688.467512
+2009,JAN,Natural Gas,6572.126107
+2009,JAN,Diesel,1.249
+2009,JAN,Imported,171.113
+2009,JAN,Renewable Energy,197.362209
+2009,JUL,Hydro Electricity,368.54
+2009,JUL,Fuel Oil,4.551672
+2009,JUL,Coal & Lignite,2734.530936
+2009,JUL,Natural Gas,9262.071536
+2009,JUL,Diesel,1.943
+2009,JUL,Imported,236.854
+2009,JUL,Renewable Energy,194.764947
+2009,JUN,Hydro Electricity,367.899
+2009,JUN,Fuel Oil,9.652624
+2009,JUN,Coal & Lignite,2664.167116
+2009,JUN,Natural Gas,9273.553772
+2009,JUN,Diesel,1.165
+2009,JUN,Imported,182.692
+2009,JUN,Renewable Energy,173.22676
+2009,MAR,Hydro Electricity,810.435
+2009,MAR,Fuel Oil,2.540134
+2009,MAR,Coal & Lignite,2584.955862
+2009,MAR,Natural Gas,9168.347062
+2009,MAR,Diesel,12.907
+2009,MAR,Imported,130.432
+2009,MAR,Renewable Energy,189.797167
+2009,MAY,Hydro Electricity,539.557
+2009,MAY,Fuel Oil,4.151812
+2009,MAY,Coal & Lignite,2623.5337710000003
+2009,MAY,Natural Gas,9283.291566
+2009,MAY,Diesel,6.781
+2009,MAY,Imported,147.446
+2009,MAY,Renewable Energy,177.19449899999998
+2009,NOV,Hydro Electricity,516.949
+2009,NOV,Fuel Oil,32.957078
+2009,NOV,Coal & Lignite,2143.0883
+2009,NOV,Natural Gas,9086.124972
+2009,NOV,Diesel,2.796
+2009,NOV,Imported,336.007
+2009,NOV,Renewable Energy,154.767121
+2009,OCT,Hydro Electricity,476.091
+2009,OCT,Fuel Oil,183.67271799999997
+2009,OCT,Coal & Lignite,2281.191519
+2009,OCT,Natural Gas,9738.345998
+2009,OCT,Diesel,1.802
+2009,OCT,Imported,273.762
+2009,OCT,Renewable Energy,158.065009
+2009,SEP,Hydro Electricity,391.913
+2009,SEP,Fuel Oil,5.806538
+2009,SEP,Coal & Lignite,2485.537012
+2009,SEP,Natural Gas,9486.151247
+2009,SEP,Diesel,2.915
+2009,SEP,Imported,205.877
+2009,SEP,Renewable Energy,172.51933799999998
+2010,APR,Hydro Electricity,512.757
+2010,APR,Fuel Oil,19.00809
+2010,APR,Coal & Lignite,2671.7805319999998
+2010,APR,Natural Gas,9750.902334
+2010,APR,Diesel,3.169
+2010,APR,Imported,741.429
+2010,APR,Renewable Energy,332.701141
+2010,AUG,Hydro Electricity,340.785
+2010,AUG,Fuel Oil,56.064192
+2010,AUG,Coal & Lignite,2647.256101
+2010,AUG,Natural Gas,9761.264867
+2010,AUG,Diesel,1.78
+2010,AUG,Imported,768.501
+2010,AUG,Renewable Energy,233.28135299999997
+2010,DEC,Hydro Electricity,450.277
+2010,DEC,Fuel Oil,25.256706
+2010,DEC,Coal & Lignite,2006.4984559999998
+2010,DEC,Natural Gas,9740.437472000001
+2010,DEC,Diesel,3.418
+2010,DEC,Imported,423.471
+2010,DEC,Renewable Energy,305.725002
+2010,FEB,Hydro Electricity,638.585
+2010,FEB,Fuel Oil,5.498138
+2010,FEB,Coal & Lignite,2335.242832
+2010,FEB,Natural Gas,9265.130892
+2010,FEB,Diesel,4.432
+2010,FEB,Imported,143.127
+2010,FEB,Renewable Energy,322.337165
+2010,JAN,Hydro Electricity,618.823
+2010,JAN,Fuel Oil,18.308738
+2010,JAN,Coal & Lignite,2648.717854
+2010,JAN,Natural Gas,8883.912628
+2010,JAN,Diesel,2.711
+2010,JAN,Imported,164.141
+2010,JAN,Renewable Energy,357.744412
+2010,JUL,Hydro Electricity,334.902
+2010,JUL,Fuel Oil,170.02018900000002
+2010,JUL,Coal & Lignite,2488.4647109999996
+2010,JUL,Natural Gas,10238.2475
+2010,JUL,Diesel,7.687
+2010,JUL,Imported,801.08
+2010,JUL,Renewable Energy,252.88169599999998
+2010,JUN,Hydro Electricity,415.507
+2010,JUN,Fuel Oil,23.219022
+2010,JUN,Coal & Lignite,2490.842544
+2010,JUN,Natural Gas,10327.311497
+2010,JUN,Diesel,2.561
+2010,JUN,Imported,789.052
+2010,JUN,Renewable Energy,275.51474699999994
+2010,MAR,Hydro Electricity,769.184
+2010,MAR,Fuel Oil,155.18202399999998
+2010,MAR,Coal & Lignite,2724.347536
+2010,MAR,Natural Gas,10044.719811
+2010,MAR,Diesel,5.05
+2010,MAR,Imported,568.333
+2010,MAR,Renewable Energy,366.17500599999994
+2010,MAY,Hydro Electricity,520.918
+2010,MAY,Fuel Oil,53.543802
+2010,MAY,Coal & Lignite,2731.5416960000002
+2010,MAY,Natural Gas,10583.453922
+2010,MAY,Diesel,2.787
+2010,MAY,Imported,791.993
+2010,MAY,Renewable Energy,302.065454
+2010,NOV,Hydro Electricity,328.707
+2010,NOV,Fuel Oil,1.929538
+2010,NOV,Coal & Lignite,2256.9279930000002
+2010,NOV,Natural Gas,9694.455994
+2010,NOV,Diesel,2.868
+2010,NOV,Imported,486.988
+2010,NOV,Renewable Energy,206.85765
+2010,OCT,Hydro Electricity,170.852
+2010,OCT,Fuel Oil,9.750906
+2010,OCT,Coal & Lignite,2353.6354890000002
+2010,OCT,Natural Gas,10142.01921
+2010,OCT,Diesel,2.392
+2010,OCT,Imported,795.422
+2010,OCT,Renewable Energy,229.14795099999998
+2010,SEP,Hydro Electricity,245.456
+2010,SEP,Fuel Oil,39.587336
+2010,SEP,Coal & Lignite,2408.7482609999997
+2010,SEP,Natural Gas,10006.294881
+2010,SEP,Diesel,2.73
+2010,SEP,Imported,780.247
+2010,SEP,Renewable Energy,222.72523199999998
+2011,APR,Hydro Electricity,470.471
+2011,APR,Fuel Oil,107.432294
+2011,APR,Coal & Lignite,2713.993539
+2011,APR,Natural Gas,8822.743526
+2011,APR,Diesel,2.052
+2011,APR,Imported,1019.115
+2011,APR,Renewable Energy,365.15201
+2011,AUG,Hydro Electricity,901.683
+2011,AUG,Fuel Oil,130.276574
+2011,AUG,Coal & Lignite,2671.7181360000004
+2011,AUG,Natural Gas,9777.934574
+2011,AUG,Diesel,3.164
+2011,AUG,Imported,792.654
+2011,AUG,Renewable Energy,323.32135800000003
+2011,DEC,Hydro Electricity,822.209
+2011,DEC,Fuel Oil,20.18898
+2011,DEC,Coal & Lignite,2323.2089690000003
+2011,DEC,Natural Gas,8381.09018
+2011,DEC,Diesel,6.044
+2011,DEC,Imported,464.959
+2011,DEC,Renewable Energy,417.619461
+2011,FEB,Hydro Electricity,651.589
+2011,FEB,Fuel Oil,31.053
+2011,FEB,Coal & Lignite,2484.702891
+2011,FEB,Natural Gas,8573.823918
+2011,FEB,Diesel,1.539
+2011,FEB,Imported,638.013
+2011,FEB,Renewable Energy,323.171615
+2011,JAN,Hydro Electricity,576.868
+2011,JAN,Fuel Oil,29.679782
+2011,JAN,Coal & Lignite,2799.679927
+2011,JAN,Natural Gas,8566.364178
+2011,JAN,Diesel,1.696
+2011,JAN,Imported,412.365
+2011,JAN,Renewable Energy,374.736071
+2011,JUL,Hydro Electricity,392.173
+2011,JUL,Fuel Oil,284.728574
+2011,JUL,Coal & Lignite,2891.1449359999997
+2011,JUL,Natural Gas,9335.425861
+2011,JUL,Diesel,5.902
+2011,JUL,Imported,1315.343
+2011,JUL,Renewable Energy,350.483788
+2011,JUN,Hydro Electricity,394.086
+2011,JUN,Fuel Oil,231.682726
+2011,JUN,Coal & Lignite,2700.632702
+2011,JUN,Natural Gas,9653.175492
+2011,JUN,Diesel,6.521
+2011,JUN,Imported,1072.215
+2011,JUN,Renewable Energy,344.19575499999996
+2011,MAR,Hydro Electricity,583.678
+2011,MAR,Fuel Oil,0.430906
+2011,MAR,Coal & Lignite,2710.573477
+2011,MAR,Natural Gas,9552.369225999999
+2011,MAR,Diesel,1.73
+2011,MAR,Imported,789.541
+2011,MAR,Renewable Energy,393.938017
+2011,MAY,Hydro Electricity,374.064
+2011,MAY,Fuel Oil,101.684546
+2011,MAY,Coal & Lignite,2856.242382
+2011,MAY,Natural Gas,10019.108087
+2011,MAY,Diesel,1.005
+2011,MAY,Imported,1075.411
+2011,MAY,Renewable Energy,362.70638199999996
+2011,NOV,Hydro Electricity,631.558
+2011,NOV,Fuel Oil,40.976116
+2011,NOV,Coal & Lignite,2233.057773
+2011,NOV,Natural Gas,8447.818373
+2011,NOV,Diesel,1.262
+2011,NOV,Imported,909.586
+2011,NOV,Renewable Energy,307.49760000000003
+2011,OCT,Hydro Electricity,1137.351
+2011,OCT,Fuel Oil,66.334824
+2011,OCT,Coal & Lignite,2689.586066
+2011,OCT,Natural Gas,8210.108334
+2011,OCT,Diesel,3.105
+2011,OCT,Imported,1164.634
+2011,OCT,Renewable Energy,236.942503
+2011,SEP,Hydro Electricity,999.192
+2011,SEP,Fuel Oil,271.110114
+2011,SEP,Coal & Lignite,2637.18837
+2011,SEP,Natural Gas,8921.360458
+2011,SEP,Diesel,1.957
+2011,SEP,Imported,1120.573
+2011,SEP,Renewable Energy,256.214263
+2012,APR,Hydro Electricity,849.048
+2012,APR,Fuel Oil,389.53225000000003
+2012,APR,Coal & Lignite,3150.9528920000002
+2012,APR,Natural Gas,8968.933121
+2012,APR,Diesel,2.857
+2012,APR,Imported,1135.509
+2012,APR,Renewable Energy,441.903704
+2012,AUG,Hydro Electricity,448.998
+2012,AUG,Fuel Oil,113.00583
+2012,AUG,Coal & Lignite,3011.754031
+2012,AUG,Natural Gas,10077.212649000001
+2012,AUG,Diesel,4.494
+2012,AUG,Imported,1114.621
+2012,AUG,Renewable Energy,413.141326
+2012,DEC,Hydro Electricity,593.23
+2012,DEC,Fuel Oil,3.04177
+2012,DEC,Coal & Lignite,2681.852894
+2012,DEC,Natural Gas,10284.688886
+2012,DEC,Diesel,4.07
+2012,DEC,Imported,412.887
+2012,DEC,Renewable Energy,531.202889
+2012,FEB,Hydro Electricity,1252.158
+2012,FEB,Fuel Oil,67.26218
+2012,FEB,Coal & Lignite,2576.731113
+2012,FEB,Natural Gas,8976.232934
+2012,FEB,Diesel,2.897
+2012,FEB,Imported,799.212
+2012,FEB,Renewable Energy,409.97872199999995
+2012,JAN,Hydro Electricity,1138.309
+2012,JAN,Fuel Oil,17.553514
+2012,JAN,Coal & Lignite,2864.72106
+2012,JAN,Natural Gas,8580.060131
+2012,JAN,Diesel,1.371
+2012,JAN,Imported,484.49
+2012,JAN,Renewable Energy,426.359258
+2012,JUL,Hydro Electricity,440.31
+2012,JUL,Fuel Oil,60.92354
+2012,JUL,Coal & Lignite,2733.7332180000003
+2012,JUL,Natural Gas,10724.109465
+2012,JUL,Diesel,8.108
+2012,JUL,Imported,946.702
+2012,JUL,Renewable Energy,427.643846
+2012,JUN,Hydro Electricity,481.095
+2012,JUN,Fuel Oil,117.91371
+2012,JUN,Coal & Lignite,2827.823983
+2012,JUN,Natural Gas,10331.071565
+2012,JUN,Diesel,2.907
+2012,JUN,Imported,937.377
+2012,JUN,Renewable Energy,412.468712
+2012,MAR,Hydro Electricity,1073.26
+2012,MAR,Fuel Oil,14.32095
+2012,MAR,Coal & Lignite,2942.0076090000002
+2012,MAR,Natural Gas,10132.766608
+2012,MAR,Diesel,6.89
+2012,MAR,Imported,1163.708
+2012,MAR,Renewable Energy,466.168779
+2012,MAY,Hydro Electricity,745.832
+2012,MAY,Fuel Oil,392.14001
+2012,MAY,Coal & Lignite,3039.887455
+2012,MAY,Natural Gas,10252.726924999999
+2012,MAY,Diesel,5.752
+2012,MAY,Imported,1076.041
+2012,MAY,Renewable Energy,467.250541
+2012,NOV,Hydro Electricity,597.356
+2012,NOV,Fuel Oil,31.02721
+2012,NOV,Coal & Lignite,2753.411327
+2012,NOV,Natural Gas,10723.2429555
+2012,NOV,Diesel,5.133
+2012,NOV,Imported,519.156
+2012,NOV,Renewable Energy,392.84020899999996
+2012,OCT,Hydro Electricity,410.567
+2012,OCT,Fuel Oil,85.21709
+2012,OCT,Coal & Lignite,3034.934746
+2012,OCT,Natural Gas,10582.454549
+2012,OCT,Diesel,4.118
+2012,OCT,Imported,797.106
+2012,OCT,Renewable Energy,409.241248
+2012,SEP,Hydro Electricity,401.054
+2012,SEP,Fuel Oil,37.984449999999995
+2012,SEP,Coal & Lignite,2964.7972369999998
+2012,SEP,Natural Gas,9734.949418
+2012,SEP,Diesel,14.165
+2012,SEP,Imported,1140.617
+2012,SEP,Renewable Energy,383.024207
+2013,APR,Hydro Electricity,543.046
+2013,APR,Fuel Oil,230.38072
+2013,APR,Coal & Lignite,3174.740491
+2013,APR,Natural Gas,9571.353735
+2013,APR,Diesel,40.438
+2013,APR,Imported,1140.099
+2013,APR,Renewable Energy,625.042181
+2013,AUG,Hydro Electricity,355.459
+2013,AUG,Fuel Oil,135.20981
+2013,AUG,Coal & Lignite,3071.255464
+2013,AUG,Natural Gas,9781.436653
+2013,AUG,Diesel,8.528
+2013,AUG,Imported,1515.479
+2013,AUG,Renewable Energy,607.360347
+2013,DEC,Hydro Electricity,419.732
+2013,DEC,Fuel Oil,92.836
+2013,DEC,Coal & Lignite,2683.698174
+2013,DEC,Natural Gas,8841.637727000001
+2013,DEC,Diesel,6.913
+2013,DEC,Imported,321.704
+2013,DEC,Renewable Energy,763.2999724399999
+2013,FEB,Hydro Electricity,594.825
+2013,FEB,Fuel Oil,104.69937
+2013,FEB,Coal & Lignite,2854.886202
+2013,FEB,Natural Gas,9825.969502
+2013,FEB,Diesel,2.771
+2013,FEB,Imported,555.799
+2013,FEB,Renewable Energy,565.8276089999999
+2013,JAN,Hydro Electricity,597.776
+2013,JAN,Fuel Oil,131.4681
+2013,JAN,Coal & Lignite,3239.6392619999997
+2013,JAN,Natural Gas,9339.460221000001
+2013,JAN,Diesel,4.157
+2013,JAN,Imported,362.234
+2013,JAN,Renewable Energy,600.188657
+2013,JUL,Hydro Electricity,322.847
+2013,JUL,Fuel Oil,138.67811
+2013,JUL,Coal & Lignite,3020.8604100000002
+2013,JUL,Natural Gas,9983.5233295
+2013,JUL,Diesel,8.678
+2013,JUL,Imported,1297.321
+2013,JUL,Renewable Energy,591.0700397799999
+2013,JUN,Hydro Electricity,431.899
+2013,JUN,Fuel Oil,130.31043
+2013,JUN,Coal & Lignite,2696.4093940000002
+2013,JUN,Natural Gas,10263.783964
+2013,JUN,Diesel,16.24
+2013,JUN,Imported,1268.211
+2013,JUN,Renewable Energy,579.0052479999999
+2013,MAR,Hydro Electricity,549.101
+2013,MAR,Fuel Oil,65.53448
+2013,MAR,Coal & Lignite,3075.096168
+2013,MAR,Natural Gas,11240.806518000001
+2013,MAR,Diesel,7.383
+2013,MAR,Imported,818.237
+2013,MAR,Renewable Energy,639.656212
+2013,MAY,Hydro Electricity,573.962
+2013,MAY,Fuel Oil,24.778550000000003
+2013,MAY,Coal & Lignite,3191.2574409999997
+2013,MAY,Natural Gas,10942.805267
+2013,MAY,Diesel,61.737
+2013,MAY,Imported,1310.006
+2013,MAY,Renewable Energy,643.3070795
+2013,NOV,Hydro Electricity,295.641
+2013,NOV,Fuel Oil,13.02689
+2013,NOV,Coal & Lignite,2640.165989
+2013,NOV,Natural Gas,10065.875163
+2013,NOV,Diesel,5.115
+2013,NOV,Imported,1044.408
+2013,NOV,Renewable Energy,577.989812
+2013,OCT,Hydro Electricity,367.391
+2013,OCT,Fuel Oil,110.20432000000001
+2013,OCT,Coal & Lignite,2767.656787
+2013,OCT,Natural Gas,9893.83009
+2013,OCT,Diesel,7.324
+2013,OCT,Imported,1341.599
+2013,OCT,Renewable Energy,552.4003379999999
+2013,SEP,Hydro Electricity,360.405
+2013,SEP,Fuel Oil,89.3982
+2013,SEP,Coal & Lignite,2936.527637
+2013,SEP,Natural Gas,9467.417028
+2013,SEP,Diesel,9.854
+2013,SEP,Imported,1596.693
+2013,SEP,Renewable Energy,460.68301299999996
+2014,APR,Hydro Electricity,544.176
+2014,APR,Fuel Oil,230.60112999999998
+2014,APR,Coal & Lignite,3251.739834
+2014,APR,Natural Gas,9826.009021
+2014,APR,Diesel,1.065
+2014,APR,Imported,1222.559
+2014,APR,Renewable Energy,789.125375
+2014,AUG,Hydro Electricity,300.688
+2014,AUG,Fuel Oil,85.26853
+2014,AUG,Coal & Lignite,3159.655517
+2014,AUG,Natural Gas,10356.458701
+2014,AUG,Diesel,4.856
+2014,AUG,Imported,1270.629
+2014,AUG,Renewable Energy,685.293473
+2014,DEC,Hydro Electricity,265.876
+2014,DEC,Fuel Oil,82.40223
+2014,DEC,Coal & Lignite,3049.721141
+2014,DEC,Natural Gas,9609.296676
+2014,DEC,Diesel,2.503
+2014,DEC,Imported,493.277
+2014,DEC,Renewable Energy,882.755507
+2014,FEB,Hydro Electricity,583.206
+2014,FEB,Fuel Oil,138.00108
+2014,FEB,Coal & Lignite,2822.592354
+2014,FEB,Natural Gas,8500.7941005
+2014,FEB,Diesel,4.242
+2014,FEB,Imported,845.46
+2014,FEB,Renewable Energy,728.17193904
+2014,JAN,Hydro Electricity,574.507
+2014,JAN,Fuel Oil,139.32166
+2014,JAN,Coal & Lignite,3164.156561
+2014,JAN,Natural Gas,8129.28044
+2014,JAN,Diesel,3.824
+2014,JAN,Imported,591.194
+2014,JAN,Renewable Energy,822.030852
+2014,JUL,Hydro Electricity,488.93
+2014,JUL,Fuel Oil,220.05889
+2014,JUL,Coal & Lignite,3307.149098
+2014,JUL,Natural Gas,10219.939718
+2014,JUL,Diesel,8.525
+2014,JUL,Imported,1177.907
+2014,JUL,Renewable Energy,745.841625
+2014,JUN,Hydro Electricity,565.134
+2014,JUN,Fuel Oil,156.344346
+2014,JUN,Coal & Lignite,3304.244141
+2014,JUN,Natural Gas,10299.648995
+2014,JUN,Diesel,21.88
+2014,JUN,Imported,1085.918
+2014,JUN,Renewable Energy,766.388879
+2014,MAR,Hydro Electricity,584.372
+2014,MAR,Fuel Oil,173.91568999999998
+2014,MAR,Coal & Lignite,3264.80771999
+2014,MAR,Natural Gas,10367.770422000001
+2014,MAR,Diesel,2.474
+2014,MAR,Imported,1302.479
+2014,MAR,Renewable Energy,838.06344249
+2014,MAY,Hydro Electricity,501.296
+2014,MAY,Fuel Oil,114.72059
+2014,MAY,Coal & Lignite,3385.723763
+2014,MAY,Natural Gas,11197.842011
+2014,MAY,Diesel,3.525
+2014,MAY,Imported,1203.938
+2014,MAY,Renewable Energy,816.579513
+2014,NOV,Hydro Electricity,281.814
+2014,NOV,Fuel Oil,81.99459999999999
+2014,NOV,Coal & Lignite,2923.229358
+2014,NOV,Natural Gas,10633.860870999999
+2014,NOV,Diesel,3.925
+2014,NOV,Imported,717.108
+2014,NOV,Renewable Energy,680.82561
+2014,OCT,Hydro Electricity,252.732
+2014,OCT,Fuel Oil,101.72658
+2014,OCT,Coal & Lignite,2880.1235580000002
+2014,OCT,Natural Gas,10842.936328
+2014,OCT,Diesel,3.261
+2014,OCT,Imported,1017.368
+2014,OCT,Renewable Energy,659.035523
+2014,SEP,Hydro Electricity,220.842
+2014,SEP,Fuel Oil,82.07211
+2014,SEP,Coal & Lignite,3058.774542
+2014,SEP,Natural Gas,10330.323475
+2014,SEP,Diesel,2.518
+2014,SEP,Imported,1331.876
+2014,SEP,Renewable Energy,631.3934039999999
+2015,APR,Hydro Electricity,371.008
+2015,APR,Fuel Oil,138.41362
+2015,APR,Coal & Lignite,2922.4192590000002
+2015,APR,Natural Gas,10164.861715
+2015,APR,Diesel,1.517
+2015,APR,Imported,1464.628
+2015,APR,Renewable Energy,893.908097
+2015,AUG,Hydro Electricity,293.975
+2015,AUG,Fuel Oil,28.97101
+2015,AUG,Coal & Lignite,2949.30713
+2015,AUG,Natural Gas,10875.327973
+2015,AUG,Diesel,2.159
+2015,AUG,Imported,1373.86
+2015,AUG,Renewable Energy,822.7033200000001
+2015,DEC,Hydro Electricity,267.901
+2015,DEC,Fuel Oil,96.398725
+2015,DEC,Coal & Lignite,3077.4354881500003
+2015,DEC,Natural Gas,10034.61844375
+2015,DEC,Diesel,6.303
+2015,DEC,Imported,1146.8
+2015,DEC,Renewable Energy,862.4148707300001
+2015,FEB,Hydro Electricity,268.646
+2015,FEB,Fuel Oil,72.81249
+2015,FEB,Coal & Lignite,2588.981613
+2015,FEB,Natural Gas,9487.650887
+2015,FEB,Diesel,3.821
+2015,FEB,Imported,726.002
+2015,FEB,Renewable Energy,855.6205990000001
+2015,JAN,Hydro Electricity,298.922
+2015,JAN,Fuel Oil,82.58896
+2015,JAN,Coal & Lignite,2737.754341
+2015,JAN,Natural Gas,9686.728588
+2015,JAN,Diesel,2.298
+2015,JAN,Imported,355.394
+2015,JAN,Renewable Energy,934.5610790000001
+2015,JUL,Hydro Electricity,333.547
+2015,JUL,Fuel Oil,39.02272
+2015,JUL,Coal & Lignite,3021.780555
+2015,JUL,Natural Gas,11643.353959
+2015,JUL,Diesel,84.694
+2015,JUL,Imported,758.72
+2015,JUL,Renewable Energy,840.902003
+2015,JUN,Hydro Electricity,367.079
+2015,JUN,Fuel Oil,8.07774
+2015,JUN,Coal & Lignite,3029.729624
+2015,JUN,Natural Gas,11409.887764
+2015,JUN,Diesel,1.893
+2015,JUN,Imported,1162.287
+2015,JUN,Renewable Energy,857.5108849999999
+2015,MAR,Hydro Electricity,321.726
+2015,MAR,Fuel Oil,68.48367999999999
+2015,MAR,Coal & Lignite,2624.203454
+2015,MAR,Natural Gas,11831.411736
+2015,MAR,Diesel,7.883
+2015,MAR,Imported,1106.605
+2015,MAR,Renewable Energy,886.411229
+2015,MAY,Hydro Electricity,484.338
+2015,MAY,Fuel Oil,72.32299
+2015,MAY,Coal & Lignite,2724.770461
+2015,MAY,Natural Gas,11920.028311
+2015,MAY,Diesel,4.604
+2015,MAY,Imported,1621.936
+2015,MAY,Renewable Energy,883.151942
+2015,NOV,Hydro Electricity,261.416
+2015,NOV,Fuel Oil,133.86223249999998
+2015,NOV,Coal & Lignite,2798.52425609
+2015,NOV,Natural Gas,10702.43098125
+2015,NOV,Diesel,2.41
+2015,NOV,Imported,1395.43
+2015,NOV,Renewable Energy,726.2836026099999
+2015,OCT,Hydro Electricity,255.234
+2015,OCT,Fuel Oil,30.676337
+2015,OCT,Coal & Lignite,3151.9843769999998
+2015,OCT,Natural Gas,10368.207900000001
+2015,OCT,Diesel,1.699
+2015,OCT,Imported,1668.695
+2015,OCT,Renewable Energy,737.354078
+2015,SEP,Hydro Electricity,236.941
+2015,SEP,Fuel Oil,25.28353
+2015,SEP,Coal & Lignite,2955.220691
+2015,SEP,Natural Gas,10400.48791
+2015,SEP,Diesel,6.419
+2015,SEP,Imported,1634.129
+2015,SEP,Renewable Energy,740.6636169999999
+2016,APR,Hydro Electricity,280.517
+2016,APR,Fuel Oil,32.07379
+2016,APR,Coal & Lignite,3252.849653
+2016,APR,Natural Gas,11481.915357
+2016,APR,Diesel,3.202
+2016,APR,Imported,1394.444
+2016,APR,Renewable Energy,1085.8032660000001
+2016,AUG,Hydro Electricity,302.066
+2016,AUG,Fuel Oil,45.413478
+2016,AUG,Coal & Lignite,3315.6953510000003
+2016,AUG,Natural Gas,10223.38752
+2016,AUG,Diesel,122.197
+2016,AUG,Imported,2251.957
+2016,AUG,Renewable Energy,1015.9589490000001
+2016,DEC,Hydro Electricity,388.261
+2016,DEC,Fuel Oil,18.10005
+2016,DEC,Coal & Lignite,2998.2403080000004
+2016,DEC,Natural Gas,9604.429703
+2016,DEC,Diesel,2.951
+2016,DEC,Imported,1241.117
+2016,DEC,Renewable Energy,1159.274858
+2016,FEB,Hydro Electricity,251.38
+2016,FEB,Fuel Oil,20.21718
+2016,FEB,Coal & Lignite,2890.9058118499997
+2016,FEB,Natural Gas,9339.16557391
+2016,FEB,Diesel,2.409
+2016,FEB,Imported,1096.506
+2016,FEB,Renewable Energy,1053.25410651
+2016,JAN,Hydro Electricity,342.964
+2016,JAN,Fuel Oil,62.858180000000004
+2016,JAN,Coal & Lignite,2905.96478927
+2016,JAN,Natural Gas,9751.1521722
+2016,JAN,Diesel,5.18
+2016,JAN,Imported,1147.661
+2016,JAN,Renewable Energy,1140.6184699
+2016,JUL,Hydro Electricity,337.565
+2016,JUL,Fuel Oil,2.661825
+2016,JUL,Coal & Lignite,2738.174615
+2016,JUL,Natural Gas,10525.938449000001
+2016,JUL,Diesel,5.52
+2016,JUL,Imported,2098.942
+2016,JUL,Renewable Energy,1035.674331
+2016,JUN,Hydro Electricity,311.577
+2016,JUN,Fuel Oil,4.7159830000000005
+2016,JUN,Coal & Lignite,2975.103252
+2016,JUN,Natural Gas,10751.996485
+2016,JUN,Diesel,1.245
+2016,JUN,Imported,1701.863
+2016,JUN,Renewable Energy,995.3891249999999
+2016,MAR,Hydro Electricity,296.994
+2016,MAR,Fuel Oil,43.633225
+2016,MAR,Coal & Lignite,3322.85305108
+2016,MAR,Natural Gas,11539.152269
+2016,MAR,Diesel,10.485
+2016,MAR,Imported,1339.11
+2016,MAR,Renewable Energy,1147.31936511
+2016,MAY,Hydro Electricity,280.146
+2016,MAY,Fuel Oil,52.998673
+2016,MAY,Coal & Lignite,3335.296081
+2016,MAY,Natural Gas,11907.297977
+2016,MAY,Diesel,2.237
+2016,MAY,Imported,1910.5
+2016,MAY,Renewable Energy,1055.034209
+2016,NOV,Hydro Electricity,292.058
+2016,NOV,Fuel Oil,0
+2016,NOV,Coal & Lignite,3073.040295
+2016,NOV,Natural Gas,9858.117127
+2016,NOV,Diesel,4.031
+2016,NOV,Imported,2146.719
+2016,NOV,Renewable Energy,966.925925
+2016,OCT,Hydro Electricity,207.952
+2016,OCT,Fuel Oil,2.799838
+2016,OCT,Coal & Lignite,3042.885593
+2016,OCT,Natural Gas,10672.076401999999
+2016,OCT,Diesel,5.314
+2016,OCT,Imported,1943.287
+2016,OCT,Renewable Energy,942.459419
+2016,SEP,Hydro Electricity,251.598
+2016,SEP,Fuel Oil,32.334827
+2016,SEP,Coal & Lignite,3256.147461
+2016,SEP,Natural Gas,10494.961382
+2016,SEP,Diesel,8.919
+2016,SEP,Imported,1553.249
+2016,SEP,Renewable Energy,939.4903180000001
+2017,APR,Hydro Electricity,432.569
+2017,APR,Fuel Oil,6.586225
+2017,APR,Coal & Lignite,3241.8297469999998
+2017,APR,Natural Gas,9703.00188
+2017,APR,Diesel,2.933
+2017,APR,Imported,2223.182
+2017,APR,Renewable Energy,1271.293416
+2017,AUG,Hydro Electricity,298.631
+2017,AUG,Fuel Oil,2.36864
+2017,AUG,Coal & Lignite,3094.214165
+2017,AUG,Natural Gas,10877.687812
+2017,AUG,Diesel,6.485
+2017,AUG,Imported,2198.499
+2017,AUG,Renewable Energy,1222.1173979999999
+2017,DEC,Hydro Electricity,581.058
+2017,DEC,Fuel Oil,2.806632
+2017,DEC,Coal & Lignite,2645.128893
+2017,DEC,Natural Gas,8860.057223
+2017,DEC,Diesel,6.114
+2017,DEC,Imported,1810.221
+2017,DEC,Renewable Energy,1495.8417709999999
+2017,FEB,Hydro Electricity,444.088
+2017,FEB,Fuel Oil,1.821733
+2017,FEB,Coal & Lignite,2774.8272749999996
+2017,FEB,Natural Gas,9006.218148
+2017,FEB,Diesel,5.321
+2017,FEB,Imported,1445.836
+2017,FEB,Renewable Energy,1237.119773
+2017,JAN,Hydro Electricity,426.542
+2017,JAN,Fuel Oil,2.4813
+2017,JAN,Coal & Lignite,2782.043568
+2017,JAN,Natural Gas,9811.118934
+2017,JAN,Diesel,3.933
+2017,JAN,Imported,1162.701
+2017,JAN,Renewable Energy,1320.455816
+2017,JUL,Hydro Electricity,360.717
+2017,JUL,Fuel Oil,48.482232
+2017,JUL,Coal & Lignite,3172.502063
+2017,JUL,Natural Gas,9747.300032
+2017,JUL,Diesel,61.971
+2017,JUL,Imported,2415.044
+2017,JUL,Renewable Energy,1223.963679
+2017,JUN,Hydro Electricity,342.951
+2017,JUN,Fuel Oil,15.610748
+2017,JUN,Coal & Lignite,3254.355052
+2017,JUN,Natural Gas,10130.125112
+2017,JUN,Diesel,43.469
+2017,JUN,Imported,2231.133
+2017,JUN,Renewable Energy,1212.922257
+2017,MAR,Hydro Electricity,467.157
+2017,MAR,Fuel Oil,14.958517
+2017,MAR,Coal & Lignite,3148.68693
+2017,MAR,Natural Gas,10923.084679
+2017,MAR,Diesel,8.965
+2017,MAR,Imported,2128.955
+2017,MAR,Renewable Energy,1341.24483
+2017,MAY,Hydro Electricity,452.526
+2017,MAY,Fuel Oil,1.82317
+2017,MAY,Coal & Lignite,3325.4192439999997
+2017,MAY,Natural Gas,10732.852897
+2017,MAY,Diesel,4.736
+2017,MAY,Imported,2174.086
+2017,MAY,Renewable Energy,1239.696689
+2017,NOV,Hydro Electricity,272.805
+2017,NOV,Fuel Oil,13.531423
+2017,NOV,Coal & Lignite,2633.374603
+2017,NOV,Natural Gas,10145.421273
+2017,NOV,Diesel,25.623
+2017,NOV,Imported,2048.442
+2017,NOV,Renewable Energy,1132.3162479999999
+2017,OCT,Hydro Electricity,275.665
+2017,OCT,Fuel Oil,21.999118
+2017,OCT,Coal & Lignite,2905.950363
+2017,OCT,Natural Gas,10401.197339
+2017,OCT,Diesel,24.374
+2017,OCT,Imported,2079.954
+2017,OCT,Renewable Energy,1133.873591
+2017,SEP,Hydro Electricity,332.477
+2017,SEP,Fuel Oil,0.047728
+2017,SEP,Coal & Lignite,2754.118208
+2017,SEP,Natural Gas,10706.097808
+2017,SEP,Diesel,3.858
+2017,SEP,Imported,2509.371
+2017,SEP,Renewable Energy,1113.172455
+2018,APR,Hydro Electricity,620.326
+2018,APR,Fuel Oil,2.688475
+2018,APR,Coal & Lignite,3111.886096
+2018,APR,Natural Gas,9425.509463
+2018,APR,Diesel,3.477
+2018,APR,Imported,2055.592
+2018,APR,Renewable Energy,1489.8648699999999
+2018,AUG,Hydro Electricity,869.82
+2018,AUG,Fuel Oil,4.5070120000000005
+2018,AUG,Coal & Lignite,2973.389936
+2018,AUG,Natural Gas,9562.586434
+2018,AUG,Diesel,41.743
+2018,AUG,Imported,2535.925
+2018,AUG,Renewable Energy,1535.541505
+2018,DEC,Hydro Electricity,611.871
+2018,DEC,Fuel Oil,2.822465
+2018,DEC,Coal & Lignite,2953.018046
+2018,DEC,Natural Gas,9222.755196
+2018,DEC,Diesel,4.209
+2018,DEC,Imported,1941.9
+2018,DEC,Renewable Energy,1609.929208
+2018,FEB,Hydro Electricity,646.594
+2018,FEB,Fuel Oil,24.637838
+2018,FEB,Coal & Lignite,2822.427074
+2018,FEB,Natural Gas,8382.736516
+2018,FEB,Diesel,6.741
+2018,FEB,Imported,1734.961
+2018,FEB,Renewable Energy,1437.271141
+2018,JAN,Hydro Electricity,629.927
+2018,JAN,Fuel Oil,3.006663
+2018,JAN,Coal & Lignite,3088.828318
+2018,JAN,Natural Gas,8922.589161
+2018,JAN,Diesel,3.522
+2018,JAN,Imported,1862.926
+2018,JAN,Renewable Energy,1496.433225
+2018,JUL,Hydro Electricity,545.967
+2018,JUL,Fuel Oil,8.472327
+2018,JUL,Coal & Lignite,3227.797035
+2018,JUL,Natural Gas,9891.722103
+2018,JUL,Diesel,4.735
+2018,JUL,Imported,2220.686
+2018,JUL,Renewable Energy,1544.390661
+2018,JUN,Hydro Electricity,545.727
+2018,JUN,Fuel Oil,2.57972
+2018,JUN,Coal & Lignite,3172.099949
+2018,JUN,Natural Gas,10169.641727999999
+2018,JUN,Diesel,3.32
+2018,JUN,Imported,2149.223
+2018,JUN,Renewable Energy,1476.978666
+2018,MAR,Hydro Electricity,682.032
+2018,MAR,Fuel Oil,2.64759
+2018,MAR,Coal & Lignite,3223.3476259999998
+2018,MAR,Natural Gas,10428.746631
+2018,MAR,Diesel,27.997
+2018,MAR,Imported,2228.097
+2018,MAR,Renewable Energy,1554.567665
+2018,MAY,Hydro Electricity,589.403
+2018,MAY,Fuel Oil,6.00833
+2018,MAY,Coal & Lignite,3302.701773
+2018,MAY,Natural Gas,10359.927395
+2018,MAY,Diesel,1.9
+2018,MAY,Imported,2259.2
+2018,MAY,Renewable Energy,1463.452258
+2018,NOV,Hydro Electricity,544.716
+2018,NOV,Fuel Oil,2.720495
+2018,NOV,Coal & Lignite,2428.712837
+2018,NOV,Natural Gas,10332.749089
+2018,NOV,Diesel,5.032
+2018,NOV,Imported,2201.469
+2018,NOV,Renewable Energy,1396.3637840000001
+2018,OCT,Hydro Electricity,503.168
+2018,OCT,Fuel Oil,2.889565
+2018,OCT,Coal & Lignite,2849.823363
+2018,OCT,Natural Gas,10112.573086
+2018,OCT,Diesel,4.98
+2018,OCT,Imported,2677.597
+2018,OCT,Renewable Energy,1430.0735479999998
+2018,SEP,Hydro Electricity,807.462
+2018,SEP,Fuel Oil,2.446095
+2018,SEP,Coal & Lignite,2642.391627
+2018,SEP,Natural Gas,9453.639272
+2018,SEP,Diesel,4.116
+2018,SEP,Imported,2801.865
+2018,SEP,Renewable Energy,1365.450397
