@@ -1,0 +1,3370 @@
+YEAR_PRD,MONTH_PRD,SOURCE,PLANT,QTY
+2016,APR,Domestic Production,Arthit,253
+2016,APR,Domestic Production,Bongkot,1034
+2016,APR,Domestic Production,Erawan,1381
+2016,APR,Domestic Production,JDA,571
+2016,APR,Domestic Production,Lanta,3
+2016,APR,Domestic Production,Nam phong,11
+2016,APR,Domestic Production,Oths.,1
+2016,APR,Domestic Production,Pailin,348
+2016,APR,Domestic Production,Phu horm,125
+2016,APR,Domestic Production,Sirikit,44
+2016,APR,Domestic Production,Tan tawan,148
+2016,APR,Domestic Production,Yoong thong,16
+2016,APR,Import,LNG ,300
+2016,APR,Import,Yadana,421
+2016,APR,Import,Yetakun,177
+2016,APR,Import,Zawtika,228
+2016,AUG,Domestic Production,Arthit,250
+2016,AUG,Domestic Production,Bongkot,542
+2016,AUG,Domestic Production,Bongkot Tai,368
+2016,AUG,Domestic Production,Erawan,1420
+2016,AUG,Domestic Production,JDA,400
+2016,AUG,Domestic Production,Jasmin,6
+2016,AUG,Domestic Production,Lanta,11
+2016,AUG,Domestic Production,Nam phong,11
+2016,AUG,Domestic Production,Oths.,6
+2016,AUG,Domestic Production,Pailin,327
+2016,AUG,Domestic Production,Phu horm,115
+2016,AUG,Domestic Production,Sirikit,43
+2016,AUG,Domestic Production,Tan tawan,137
+2016,AUG,Domestic Production,Yoong thong,5
+2016,AUG,Import,LNG ,288
+2016,AUG,Import,Yadana,446
+2016,AUG,Import,Yetakun,232
+2016,AUG,Import,Zawtika,233
+2016,DEC,Domestic Production,Arthit,242
+2016,DEC,Domestic Production,Bongkot,621
+2016,DEC,Domestic Production,Bongkot Tai,401
+2016,DEC,Domestic Production,Erawan,1233
+2016,DEC,Domestic Production,JDA,489
+2016,DEC,Domestic Production,Jasmin,7
+2016,DEC,Domestic Production,Lanta,11
+2016,DEC,Domestic Production,Nam phong,11
+2016,DEC,Domestic Production,Oths.,5
+2016,DEC,Domestic Production,Pailin,320
+2016,DEC,Domestic Production,Phu horm,127
+2016,DEC,Domestic Production,Sirikit,57
+2016,DEC,Domestic Production,Tan tawan,134
+2016,DEC,Domestic Production,Yoong thong,5
+2016,DEC,Import,LNG ,292
+2016,DEC,Import,Yadana,382
+2016,DEC,Import,Yetakun,181
+2016,DEC,Import,Zawtika,216
+2016,FEB,Domestic Production,Arthit,246
+2016,FEB,Domestic Production,Bongkot,1037
+2016,FEB,Domestic Production,Erawan,1390
+2016,FEB,Domestic Production,JDA,550
+2016,FEB,Domestic Production,Lanta,2
+2016,FEB,Domestic Production,Nam phong,12
+2016,FEB,Domestic Production,Oths.,1
+2016,FEB,Domestic Production,Pailin,324
+2016,FEB,Domestic Production,Phu horm,129
+2016,FEB,Domestic Production,Sirikit,49
+2016,FEB,Domestic Production,Tan tawan,143
+2016,FEB,Domestic Production,Yoong thong,2
+2016,FEB,Import,LNG ,312
+2016,FEB,Import,Yadana,376
+2016,FEB,Import,Yetakun,196
+2016,FEB,Import,Zawtika,185
+2016,JAN,Domestic Production,Arthit,282
+2016,JAN,Domestic Production,Bongkot,1074
+2016,JAN,Domestic Production,Erawan,1270
+2016,JAN,Domestic Production,JDA,625
+2016,JAN,Domestic Production,Lanta,2
+2016,JAN,Domestic Production,Nam phong,12
+2016,JAN,Domestic Production,Oths.,1
+2016,JAN,Domestic Production,Pailin,387
+2016,JAN,Domestic Production,Phu horm,121
+2016,JAN,Domestic Production,Sirikit,37
+2016,JAN,Domestic Production,Tan tawan,148
+2016,JAN,Domestic Production,Yoong thong,2
+2016,JAN,Import,LNG ,144
+2016,JAN,Import,Yadana,424
+2016,JAN,Import,Yetakun,217
+2016,JAN,Import,Zawtika,216
+2016,JUL,Domestic Production,Arthit,190
+2016,JUL,Domestic Production,Bongkot,637
+2016,JUL,Domestic Production,Bongkot Tai,424
+2016,JUL,Domestic Production,Erawan,1397
+2016,JUL,Domestic Production,JDA,565
+2016,JUL,Domestic Production,Jasmin,6
+2016,JUL,Domestic Production,Lanta,3
+2016,JUL,Domestic Production,Nam phong,11
+2016,JUL,Domestic Production,Oths.,6
+2016,JUL,Domestic Production,Pailin,342
+2016,JUL,Domestic Production,Phu horm,113
+2016,JUL,Domestic Production,Sirikit,43
+2016,JUL,Domestic Production,Tan tawan,144
+2016,JUL,Domestic Production,Yoong thong,9
+2016,JUL,Import,LNG ,440
+2016,JUL,Import,Yadana,355
+2016,JUL,Import,Yetakun,198
+2016,JUL,Import,Zawtika,194
+2016,JUN,Domestic Production,Arthit,237
+2016,JUN,Domestic Production,Bongkot,986
+2016,JUN,Domestic Production,Erawan,1166
+2016,JUN,Domestic Production,JDA,541
+2016,JUN,Domestic Production,Lanta,3
+2016,JUN,Domestic Production,Nam phong,11
+2016,JUN,Domestic Production,Oths.,2
+2016,JUN,Domestic Production,Pailin,286
+2016,JUN,Domestic Production,Phu horm,129
+2016,JUN,Domestic Production,Sirikit,45
+2016,JUN,Domestic Production,Tan tawan,144
+2016,JUN,Domestic Production,Yoong thong,11
+2016,JUN,Import,LNG ,449
+2016,JUN,Import,Yadana,448
+2016,JUN,Import,Yetakun,239
+2016,JUN,Import,Zawtika,224
+2016,MAR,Domestic Production,Arthit,235
+2016,MAR,Domestic Production,Bongkot,919
+2016,MAR,Domestic Production,Erawan,1336
+2016,MAR,Domestic Production,JDA,578
+2016,MAR,Domestic Production,Lanta,2
+2016,MAR,Domestic Production,Nam phong,11
+2016,MAR,Domestic Production,Oths.,1
+2016,MAR,Domestic Production,Pailin,352
+2016,MAR,Domestic Production,Phu horm,124
+2016,MAR,Domestic Production,Sirikit,45
+2016,MAR,Domestic Production,Tan tawan,147
+2016,MAR,Domestic Production,Yoong thong,4
+2016,MAR,Import,LNG ,583
+2016,MAR,Import,Yadana,380
+2016,MAR,Import,Yetakun,251
+2016,MAR,Import,Zawtika,151
+2016,MAY,Domestic Production,Arthit,238
+2016,MAY,Domestic Production,Bongkot,883
+2016,MAY,Domestic Production,Erawan,1345
+2016,MAY,Domestic Production,JDA,558
+2016,MAY,Domestic Production,Lanta,2
+2016,MAY,Domestic Production,Nam phong,11
+2016,MAY,Domestic Production,Oths.,1
+2016,MAY,Domestic Production,Pailin,344
+2016,MAY,Domestic Production,Phu horm,128
+2016,MAY,Domestic Production,Sirikit,46
+2016,MAY,Domestic Production,Tan tawan,126
+2016,MAY,Domestic Production,Yoong thong,8
+2016,MAY,Import,LNG ,679
+2016,MAY,Import,Yadana,473
+2016,MAY,Import,Yetakun,243
+2016,MAY,Import,Zawtika,237
+2016,NOV,Domestic Production,Arthit,251
+2016,NOV,Domestic Production,Bongkot,511
+2016,NOV,Domestic Production,Bongkot Tai,393
+2016,NOV,Domestic Production,Erawan,1391
+2016,NOV,Domestic Production,JDA,465
+2016,NOV,Domestic Production,Jasmin,7
+2016,NOV,Domestic Production,Lanta,11
+2016,NOV,Domestic Production,Nam phong,11
+2016,NOV,Domestic Production,Oths.,6
+2016,NOV,Domestic Production,Pailin,352
+2016,NOV,Domestic Production,Phu horm,115
+2016,NOV,Domestic Production,Sirikit,56
+2016,NOV,Domestic Production,Tan tawan,131
+2016,NOV,Domestic Production,Yoong thong,4
+2016,NOV,Import,LNG ,454
+2016,NOV,Import,Yadana,431
+2016,NOV,Import,Yetakun,207
+2016,NOV,Import,Zawtika,235
+2016,OCT,Domestic Production,Arthit,256
+2016,OCT,Domestic Production,Bongkot,647
+2016,OCT,Domestic Production,Bongkot Tai,350
+2016,OCT,Domestic Production,Erawan,1327
+2016,OCT,Domestic Production,JDA,508
+2016,OCT,Domestic Production,Jasmin,6
+2016,OCT,Domestic Production,Lanta,11
+2016,OCT,Domestic Production,Nam phong,10
+2016,OCT,Domestic Production,Oths.,6
+2016,OCT,Domestic Production,Pailin,350
+2016,OCT,Domestic Production,Phu horm,98
+2016,OCT,Domestic Production,Sirikit,41
+2016,OCT,Domestic Production,Tan tawan,136
+2016,OCT,Domestic Production,Yoong thong,5
+2016,OCT,Import,LNG ,291
+2016,OCT,Import,Yadana,476
+2016,OCT,Import,Yetakun,232
+2016,OCT,Import,Zawtika,244
+2016,SEP,Domestic Production,Arthit,250
+2016,SEP,Domestic Production,Bongkot,542
+2016,SEP,Domestic Production,Bongkot Tai,368
+2016,SEP,Domestic Production,Erawan,1420
+2016,SEP,Domestic Production,JDA,516
+2016,SEP,Domestic Production,Jasmin,6
+2016,SEP,Domestic Production,Lanta,11
+2016,SEP,Domestic Production,Nam phong,11
+2016,SEP,Domestic Production,Oths.,6
+2016,SEP,Domestic Production,Pailin,327
+2016,SEP,Domestic Production,Phu horm,115
+2016,SEP,Domestic Production,Sirikit,43
+2016,SEP,Domestic Production,Tan tawan,137
+2016,SEP,Domestic Production,Yoong thong,5
+2016,SEP,Import,LNG ,450
+2016,SEP,Import,Yadana,471
+2016,SEP,Import,Yetakun,242
+2016,SEP,Import,Zawtika,236
+2017,APR,Domestic Production,Arthit,251
+2017,APR,Domestic Production,Bongkot,526
+2017,APR,Domestic Production,Bongkot Tai,240
+2017,APR,Domestic Production,Erawan,1322
+2017,APR,Domestic Production,JDA,435
+2017,APR,Domestic Production,Jasmin,5
+2017,APR,Domestic Production,Lanta,2
+2017,APR,Domestic Production,Nam phong,9
+2017,APR,Domestic Production,Oths.,5
+2017,APR,Domestic Production,Pailin,297
+2017,APR,Domestic Production,Phu horm,100
+2017,APR,Domestic Production,Sirikit,46
+2017,APR,Domestic Production,Tan tawan,107
+2017,APR,Domestic Production,Yoong thong,5
+2017,APR,Import,LNG ,691
+2017,APR,Import,Yadana,355
+2017,APR,Import,Yetakun,195
+2017,APR,Import,Zawtika,218
+2017,AUG,Domestic Production,Arthit,224
+2017,AUG,Domestic Production,Bongkot,567
+2017,AUG,Domestic Production,Bongkot Tai,432
+2017,AUG,Domestic Production,Erawan,1334
+2017,AUG,Domestic Production,JDA,472
+2017,AUG,Domestic Production,Jasmin,5
+2017,AUG,Domestic Production,Lanta,3
+2017,AUG,Domestic Production,Nam phong,9
+2017,AUG,Domestic Production,Oths.,4
+2017,AUG,Domestic Production,Pailin,355
+2017,AUG,Domestic Production,Phu horm,41
+2017,AUG,Domestic Production,Sirikit,39
+2017,AUG,Domestic Production,Tan tawan,106
+2017,AUG,Domestic Production,Yoong thong,5
+2017,AUG,Import,LNG ,388
+2017,AUG,Import,Yadana,477
+2017,AUG,Import,Yetakun,206
+2017,AUG,Import,Zawtika,245
+2017,DEC,Domestic Production,Arthit,231
+2017,DEC,Domestic Production,Bongkot,583
+2017,DEC,Domestic Production,Bongkot Tai,389
+2017,DEC,Domestic Production,Erawan,1293
+2017,DEC,Domestic Production,JDA,491
+2017,DEC,Domestic Production,Jasmin,7
+2017,DEC,Domestic Production,Lanta,2
+2017,DEC,Domestic Production,Oths.,5
+2017,DEC,Domestic Production,Pailin,405
+2017,DEC,Domestic Production,Phu horm,39
+2017,DEC,Domestic Production,Sirikit,38
+2017,DEC,Domestic Production,Tan tawan,93
+2017,DEC,Domestic Production,Yoong thong,1
+2017,DEC,Import,LNG ,288
+2017,DEC,Import,Yadana,395
+2017,DEC,Import,Yetakun,181
+2017,DEC,Import,Zawtika,212
+2017,FEB,Domestic Production,Arthit,228
+2017,FEB,Domestic Production,Bongkot,616
+2017,FEB,Domestic Production,Bongkot Tai,389
+2017,FEB,Domestic Production,Erawan,1273
+2017,FEB,Domestic Production,JDA,473
+2017,FEB,Domestic Production,Jasmin,6
+2017,FEB,Domestic Production,Lanta,3
+2017,FEB,Domestic Production,Nam phong,10
+2017,FEB,Domestic Production,Oths.,7
+2017,FEB,Domestic Production,Pailin,272
+2017,FEB,Domestic Production,Phu horm,127
+2017,FEB,Domestic Production,Sirikit,60
+2017,FEB,Domestic Production,Tan tawan,134
+2017,FEB,Domestic Production,Yoong thong,5
+2017,FEB,Import,LNG ,606
+2017,FEB,Import,Yadana,352
+2017,FEB,Import,Yetakun,220
+2017,FEB,Import,Zawtika,149
+2017,JAN,Domestic Production,Arthit,246
+2017,JAN,Domestic Production,Bongkot,636
+2017,JAN,Domestic Production,Bongkot Tai,407
+2017,JAN,Domestic Production,Erawan,1278
+2017,JAN,Domestic Production,JDA,490
+2017,JAN,Domestic Production,Jasmin,8
+2017,JAN,Domestic Production,Lanta,3
+2017,JAN,Domestic Production,Nam phong,10
+2017,JAN,Domestic Production,Oths.,6
+2017,JAN,Domestic Production,Pailin,371
+2017,JAN,Domestic Production,Phu horm,130
+2017,JAN,Domestic Production,Sirikit,59
+2017,JAN,Domestic Production,Tan tawan,130
+2017,JAN,Domestic Production,Yoong thong,4
+2017,JAN,Import,LNG ,485
+2017,JAN,Import,Yadana,426
+2017,JAN,Import,Yetakun,209
+2017,JAN,Import,Zawtika,230
+2017,JUL,Domestic Production,Arthit,211
+2017,JUL,Domestic Production,Bongkot,420
+2017,JUL,Domestic Production,Bongkot Tai,420
+2017,JUL,Domestic Production,Erawan,1284
+2017,JUL,Domestic Production,JDA,352
+2017,JUL,Domestic Production,Jasmin,5
+2017,JUL,Domestic Production,Lanta,3
+2017,JUL,Domestic Production,Nam phong,9
+2017,JUL,Domestic Production,Oths.,4
+2017,JUL,Domestic Production,Pailin,304
+2017,JUL,Domestic Production,Phu horm,47
+2017,JUL,Domestic Production,Sirikit,44
+2017,JUL,Domestic Production,Tan tawan,106
+2017,JUL,Domestic Production,Yoong thong,5
+2017,JUL,Import,LNG ,496
+2017,JUL,Import,Yadana,491
+2017,JUL,Import,Yetakun,224
+2017,JUL,Import,Zawtika,250
+2017,JUN,Domestic Production,Arthit,259
+2017,JUN,Domestic Production,Bongkot,356
+2017,JUN,Domestic Production,Bongkot Tai,440
+2017,JUN,Domestic Production,Erawan,1361
+2017,JUN,Domestic Production,JDA,395
+2017,JUN,Domestic Production,Jasmin,5
+2017,JUN,Domestic Production,Lanta,2
+2017,JUN,Domestic Production,Nam phong,9
+2017,JUN,Domestic Production,Oths.,4
+2017,JUN,Domestic Production,Pailin,397
+2017,JUN,Domestic Production,Phu horm,64
+2017,JUN,Domestic Production,Sirikit,29
+2017,JUN,Domestic Production,Tan tawan,109
+2017,JUN,Domestic Production,Yoong thong,1
+2017,JUN,Import,LNG ,674
+2017,JUN,Import,Yadana,455
+2017,JUN,Import,Yetakun,215
+2017,JUN,Import,Zawtika,261
+2017,MAR,Domestic Production,Arthit,247
+2017,MAR,Domestic Production,Bongkot,610
+2017,MAR,Domestic Production,Bongkot Tai,454
+2017,MAR,Domestic Production,Erawan,1292
+2017,MAR,Domestic Production,JDA,502
+2017,MAR,Domestic Production,Jasmin,5
+2017,MAR,Domestic Production,Lanta,3
+2017,MAR,Domestic Production,Nam phong,10
+2017,MAR,Domestic Production,Oths.,6
+2017,MAR,Domestic Production,Pailin,359
+2017,MAR,Domestic Production,Phu horm,115
+2017,MAR,Domestic Production,Sirikit,50
+2017,MAR,Domestic Production,Tan tawan,130
+2017,MAR,Domestic Production,Yoong thong,5
+2017,MAR,Import,LNG ,693
+2017,MAR,Import,Yadana,357
+2017,MAR,Import,Yetakun,177
+2017,MAR,Import,Zawtika,185
+2017,MAY,Domestic Production,Arthit,240
+2017,MAY,Domestic Production,Bongkot,522
+2017,MAY,Domestic Production,Bongkot Tai,436
+2017,MAY,Domestic Production,Erawan,1404
+2017,MAY,Domestic Production,JDA,502
+2017,MAY,Domestic Production,Jasmin,6
+2017,MAY,Domestic Production,Lanta,3
+2017,MAY,Domestic Production,Nam phong,9
+2017,MAY,Domestic Production,Oths.,4
+2017,MAY,Domestic Production,Pailin,367
+2017,MAY,Domestic Production,Phu horm,40
+2017,MAY,Domestic Production,Sirikit,44
+2017,MAY,Domestic Production,Tan tawan,113
+2017,MAY,Domestic Production,Yoong thong,2
+2017,MAY,Import,LNG ,616
+2017,MAY,Import,Yadana,454
+2017,MAY,Import,Yetakun,229
+2017,MAY,Import,Zawtika,240
+2017,NOV,Domestic Production,Arthit,254
+2017,NOV,Domestic Production,Bongkot,632
+2017,NOV,Domestic Production,Bongkot Tai,443
+2017,NOV,Domestic Production,Erawan,1418
+2017,NOV,Domestic Production,JDA,528
+2017,NOV,Domestic Production,Jasmin,6
+2017,NOV,Domestic Production,Lanta,2
+2017,NOV,Domestic Production,Nam phong,10
+2017,NOV,Domestic Production,Oths.,4
+2017,NOV,Domestic Production,Pailin,434
+2017,NOV,Domestic Production,Phu horm,62
+2017,NOV,Domestic Production,Sirikit,40
+2017,NOV,Domestic Production,Tan tawan,97
+2017,NOV,Domestic Production,Yoong thong,2
+2017,NOV,Import,LNG ,153
+2017,NOV,Import,Yadana,389
+2017,NOV,Import,Yetakun,205
+2017,NOV,Import,Zawtika,221
+2017,OCT,Domestic Production,Arthit,283
+2017,OCT,Domestic Production,Bongkot,599
+2017,OCT,Domestic Production,Bongkot Tai,467
+2017,OCT,Domestic Production,Erawan,1302
+2017,OCT,Domestic Production,JDA,524
+2017,OCT,Domestic Production,Jasmin,7
+2017,OCT,Domestic Production,Lanta,2
+2017,OCT,Domestic Production,Nam phong,10
+2017,OCT,Domestic Production,Oths.,5
+2017,OCT,Domestic Production,Pailin,416
+2017,OCT,Domestic Production,Phu horm,102
+2017,OCT,Domestic Production,Sirikit,41
+2017,OCT,Domestic Production,Tan tawan,101
+2017,OCT,Domestic Production,Yoong thong,3
+2017,OCT,Import,LNG ,534
+2017,OCT,Import,Yadana,414
+2017,OCT,Import,Yetakun,185
+2017,OCT,Import,Zawtika,231
+2017,SEP,Domestic Production,Arthit,258
+2017,SEP,Domestic Production,Bongkot,534
+2017,SEP,Domestic Production,Bongkot Tai,446
+2017,SEP,Domestic Production,Erawan,1253
+2017,SEP,Domestic Production,JDA,463
+2017,SEP,Domestic Production,Jasmin,6
+2017,SEP,Domestic Production,Lanta,2
+2017,SEP,Domestic Production,Nam phong,7
+2017,SEP,Domestic Production,Oths.,7
+2017,SEP,Domestic Production,Pailin,380
+2017,SEP,Domestic Production,Phu horm,76
+2017,SEP,Domestic Production,Sirikit,39
+2017,SEP,Domestic Production,Tan tawan,103
+2017,SEP,Domestic Production,Yoong thong,4
+2017,SEP,Import,LNG ,518
+2017,SEP,Import,Yadana,463
+2017,SEP,Import,Yetakun,198
+2017,SEP,Import,Zawtika,238
+2018,APR,Domestic Production,Arthit,242
+2018,APR,Domestic Production,Bongkot,393
+2018,APR,Domestic Production,Bongkot Tai,389
+2018,APR,Domestic Production,Erawan,1234
+2018,APR,Domestic Production,JDA,505
+2018,APR,Domestic Production,Jasmin,7
+2018,APR,Domestic Production,Lanta,0
+2018,APR,Domestic Production,Nam phong,9
+2018,APR,Domestic Production,Oths.,4
+2018,APR,Domestic Production,Pailin,437
+2018,APR,Domestic Production,Phu horm,97
+2018,APR,Domestic Production,Sirikit,36
+2018,APR,Domestic Production,Tan tawan,26
+2018,APR,Domestic Production,Yoong thong,2
+2018,APR,Import,LNG ,686
+2018,APR,Import,Yadana,423
+2018,APR,Import,Yetakun,102
+2018,APR,Import,Zawtika,248
+2018,AUG,Domestic Production,Arthit,215
+2018,AUG,Domestic Production,Bongkot,407
+2018,AUG,Domestic Production,Bongkot Tai,299
+2018,AUG,Domestic Production,Erawan,1345
+2018,AUG,Domestic Production,JDA,471
+2018,AUG,Domestic Production,Jasmin,6
+2018,AUG,Domestic Production,Lanta,1
+2018,AUG,Domestic Production,Nam phong,8
+2018,AUG,Domestic Production,Oths.,5
+2018,AUG,Domestic Production,Pailin,448
+2018,AUG,Domestic Production,Phu horm,37
+2018,AUG,Domestic Production,Sirikit,33
+2018,AUG,Domestic Production,Tan tawan,90
+2018,AUG,Domestic Production,Yoong thong,9
+2018,AUG,Import,LNG ,701
+2018,AUG,Import,Yadana,462
+2018,AUG,Import,Yetakun,141
+2018,AUG,Import,Zawtika,231
+2018,DEC,Domestic Production,Arthit,260
+2018,DEC,Domestic Production,Bongkot,572
+2018,DEC,Domestic Production,Bongkot Tai,54
+2018,DEC,Domestic Production,Erawan,1392
+2018,DEC,Domestic Production,JDA,537
+2018,DEC,Domestic Production,Jasmin,5
+2018,DEC,Domestic Production,Lanta,2
+2018,DEC,Domestic Production,Nam phong,8
+2018,DEC,Domestic Production,Oths.,5
+2018,DEC,Domestic Production,Pailin,405
+2018,DEC,Domestic Production,Phu horm,101
+2018,DEC,Domestic Production,Sirikit,27
+2018,DEC,Domestic Production,Tan tawan,85
+2018,DEC,Domestic Production,Yoong thong,2
+2018,DEC,Import,LNG ,393
+2018,DEC,Import,Yadana,363
+2018,DEC,Import,Yetakun,99
+2018,DEC,Import,Zawtika,179
+2018,FEB,Domestic Production,Arthit,247
+2018,FEB,Domestic Production,Bongkot,485
+2018,FEB,Domestic Production,Bongkot Tai,377
+2018,FEB,Domestic Production,Erawan,1324
+2018,FEB,Domestic Production,JDA,530
+2018,FEB,Domestic Production,Jasmin,7
+2018,FEB,Domestic Production,Lanta,2
+2018,FEB,Domestic Production,Nam phong,8
+2018,FEB,Domestic Production,Oths.,4
+2018,FEB,Domestic Production,Pailin,440
+2018,FEB,Domestic Production,Phu horm,38
+2018,FEB,Domestic Production,Sirikit,37
+2018,FEB,Domestic Production,Tan tawan,93
+2018,FEB,Domestic Production,Yoong thong,2
+2018,FEB,Import,LNG ,529
+2018,FEB,Import,Yadana,377
+2018,FEB,Import,Yetakun,159
+2018,FEB,Import,Zawtika,194
+2018,JAN,Domestic Production,Arthit,271
+2018,JAN,Domestic Production,Bongkot,605
+2018,JAN,Domestic Production,Bongkot Tai,454
+2018,JAN,Domestic Production,Erawan,1243
+2018,JAN,Domestic Production,JDA,528
+2018,JAN,Domestic Production,Jasmin,7
+2018,JAN,Domestic Production,Lanta,2
+2018,JAN,Domestic Production,Nam phong,8
+2018,JAN,Domestic Production,Oths.,5
+2018,JAN,Domestic Production,Pailin,411
+2018,JAN,Domestic Production,Phu horm,38
+2018,JAN,Domestic Production,Sirikit,37
+2018,JAN,Domestic Production,Tan tawan,91
+2018,JAN,Domestic Production,Yoong thong,2
+2018,JAN,Import,LNG ,463
+2018,JAN,Import,Yadana,351
+2018,JAN,Import,Yetakun,156
+2018,JAN,Import,Zawtika,180
+2018,JUL,Domestic Production,Arthit,241
+2018,JUL,Domestic Production,Bongkot,446
+2018,JUL,Domestic Production,Bongkot Tai,298
+2018,JUL,Domestic Production,Erawan,1421
+2018,JUL,Domestic Production,JDA,438
+2018,JUL,Domestic Production,Jasmin,6
+2018,JUL,Domestic Production,Lanta,2
+2018,JUL,Domestic Production,Nam phong,9
+2018,JUL,Domestic Production,Oths.,6
+2018,JUL,Domestic Production,Pailin,418
+2018,JUL,Domestic Production,Phu horm,84
+2018,JUL,Domestic Production,Sirikit,34
+2018,JUL,Domestic Production,Tan tawan,90
+2018,JUL,Domestic Production,Yoong thong,6
+2018,JUL,Import,LNG ,584
+2018,JUL,Import,Yadana,473
+2018,JUL,Import,Yetakun,143
+2018,JUL,Import,Zawtika,233
+2018,JUN,Domestic Production,Arthit,240
+2018,JUN,Domestic Production,Bongkot,443
+2018,JUN,Domestic Production,Bongkot Tai,388
+2018,JUN,Domestic Production,Erawan,1314
+2018,JUN,Domestic Production,JDA,536
+2018,JUN,Domestic Production,Jasmin,7
+2018,JUN,Domestic Production,Lanta,2
+2018,JUN,Domestic Production,Nam phong,9
+2018,JUN,Domestic Production,Oths.,7
+2018,JUN,Domestic Production,Pailin,445
+2018,JUN,Domestic Production,Phu horm,111
+2018,JUN,Domestic Production,Sirikit,33
+2018,JUN,Domestic Production,Tan tawan,90
+2018,JUN,Domestic Production,Yoong thong,7
+2018,JUN,Import,LNG ,735
+2018,JUN,Import,Yadana,496
+2018,JUN,Import,Yetakun,148
+2018,JUN,Import,Zawtika,252
+2018,MAR,Domestic Production,Arthit,256
+2018,MAR,Domestic Production,Bongkot,495
+2018,MAR,Domestic Production,Bongkot Tai,414
+2018,MAR,Domestic Production,Erawan,1317
+2018,MAR,Domestic Production,JDA,525
+2018,MAR,Domestic Production,Jasmin,7
+2018,MAR,Domestic Production,Lanta,1
+2018,MAR,Domestic Production,Nam phong,6
+2018,MAR,Domestic Production,Oths.,5
+2018,MAR,Domestic Production,Pailin,317
+2018,MAR,Domestic Production,Phu horm,64
+2018,MAR,Domestic Production,Sirikit,28
+2018,MAR,Domestic Production,Tan tawan,84
+2018,MAR,Domestic Production,Yoong thong,2
+2018,MAR,Import,LNG ,432
+2018,MAR,Import,Yadana,494
+2018,MAR,Import,Yetakun,167
+2018,MAR,Import,Zawtika,249
+2018,MAY,Domestic Production,Arthit,238
+2018,MAY,Domestic Production,Bongkot,429
+2018,MAY,Domestic Production,Bongkot Tai,390
+2018,MAY,Domestic Production,Erawan,1290
+2018,MAY,Domestic Production,JDA,511
+2018,MAY,Domestic Production,Jasmin,7
+2018,MAY,Domestic Production,Lanta,2
+2018,MAY,Domestic Production,Nam phong,9
+2018,MAY,Domestic Production,Oths.,8
+2018,MAY,Domestic Production,Pailin,440
+2018,MAY,Domestic Production,Phu horm,102
+2018,MAY,Domestic Production,Sirikit,36
+2018,MAY,Domestic Production,Tan tawan,91
+2018,MAY,Domestic Production,Yoong thong,2
+2018,MAY,Import,LNG ,592
+2018,MAY,Import,Yadana,484
+2018,MAY,Import,Yetakun,159
+2018,MAY,Import,Zawtika,249
+2018,NOV,Domestic Production,Arthit,256
+2018,NOV,Domestic Production,Bongkot,564
+2018,NOV,Domestic Production,Bongkot Tai,414
+2018,NOV,Domestic Production,Erawan,1354
+2018,NOV,Domestic Production,JDA,523
+2018,NOV,Domestic Production,Jasmin,5
+2018,NOV,Domestic Production,Lanta,3
+2018,NOV,Domestic Production,Nam phong,9
+2018,NOV,Domestic Production,Oths.,5
+2018,NOV,Domestic Production,Pailin,438
+2018,NOV,Domestic Production,Phu horm,113
+2018,NOV,Domestic Production,Sirikit,29
+2018,NOV,Domestic Production,Tan tawan,86
+2018,NOV,Domestic Production,Yoong thong,5
+2018,NOV,Import,LNG ,576
+2018,NOV,Import,Yadana,445
+2018,NOV,Import,Yetakun,137
+2018,NOV,Import,Zawtika,209
+2018,OCT,Domestic Production,Arthit,257
+2018,OCT,Domestic Production,Bongkot,563
+2018,OCT,Domestic Production,Bongkot Tai,415
+2018,OCT,Domestic Production,Erawan,1268
+2018,OCT,Domestic Production,JDA,508
+2018,OCT,Domestic Production,Jasmin,5
+2018,OCT,Domestic Production,Lanta,1
+2018,OCT,Domestic Production,Nam phong,9
+2018,OCT,Domestic Production,Oths.,5
+2018,OCT,Domestic Production,Pailin,428
+2018,OCT,Domestic Production,Phu horm,110
+2018,OCT,Domestic Production,Sirikit,29
+2018,OCT,Domestic Production,Tan tawan,90
+2018,OCT,Domestic Production,Yoong thong,6
+2018,OCT,Import,LNG ,585
+2018,OCT,Import,Yadana,434
+2018,OCT,Import,Yetakun,141
+2018,OCT,Import,Zawtika,231
+2018,SEP,Domestic Production,Arthit,211
+2018,SEP,Domestic Production,Bongkot,433
+2018,SEP,Domestic Production,Bongkot Tai,343
+2018,SEP,Domestic Production,Erawan,987
+2018,SEP,Domestic Production,JDA,515
+2018,SEP,Domestic Production,Jasmin,5
+2018,SEP,Domestic Production,Lanta,3
+2018,SEP,Domestic Production,Nam phong,7
+2018,SEP,Domestic Production,Oths.,5
+2018,SEP,Domestic Production,Pailin,440
+2018,SEP,Domestic Production,Phu horm,38
+2018,SEP,Domestic Production,Sirikit,31
+2018,SEP,Domestic Production,Tan tawan,88
+2018,SEP,Domestic Production,Yoong thong,8
+2018,SEP,Import,LNG ,685
+2018,SEP,Import,Yadana,470
+2018,SEP,Import,Yetakun,142
+2018,SEP,Import,Zawtika,234
+1986,APR,Domestic Production,Erawan,330
+1986,APR,Domestic Production,Sirikit,22
+1986,AUG,Domestic Production,Erawan,296
+1986,AUG,Domestic Production,Sirikit,26
+1986,DEC,Domestic Production,Erawan,347
+1986,DEC,Domestic Production,Sirikit,32
+1986,FEB,Domestic Production,Erawan,316
+1986,FEB,Domestic Production,Sirikit,34
+1986,JAN,Domestic Production,Erawan,338
+1986,JAN,Domestic Production,Sirikit,32
+1986,JUL,Domestic Production,Erawan,302
+1986,JUL,Domestic Production,Sirikit,29
+1986,JUN,Domestic Production,Erawan,314
+1986,JUN,Domestic Production,Sirikit,29
+1986,MAR,Domestic Production,Erawan,342
+1986,MAR,Domestic Production,Sirikit,31
+1986,MAY,Domestic Production,Erawan,334
+1986,MAY,Domestic Production,Sirikit,28
+1986,NOV,Domestic Production,Erawan,327
+1986,NOV,Domestic Production,Sirikit,30
+1986,OCT,Domestic Production,Erawan,325
+1986,OCT,Domestic Production,Sirikit,29
+1986,SEP,Domestic Production,Erawan,279
+1986,SEP,Domestic Production,Sirikit,29
+1987,APR,Domestic Production,Erawan,409
+1987,APR,Domestic Production,Sirikit,29
+1987,AUG,Domestic Production,Erawan,484
+1987,AUG,Domestic Production,Sirikit,31
+1987,DEC,Domestic Production,Erawan,469
+1987,DEC,Domestic Production,Sirikit,36
+1987,FEB,Domestic Production,Erawan,402
+1987,FEB,Domestic Production,Sirikit,27
+1987,JAN,Domestic Production,Erawan,368
+1987,JAN,Domestic Production,Sirikit,30
+1987,JUL,Domestic Production,Erawan,493
+1987,JUL,Domestic Production,Sirikit,30
+1987,JUN,Domestic Production,Erawan,526
+1987,JUN,Domestic Production,Sirikit,31
+1987,MAR,Domestic Production,Erawan,415
+1987,MAR,Domestic Production,Sirikit,28
+1987,MAY,Domestic Production,Erawan,430
+1987,MAY,Domestic Production,Sirikit,32
+1987,NOV,Domestic Production,Erawan,475
+1987,NOV,Domestic Production,Sirikit,37
+1987,OCT,Domestic Production,Erawan,494
+1987,OCT,Domestic Production,Sirikit,31
+1987,SEP,Domestic Production,Erawan,536
+1987,SEP,Domestic Production,Sirikit,29
+1988,APR,Domestic Production,Erawan,543
+1988,APR,Domestic Production,Oths.,0
+1988,APR,Domestic Production,Sirikit,11
+1988,AUG,Domestic Production,Erawan,558
+1988,AUG,Domestic Production,Sirikit,36
+1988,DEC,Domestic Production,Erawan,560
+1988,DEC,Domestic Production,Sirikit,23
+1988,FEB,Domestic Production,Erawan,539
+1988,FEB,Domestic Production,Oths.,0
+1988,FEB,Domestic Production,Sirikit,36
+1988,JAN,Domestic Production,Erawan,513
+1988,JAN,Domestic Production,Oths.,0
+1988,JAN,Domestic Production,Sirikit,36
+1988,JUL,Domestic Production,Erawan,546
+1988,JUL,Domestic Production,Oths.,0
+1988,JUL,Domestic Production,Sirikit,34
+1988,JUN,Domestic Production,Erawan,572
+1988,JUN,Domestic Production,Oths.,0
+1988,JUN,Domestic Production,Sirikit,31
+1988,MAR,Domestic Production,Erawan,530
+1988,MAR,Domestic Production,Oths.,0
+1988,MAR,Domestic Production,Sirikit,37
+1988,MAY,Domestic Production,Erawan,553
+1988,MAY,Domestic Production,Oths.,0
+1988,MAY,Domestic Production,Sirikit,28
+1988,NOV,Domestic Production,Erawan,539
+1988,NOV,Domestic Production,Sirikit,27
+1988,OCT,Domestic Production,Erawan,562
+1988,OCT,Domestic Production,Sirikit,31
+1988,SEP,Domestic Production,Erawan,557
+1988,SEP,Domestic Production,Sirikit,35
+1989,APR,Domestic Production,Erawan,569
+1989,APR,Domestic Production,Sirikit,17
+1989,AUG,Domestic Production,Erawan,534
+1989,AUG,Domestic Production,Sirikit,38
+1989,DEC,Domestic Production,Erawan,575
+1989,DEC,Domestic Production,Sirikit,34
+1989,FEB,Domestic Production,Erawan,542
+1989,FEB,Domestic Production,Sirikit,23
+1989,JAN,Domestic Production,Erawan,562
+1989,JAN,Domestic Production,Sirikit,29
+1989,JUL,Domestic Production,Erawan,533
+1989,JUL,Domestic Production,Sirikit,37
+1989,JUN,Domestic Production,Erawan,552
+1989,JUN,Domestic Production,Sirikit,35
+1989,MAR,Domestic Production,Erawan,556
+1989,MAR,Domestic Production,Sirikit,28
+1989,MAY,Domestic Production,Erawan,533
+1989,MAY,Domestic Production,Sirikit,31
+1989,NOV,Domestic Production,Erawan,549
+1989,NOV,Domestic Production,Sirikit,35
+1989,OCT,Domestic Production,Erawan,538
+1989,OCT,Domestic Production,Sirikit,40
+1989,SEP,Domestic Production,Erawan,517
+1989,SEP,Domestic Production,Sirikit,42
+1990,APR,Domestic Production,Erawan,572
+1990,APR,Domestic Production,Sirikit,41
+1990,AUG,Domestic Production,Erawan,588
+1990,AUG,Domestic Production,Sirikit,42
+1990,DEC,Domestic Production,Erawan,648
+1990,DEC,Domestic Production,Sirikit,44
+1990,FEB,Domestic Production,Erawan,579
+1990,FEB,Domestic Production,Sirikit,37
+1990,JAN,Domestic Production,Erawan,557
+1990,JAN,Domestic Production,Sirikit,39
+1990,JUL,Domestic Production,Erawan,575
+1990,JUL,Domestic Production,Sirikit,41
+1990,JUN,Domestic Production,Erawan,585
+1990,JUN,Domestic Production,Sirikit,44
+1990,MAR,Domestic Production,Erawan,578
+1990,MAR,Domestic Production,Sirikit,38
+1990,MAY,Domestic Production,Erawan,572
+1990,MAY,Domestic Production,Sirikit,38
+1990,NOV,Domestic Production,Erawan,602
+1990,NOV,Domestic Production,Sirikit,42
+1990,OCT,Domestic Production,Erawan,613
+1990,OCT,Domestic Production,Sirikit,44
+1990,SEP,Domestic Production,Erawan,608
+1990,SEP,Domestic Production,Sirikit,44
+1991,APR,Domestic Production,Erawan,686
+1991,APR,Domestic Production,Nam phong,49
+1991,APR,Domestic Production,Sirikit,46
+1991,AUG,Domestic Production,Erawan,705
+1991,AUG,Domestic Production,Nam phong,66
+1991,AUG,Domestic Production,Sirikit,43
+1991,DEC,Domestic Production,Erawan,669
+1991,DEC,Domestic Production,Nam phong,28
+1991,DEC,Domestic Production,Sirikit,44
+1991,FEB,Domestic Production,Erawan,739
+1991,FEB,Domestic Production,Nam phong,17
+1991,FEB,Domestic Production,Sirikit,40
+1991,JAN,Domestic Production,Erawan,686
+1991,JAN,Domestic Production,Nam phong,8
+1991,JAN,Domestic Production,Sirikit,40
+1991,JUL,Domestic Production,Erawan,705
+1991,JUL,Domestic Production,Nam phong,68
+1991,JUL,Domestic Production,Sirikit,33
+1991,JUN,Domestic Production,Erawan,643
+1991,JUN,Domestic Production,Nam phong,65
+1991,JUN,Domestic Production,Sirikit,48
+1991,MAR,Domestic Production,Erawan,717
+1991,MAR,Domestic Production,Nam phong,58
+1991,MAR,Domestic Production,Sirikit,43
+1991,MAY,Domestic Production,Erawan,687
+1991,MAY,Domestic Production,Nam phong,61
+1991,MAY,Domestic Production,Sirikit,47
+1991,NOV,Domestic Production,Erawan,677
+1991,NOV,Domestic Production,Nam phong,58
+1991,NOV,Domestic Production,Sirikit,43
+1991,OCT,Domestic Production,Erawan,666
+1991,OCT,Domestic Production,Nam phong,67
+1991,OCT,Domestic Production,Sirikit,46
+1991,SEP,Domestic Production,Erawan,686
+1991,SEP,Domestic Production,Nam phong,66
+1991,SEP,Domestic Production,Sirikit,43
+1992,APR,Domestic Production,Erawan,694
+1992,APR,Domestic Production,Nam phong,53
+1992,APR,Domestic Production,Sirikit,48
+1992,AUG,Domestic Production,Erawan,761
+1992,AUG,Domestic Production,Nam phong,63
+1992,AUG,Domestic Production,Sirikit,50
+1992,DEC,Domestic Production,Erawan,806
+1992,DEC,Domestic Production,Nam phong,48
+1992,DEC,Domestic Production,Sirikit,58
+1992,FEB,Domestic Production,Erawan,645
+1992,FEB,Domestic Production,Nam phong,60
+1992,FEB,Domestic Production,Sirikit,45
+1992,JAN,Domestic Production,Erawan,670
+1992,JAN,Domestic Production,Nam phong,27
+1992,JAN,Domestic Production,Sirikit,43
+1992,JUL,Domestic Production,Erawan,725
+1992,JUL,Domestic Production,Nam phong,64
+1992,JUL,Domestic Production,Sirikit,47
+1992,JUN,Domestic Production,Erawan,729
+1992,JUN,Domestic Production,Nam phong,65
+1992,JUN,Domestic Production,Sirikit,45
+1992,MAR,Domestic Production,Erawan,630
+1992,MAR,Domestic Production,Nam phong,62
+1992,MAR,Domestic Production,Sirikit,48
+1992,MAY,Domestic Production,Erawan,704
+1992,MAY,Domestic Production,Nam phong,63
+1992,MAY,Domestic Production,Sirikit,49
+1992,NOV,Domestic Production,Erawan,788
+1992,NOV,Domestic Production,Nam phong,61
+1992,NOV,Domestic Production,Sirikit,56
+1992,OCT,Domestic Production,Erawan,751
+1992,OCT,Domestic Production,Nam phong,57
+1992,OCT,Domestic Production,Sirikit,55
+1992,SEP,Domestic Production,Erawan,792
+1992,SEP,Domestic Production,Nam phong,64
+1992,SEP,Domestic Production,Sirikit,52
+1993,APR,Domestic Production,Erawan,831
+1993,APR,Domestic Production,Nam phong,61
+1993,APR,Domestic Production,Sirikit,49
+1993,AUG,Domestic Production,Bongkot,148
+1993,AUG,Domestic Production,Erawan,601
+1993,AUG,Domestic Production,Nam phong,62
+1993,AUG,Domestic Production,Sirikit,64
+1993,DEC,Domestic Production,Bongkot,133
+1993,DEC,Domestic Production,Erawan,693
+1993,DEC,Domestic Production,Nam phong,57
+1993,DEC,Domestic Production,Sirikit,63
+1993,FEB,Domestic Production,Erawan,871
+1993,FEB,Domestic Production,Nam phong,55
+1993,FEB,Domestic Production,Sirikit,52
+1993,JAN,Domestic Production,Erawan,811
+1993,JAN,Domestic Production,Nam phong,40
+1993,JAN,Domestic Production,Sirikit,51
+1993,JUL,Domestic Production,Bongkot,84
+1993,JUL,Domestic Production,Erawan,734
+1993,JUL,Domestic Production,Nam phong,64
+1993,JUL,Domestic Production,Sirikit,62
+1993,JUN,Domestic Production,Erawan,837
+1993,JUN,Domestic Production,Nam phong,61
+1993,JUN,Domestic Production,Sirikit,58
+1993,MAR,Domestic Production,Erawan,858
+1993,MAR,Domestic Production,Nam phong,35
+1993,MAR,Domestic Production,Sirikit,52
+1993,MAY,Domestic Production,Erawan,844
+1993,MAY,Domestic Production,Nam phong,59
+1993,MAY,Domestic Production,Sirikit,53
+1993,NOV,Domestic Production,Bongkot,157
+1993,NOV,Domestic Production,Erawan,676
+1993,NOV,Domestic Production,Nam phong,52
+1993,NOV,Domestic Production,Sirikit,62
+1993,OCT,Domestic Production,Bongkot,157
+1993,OCT,Domestic Production,Erawan,676
+1993,OCT,Domestic Production,Nam phong,60
+1993,OCT,Domestic Production,Sirikit,45
+1993,SEP,Domestic Production,Bongkot,152
+1993,SEP,Domestic Production,Erawan,672
+1993,SEP,Domestic Production,Nam phong,60
+1993,SEP,Domestic Production,Sirikit,62
+1994,APR,Domestic Production,Bongkot,212
+1994,APR,Domestic Production,Erawan,650
+1994,APR,Domestic Production,Nam phong,62
+1994,APR,Domestic Production,Sirikit,64
+1994,AUG,Domestic Production,Bongkot,209
+1994,AUG,Domestic Production,Erawan,756
+1994,AUG,Domestic Production,Nam phong,63
+1994,AUG,Domestic Production,Sirikit,68
+1994,DEC,Domestic Production,Bongkot,209
+1994,DEC,Domestic Production,Erawan,767
+1994,DEC,Domestic Production,Nam phong,65
+1994,DEC,Domestic Production,Sirikit,62
+1994,FEB,Domestic Production,Bongkot,177
+1994,FEB,Domestic Production,Erawan,680
+1994,FEB,Domestic Production,Nam phong,64
+1994,FEB,Domestic Production,Sirikit,55
+1994,JAN,Domestic Production,Bongkot,158
+1994,JAN,Domestic Production,Erawan,662
+1994,JAN,Domestic Production,Nam phong,63
+1994,JAN,Domestic Production,Sirikit,64
+1994,JUL,Domestic Production,Bongkot,214
+1994,JUL,Domestic Production,Erawan,745
+1994,JUL,Domestic Production,Nam phong,62
+1994,JUL,Domestic Production,Sirikit,64
+1994,JUN,Domestic Production,Bongkot,226
+1994,JUN,Domestic Production,Erawan,683
+1994,JUN,Domestic Production,Nam phong,63
+1994,JUN,Domestic Production,Sirikit,63
+1994,MAR,Domestic Production,Bongkot,197
+1994,MAR,Domestic Production,Erawan,623
+1994,MAR,Domestic Production,Nam phong,63
+1994,MAR,Domestic Production,Sirikit,65
+1994,MAY,Domestic Production,Bongkot,207
+1994,MAY,Domestic Production,Erawan,652
+1994,MAY,Domestic Production,Nam phong,62
+1994,MAY,Domestic Production,Sirikit,64
+1994,NOV,Domestic Production,Bongkot,208
+1994,NOV,Domestic Production,Erawan,770
+1994,NOV,Domestic Production,Nam phong,62
+1994,NOV,Domestic Production,Sirikit,69
+1994,OCT,Domestic Production,Bongkot,201
+1994,OCT,Domestic Production,Erawan,752
+1994,OCT,Domestic Production,Nam phong,62
+1994,OCT,Domestic Production,Sirikit,72
+1994,SEP,Domestic Production,Bongkot,210
+1994,SEP,Domestic Production,Erawan,744
+1994,SEP,Domestic Production,Nam phong,63
+1994,SEP,Domestic Production,Sirikit,72
+1995,APR,Domestic Production,Bongkot,187
+1995,APR,Domestic Production,Erawan,747
+1995,APR,Domestic Production,Nam phong,63
+1995,APR,Domestic Production,Sirikit,77
+1995,AUG,Domestic Production,Bongkot,262
+1995,AUG,Domestic Production,Erawan,713
+1995,AUG,Domestic Production,Nam phong,65
+1995,AUG,Domestic Production,Sirikit,73
+1995,DEC,Domestic Production,Bongkot,164
+1995,DEC,Domestic Production,Erawan,812
+1995,DEC,Domestic Production,Nam phong,65
+1995,DEC,Domestic Production,Sirikit,79
+1995,FEB,Domestic Production,Bongkot,254
+1995,FEB,Domestic Production,Erawan,730
+1995,FEB,Domestic Production,Nam phong,64
+1995,FEB,Domestic Production,Sirikit,69
+1995,JAN,Domestic Production,Bongkot,239
+1995,JAN,Domestic Production,Erawan,732
+1995,JAN,Domestic Production,Nam phong,60
+1995,JAN,Domestic Production,Sirikit,67
+1995,JUL,Domestic Production,Bongkot,248
+1995,JUL,Domestic Production,Erawan,696
+1995,JUL,Domestic Production,Nam phong,65
+1995,JUL,Domestic Production,Sirikit,77
+1995,JUN,Domestic Production,Bongkot,248
+1995,JUN,Domestic Production,Erawan,706
+1995,JUN,Domestic Production,Nam phong,64
+1995,JUN,Domestic Production,Sirikit,45
+1995,MAR,Domestic Production,Bongkot,260
+1995,MAR,Domestic Production,Erawan,727
+1995,MAR,Domestic Production,Nam phong,64
+1995,MAR,Domestic Production,Sirikit,71
+1995,MAY,Domestic Production,Bongkot,256
+1995,MAY,Domestic Production,Erawan,685
+1995,MAY,Domestic Production,Nam phong,63
+1995,MAY,Domestic Production,Sirikit,73
+1995,NOV,Domestic Production,Bongkot,201
+1995,NOV,Domestic Production,Erawan,770
+1995,NOV,Domestic Production,Nam phong,66
+1995,NOV,Domestic Production,Sirikit,78
+1995,OCT,Domestic Production,Bongkot,263
+1995,OCT,Domestic Production,Erawan,727
+1995,OCT,Domestic Production,Nam phong,65
+1995,OCT,Domestic Production,Sirikit,67
+1995,SEP,Domestic Production,Bongkot,262
+1995,SEP,Domestic Production,Erawan,713
+1995,SEP,Domestic Production,Nam phong,65
+1995,SEP,Domestic Production,Sirikit,41
+1996,APR,Domestic Production,Bongkot,333
+1996,APR,Domestic Production,Erawan,733
+1996,APR,Domestic Production,Nam phong,62
+1996,APR,Domestic Production,Sirikit,60
+1996,AUG,Domestic Production,Bongkot,312
+1996,AUG,Domestic Production,Erawan,810
+1996,AUG,Domestic Production,Nam phong,64
+1996,AUG,Domestic Production,Sirikit,63
+1996,DEC,Domestic Production,Bongkot,306
+1996,DEC,Domestic Production,Erawan,972
+1996,DEC,Domestic Production,Nam phong,64
+1996,DEC,Domestic Production,Sirikit,61
+1996,FEB,Domestic Production,Bongkot,306
+1996,FEB,Domestic Production,Erawan,658
+1996,FEB,Domestic Production,Nam phong,65
+1996,FEB,Domestic Production,Sirikit,62
+1996,JAN,Domestic Production,Bongkot,285
+1996,JAN,Domestic Production,Erawan,698
+1996,JAN,Domestic Production,Nam phong,64
+1996,JAN,Domestic Production,Sirikit,59
+1996,JUL,Domestic Production,Bongkot,393
+1996,JUL,Domestic Production,Erawan,772
+1996,JUL,Domestic Production,Nam phong,67
+1996,JUL,Domestic Production,Sirikit,63
+1996,JUN,Domestic Production,Bongkot,392
+1996,JUN,Domestic Production,Erawan,735
+1996,JUN,Domestic Production,Nam phong,65
+1996,JUN,Domestic Production,Sirikit,58
+1996,MAR,Domestic Production,Bongkot,266
+1996,MAR,Domestic Production,Erawan,705
+1996,MAR,Domestic Production,Nam phong,64
+1996,MAR,Domestic Production,Sirikit,59
+1996,MAY,Domestic Production,Bongkot,357
+1996,MAY,Domestic Production,Erawan,783
+1996,MAY,Domestic Production,Nam phong,65
+1996,MAY,Domestic Production,Sirikit,59
+1996,NOV,Domestic Production,Bongkot,372
+1996,NOV,Domestic Production,Erawan,972
+1996,NOV,Domestic Production,Nam phong,66
+1996,NOV,Domestic Production,Sirikit,59
+1996,OCT,Domestic Production,Bongkot,349
+1996,OCT,Domestic Production,Erawan,982
+1996,OCT,Domestic Production,Nam phong,63
+1996,OCT,Domestic Production,Sirikit,59
+1996,SEP,Domestic Production,Bongkot,364
+1996,SEP,Domestic Production,Erawan,837
+1996,SEP,Domestic Production,Nam phong,65
+1996,SEP,Domestic Production,Sirikit,61
+1997,APR,Domestic Production,Bongkot,303
+1997,APR,Domestic Production,Erawan,929
+1997,APR,Domestic Production,Nam phong,63
+1997,APR,Domestic Production,Sirikit,61
+1997,APR,Domestic Production,Tan tawan,92
+1997,AUG,Domestic Production,Bongkot,356
+1997,AUG,Domestic Production,Erawan,1022
+1997,AUG,Domestic Production,Nam phong,95
+1997,AUG,Domestic Production,Sirikit,59
+1997,AUG,Domestic Production,Tan tawan,95
+1997,DEC,Domestic Production,Bongkot,352
+1997,DEC,Domestic Production,Erawan,991
+1997,DEC,Domestic Production,Nam phong,96
+1997,DEC,Domestic Production,Sirikit,64
+1997,DEC,Domestic Production,Tan tawan,101
+1997,FEB,Domestic Production,Bongkot,367
+1997,FEB,Domestic Production,Erawan,976
+1997,FEB,Domestic Production,Nam phong,66
+1997,FEB,Domestic Production,Sirikit,62
+1997,FEB,Domestic Production,Tan tawan,36
+1997,JAN,Domestic Production,Bongkot,361
+1997,JAN,Domestic Production,Erawan,1000
+1997,JAN,Domestic Production,Nam phong,64
+1997,JAN,Domestic Production,Sirikit,60
+1997,JUL,Domestic Production,Bongkot,371
+1997,JUL,Domestic Production,Erawan,1013
+1997,JUL,Domestic Production,Nam phong,82
+1997,JUL,Domestic Production,Sirikit,60
+1997,JUL,Domestic Production,Tan tawan,92
+1997,JUN,Domestic Production,Bongkot,369
+1997,JUN,Domestic Production,Erawan,1049
+1997,JUN,Domestic Production,Nam phong,64
+1997,JUN,Domestic Production,Sirikit,60
+1997,JUN,Domestic Production,Tan tawan,94
+1997,MAR,Domestic Production,Bongkot,288
+1997,MAR,Domestic Production,Erawan,1022
+1997,MAR,Domestic Production,Nam phong,66
+1997,MAR,Domestic Production,Sirikit,59
+1997,MAR,Domestic Production,Tan tawan,86
+1997,MAY,Domestic Production,Bongkot,302
+1997,MAY,Domestic Production,Erawan,947
+1997,MAY,Domestic Production,Nam phong,65
+1997,MAY,Domestic Production,Sirikit,61
+1997,MAY,Domestic Production,Tan tawan,92
+1997,NOV,Domestic Production,Bongkot,376
+1997,NOV,Domestic Production,Erawan,986
+1997,NOV,Domestic Production,Nam phong,97
+1997,NOV,Domestic Production,Sirikit,63
+1997,NOV,Domestic Production,Tan tawan,105
+1997,OCT,Domestic Production,Bongkot,355
+1997,OCT,Domestic Production,Erawan,1011
+1997,OCT,Domestic Production,Nam phong,97
+1997,OCT,Domestic Production,Sirikit,62
+1997,OCT,Domestic Production,Tan tawan,105
+1997,SEP,Domestic Production,Bongkot,326
+1997,SEP,Domestic Production,Erawan,1011
+1997,SEP,Domestic Production,Nam phong,97
+1997,SEP,Domestic Production,Sirikit,61
+1997,SEP,Domestic Production,Tan tawan,99
+1998,APR,Domestic Production,Bongkot,184
+1998,APR,Domestic Production,Erawan,1058
+1998,APR,Domestic Production,Nam phong,95
+1998,APR,Domestic Production,Sirikit,62
+1998,APR,Domestic Production,Tan tawan,104
+1998,AUG,Domestic Production,Bongkot,532
+1998,AUG,Domestic Production,Erawan,1023
+1998,AUG,Domestic Production,Nam phong,66
+1998,AUG,Domestic Production,Sirikit,55
+1998,AUG,Domestic Production,Tan tawan,87
+1998,AUG,Import,Yadana,10
+1998,DEC,Domestic Production,Bongkot,519
+1998,DEC,Domestic Production,Erawan,976
+1998,DEC,Domestic Production,Nam phong,92
+1998,DEC,Domestic Production,Sirikit,52
+1998,DEC,Domestic Production,Tan tawan,67
+1998,DEC,Import,Yadana,3
+1998,FEB,Domestic Production,Bongkot,383
+1998,FEB,Domestic Production,Erawan,1016
+1998,FEB,Domestic Production,Nam phong,95
+1998,FEB,Domestic Production,Sirikit,44
+1998,FEB,Domestic Production,Tan tawan,104
+1998,JAN,Domestic Production,Bongkot,328
+1998,JAN,Domestic Production,Erawan,920
+1998,JAN,Domestic Production,Nam phong,96
+1998,JAN,Domestic Production,Sirikit,60
+1998,JAN,Domestic Production,Tan tawan,100
+1998,JUL,Domestic Production,Bongkot,463
+1998,JUL,Domestic Production,Erawan,1037
+1998,JUL,Domestic Production,Nam phong,96
+1998,JUL,Domestic Production,Sirikit,57
+1998,JUL,Domestic Production,Tan tawan,86
+1998,JUL,Import,Yadana,0
+1998,JUN,Domestic Production,Bongkot,369
+1998,JUN,Domestic Production,Erawan,1119
+1998,JUN,Domestic Production,Nam phong,96
+1998,JUN,Domestic Production,Sirikit,60
+1998,JUN,Domestic Production,Tan tawan,90
+1998,MAR,Domestic Production,Bongkot,389
+1998,MAR,Domestic Production,Erawan,1035
+1998,MAR,Domestic Production,Nam phong,96
+1998,MAR,Domestic Production,Sirikit,63
+1998,MAR,Domestic Production,Tan tawan,105
+1998,MAY,Domestic Production,Bongkot,366
+1998,MAY,Domestic Production,Erawan,1126
+1998,MAY,Domestic Production,Nam phong,88
+1998,MAY,Domestic Production,Sirikit,58
+1998,MAY,Domestic Production,Tan tawan,92
+1998,NOV,Domestic Production,Bongkot,583
+1998,NOV,Domestic Production,Erawan,1022
+1998,NOV,Domestic Production,Nam phong,84
+1998,NOV,Domestic Production,Sirikit,55
+1998,NOV,Domestic Production,Tan tawan,75
+1998,NOV,Import,Yadana,8
+1998,OCT,Domestic Production,Bongkot,575
+1998,OCT,Domestic Production,Erawan,1015
+1998,OCT,Domestic Production,Nam phong,85
+1998,OCT,Domestic Production,Sirikit,55
+1998,OCT,Domestic Production,Tan tawan,84
+1998,OCT,Import,Yadana,4
+1998,SEP,Domestic Production,Bongkot,549
+1998,SEP,Domestic Production,Erawan,964
+1998,SEP,Domestic Production,Nam phong,87
+1998,SEP,Domestic Production,Sirikit,37
+1998,SEP,Domestic Production,Tan tawan,85
+1999,APR,Domestic Production,Bongkot,627
+1999,APR,Domestic Production,Erawan,940
+1999,APR,Domestic Production,Nam phong,92
+1999,APR,Domestic Production,Sirikit,56
+1999,APR,Domestic Production,Tan tawan,49
+1999,AUG,Domestic Production,Bongkot,611
+1999,AUG,Domestic Production,Erawan,1004
+1999,AUG,Domestic Production,Nam phong,101
+1999,AUG,Domestic Production,Pailin,29
+1999,AUG,Domestic Production,Sirikit,53
+1999,AUG,Domestic Production,Tan tawan,108
+1999,DEC,Domestic Production,Bongkot,505
+1999,DEC,Domestic Production,Erawan,857
+1999,DEC,Domestic Production,Nam phong,69
+1999,DEC,Domestic Production,Pailin,229
+1999,DEC,Domestic Production,Sirikit,61
+1999,DEC,Domestic Production,Tan tawan,140
+1999,DEC,Import,Yadana,1
+1999,FEB,Domestic Production,Bongkot,426
+1999,FEB,Domestic Production,Erawan,1040
+1999,FEB,Domestic Production,Nam phong,92
+1999,FEB,Domestic Production,Sirikit,51
+1999,FEB,Domestic Production,Tan tawan,62
+1999,FEB,Import,Yadana,6
+1999,JAN,Domestic Production,Bongkot,546
+1999,JAN,Domestic Production,Erawan,963
+1999,JAN,Domestic Production,Nam phong,86
+1999,JAN,Domestic Production,Sirikit,54
+1999,JAN,Domestic Production,Tan tawan,64
+1999,JUL,Domestic Production,Bongkot,565
+1999,JUL,Domestic Production,Erawan,1031
+1999,JUL,Domestic Production,Nam phong,102
+1999,JUL,Domestic Production,Sirikit,56
+1999,JUL,Domestic Production,Tan tawan,75
+1999,JUN,Domestic Production,Bongkot,661
+1999,JUN,Domestic Production,Erawan,1027
+1999,JUN,Domestic Production,Nam phong,114
+1999,JUN,Domestic Production,Sirikit,53
+1999,JUN,Domestic Production,Tan tawan,62
+1999,MAR,Domestic Production,Bongkot,619
+1999,MAR,Domestic Production,Erawan,1025
+1999,MAR,Domestic Production,Nam phong,92
+1999,MAR,Domestic Production,Sirikit,52
+1999,MAR,Domestic Production,Tan tawan,110
+1999,MAY,Domestic Production,Bongkot,628
+1999,MAY,Domestic Production,Erawan,993
+1999,MAY,Domestic Production,Nam phong,94
+1999,MAY,Domestic Production,Sirikit,56
+1999,MAY,Domestic Production,Tan tawan,54
+1999,NOV,Domestic Production,Bongkot,588
+1999,NOV,Domestic Production,Erawan,890
+1999,NOV,Domestic Production,Nam phong,82
+1999,NOV,Domestic Production,Pailin,243
+1999,NOV,Domestic Production,Sirikit,61
+1999,NOV,Domestic Production,Tan tawan,151
+1999,NOV,Import,Yadana,8
+1999,OCT,Domestic Production,Bongkot,574
+1999,OCT,Domestic Production,Erawan,905
+1999,OCT,Domestic Production,Nam phong,92
+1999,OCT,Domestic Production,Oths.,0
+1999,OCT,Domestic Production,Pailin,223
+1999,OCT,Domestic Production,Sirikit,58
+1999,OCT,Domestic Production,Tan tawan,163
+1999,OCT,Import,Yadana,2
+1999,SEP,Domestic Production,Bongkot,578
+1999,SEP,Domestic Production,Erawan,1011
+1999,SEP,Domestic Production,Nam phong,96
+1999,SEP,Domestic Production,Sirikit,56
+1999,SEP,Domestic Production,Tan tawan,144
+1999,SEP,Import,Yadana,2
+2000,APR,Domestic Production,Bongkot,554
+2000,APR,Domestic Production,Erawan,913
+2000,APR,Domestic Production,Nam phong,65
+2000,APR,Domestic Production,Pailin,204
+2000,APR,Domestic Production,Sirikit,54
+2000,APR,Domestic Production,Tan tawan,118
+2000,APR,Import,Yadana,17
+2000,AUG,Domestic Production,Bongkot,562
+2000,AUG,Domestic Production,Erawan,854
+2000,AUG,Domestic Production,Nam phong,65
+2000,AUG,Domestic Production,Pailin,231
+2000,AUG,Domestic Production,Sirikit,62
+2000,AUG,Domestic Production,Tan tawan,151
+2000,AUG,Import,Yadana,136
+2000,AUG,Import,Yetakun,43
+2000,DEC,Domestic Production,Bongkot,538
+2000,DEC,Domestic Production,Erawan,709
+2000,DEC,Domestic Production,Nam phong,60
+2000,DEC,Domestic Production,Oths.,0
+2000,DEC,Domestic Production,Pailin,241
+2000,DEC,Domestic Production,Sirikit,60
+2000,DEC,Domestic Production,Tan tawan,157
+2000,DEC,Import,Yadana,333
+2000,DEC,Import,Yetakun,95
+2000,FEB,Domestic Production,Bongkot,546
+2000,FEB,Domestic Production,Erawan,896
+2000,FEB,Domestic Production,Nam phong,81
+2000,FEB,Domestic Production,Oths.,0
+2000,FEB,Domestic Production,Pailin,241
+2000,FEB,Domestic Production,Sirikit,57
+2000,FEB,Domestic Production,Tan tawan,153
+2000,FEB,Import,Yadana,50
+2000,JAN,Domestic Production,Bongkot,575
+2000,JAN,Domestic Production,Erawan,878
+2000,JAN,Domestic Production,Nam phong,80
+2000,JAN,Domestic Production,Pailin,233
+2000,JAN,Domestic Production,Sirikit,60
+2000,JAN,Domestic Production,Tan tawan,143
+2000,JAN,Import,Yadana,51
+2000,JUL,Domestic Production,Bongkot,594
+2000,JUL,Domestic Production,Erawan,835
+2000,JUL,Domestic Production,Nam phong,63
+2000,JUL,Domestic Production,Pailin,241
+2000,JUL,Domestic Production,Sirikit,60
+2000,JUL,Domestic Production,Tan tawan,162
+2000,JUL,Import,Yadana,127
+2000,JUL,Import,Yetakun,40
+2000,JUN,Domestic Production,Bongkot,598
+2000,JUN,Domestic Production,Erawan,917
+2000,JUN,Domestic Production,Nam phong,67
+2000,JUN,Domestic Production,Oths.,0
+2000,JUN,Domestic Production,Pailin,244
+2000,JUN,Domestic Production,Sirikit,61
+2000,JUN,Domestic Production,Tan tawan,161
+2000,JUN,Import,Yadana,99
+2000,JUN,Import,Yetakun,32
+2000,MAR,Domestic Production,Bongkot,583
+2000,MAR,Domestic Production,Erawan,887
+2000,MAR,Domestic Production,Nam phong,76
+2000,MAR,Domestic Production,Pailin,254
+2000,MAR,Domestic Production,Sirikit,56
+2000,MAR,Domestic Production,Tan tawan,158
+2000,MAR,Import,Yadana,33
+2000,MAY,Domestic Production,Bongkot,586
+2000,MAY,Domestic Production,Erawan,985
+2000,MAY,Domestic Production,Nam phong,82
+2000,MAY,Domestic Production,Pailin,182
+2000,MAY,Domestic Production,Sirikit,60
+2000,MAY,Domestic Production,Tan tawan,152
+2000,MAY,Import,Yadana,74
+2000,MAY,Import,Yetakun,27
+2000,NOV,Domestic Production,Bongkot,520
+2000,NOV,Domestic Production,Erawan,824
+2000,NOV,Domestic Production,Nam phong,63
+2000,NOV,Domestic Production,Pailin,252
+2000,NOV,Domestic Production,Sirikit,62
+2000,NOV,Domestic Production,Tan tawan,171
+2000,NOV,Import,Yadana,249
+2000,NOV,Import,Yetakun,75
+2000,OCT,Domestic Production,Bongkot,538
+2000,OCT,Domestic Production,Erawan,921
+2000,OCT,Domestic Production,Nam phong,76
+2000,OCT,Domestic Production,Oths.,0
+2000,OCT,Domestic Production,Pailin,240
+2000,OCT,Domestic Production,Sirikit,61
+2000,OCT,Domestic Production,Tan tawan,163
+2000,OCT,Import,Yadana,174
+2000,OCT,Import,Yetakun,55
+2000,SEP,Domestic Production,Bongkot,379
+2000,SEP,Domestic Production,Erawan,971
+2000,SEP,Domestic Production,Nam phong,77
+2000,SEP,Domestic Production,Pailin,244
+2000,SEP,Domestic Production,Sirikit,55
+2000,SEP,Domestic Production,Tan tawan,158
+2000,SEP,Import,Yadana,193
+2000,SEP,Import,Yetakun,63
+2001,APR,Domestic Production,Bongkot,526
+2001,APR,Domestic Production,Erawan,905
+2001,APR,Domestic Production,Nam phong,61
+2001,APR,Domestic Production,Oths.,0
+2001,APR,Domestic Production,Pailin,256
+2001,APR,Domestic Production,Sirikit,53
+2001,APR,Domestic Production,Tan tawan,165
+2001,APR,Import,Yadana,447
+2001,APR,Import,Yetakun,131
+2001,AUG,Domestic Production,Bongkot,637
+2001,AUG,Domestic Production,Erawan,775
+2001,AUG,Domestic Production,Nam phong,60
+2001,AUG,Domestic Production,Oths.,0
+2001,AUG,Domestic Production,Pailin,220
+2001,AUG,Domestic Production,Sirikit,55
+2001,AUG,Domestic Production,Tan tawan,147
+2001,AUG,Import,Yadana,417
+2001,AUG,Import,Yetakun,130
+2001,DEC,Domestic Production,Bongkot,527
+2001,DEC,Domestic Production,Erawan,749
+2001,DEC,Domestic Production,Nam phong,62
+2001,DEC,Domestic Production,Pailin,123
+2001,DEC,Domestic Production,Sirikit,58
+2001,DEC,Domestic Production,Tan tawan,184
+2001,DEC,Import,Yadana,330
+2001,DEC,Import,Yetakun,119
+2001,FEB,Domestic Production,Bongkot,585
+2001,FEB,Domestic Production,Erawan,719
+2001,FEB,Domestic Production,Nam phong,60
+2001,FEB,Domestic Production,Pailin,232
+2001,FEB,Domestic Production,Sirikit,59
+2001,FEB,Domestic Production,Tan tawan,153
+2001,FEB,Import,Yadana,369
+2001,FEB,Import,Yetakun,108
+2001,JAN,Domestic Production,Bongkot,547
+2001,JAN,Domestic Production,Erawan,697
+2001,JAN,Domestic Production,Nam phong,60
+2001,JAN,Domestic Production,Pailin,231
+2001,JAN,Domestic Production,Sirikit,59
+2001,JAN,Domestic Production,Tan tawan,147
+2001,JAN,Import,Yadana,359
+2001,JAN,Import,Yetakun,106
+2001,JUL,Domestic Production,Bongkot,526
+2001,JUL,Domestic Production,Erawan,920
+2001,JUL,Domestic Production,Nam phong,59
+2001,JUL,Domestic Production,Oths.,0
+2001,JUL,Domestic Production,Pailin,244
+2001,JUL,Domestic Production,Sirikit,59
+2001,JUL,Domestic Production,Tan tawan,188
+2001,JUL,Import,Yadana,388
+2001,JUL,Import,Yetakun,121
+2001,JUN,Domestic Production,Bongkot,609
+2001,JUN,Domestic Production,Erawan,938
+2001,JUN,Domestic Production,Nam phong,57
+2001,JUN,Domestic Production,Oths.,0
+2001,JUN,Domestic Production,Pailin,254
+2001,JUN,Domestic Production,Sirikit,56
+2001,JUN,Domestic Production,Tan tawan,164
+2001,JUN,Import,Yadana,344
+2001,JUN,Import,Yetakun,109
+2001,MAR,Domestic Production,Bongkot,611
+2001,MAR,Domestic Production,Erawan,807
+2001,MAR,Domestic Production,Nam phong,61
+2001,MAR,Domestic Production,Pailin,247
+2001,MAR,Domestic Production,Sirikit,59
+2001,MAR,Domestic Production,Tan tawan,158
+2001,MAR,Import,Yadana,371
+2001,MAR,Import,Yetakun,109
+2001,MAY,Domestic Production,Bongkot,582
+2001,MAY,Domestic Production,Erawan,922
+2001,MAY,Domestic Production,Nam phong,60
+2001,MAY,Domestic Production,Oths.,0
+2001,MAY,Domestic Production,Pailin,259
+2001,MAY,Domestic Production,Sirikit,56
+2001,MAY,Domestic Production,Tan tawan,186
+2001,MAY,Import,Yadana,354
+2001,MAY,Import,Yetakun,109
+2001,NOV,Domestic Production,Bongkot,598
+2001,NOV,Domestic Production,Erawan,752
+2001,NOV,Domestic Production,Nam phong,62
+2001,NOV,Domestic Production,Pailin,146
+2001,NOV,Domestic Production,Sirikit,56
+2001,NOV,Domestic Production,Tan tawan,213
+2001,NOV,Import,Yadana,330
+2001,NOV,Import,Yetakun,121
+2001,OCT,Domestic Production,Bongkot,616
+2001,OCT,Domestic Production,Erawan,832
+2001,OCT,Domestic Production,Nam phong,61
+2001,OCT,Domestic Production,Pailin,142
+2001,OCT,Domestic Production,Sirikit,59
+2001,OCT,Domestic Production,Tan tawan,177
+2001,OCT,Import,Yadana,399
+2001,OCT,Import,Yetakun,129
+2001,SEP,Domestic Production,Bongkot,649
+2001,SEP,Domestic Production,Erawan,765
+2001,SEP,Domestic Production,Nam phong,61
+2001,SEP,Domestic Production,Oths.,0
+2001,SEP,Domestic Production,Pailin,196
+2001,SEP,Domestic Production,Sirikit,58
+2001,SEP,Domestic Production,Tan tawan,162
+2001,SEP,Import,Yadana,423
+2001,SEP,Import,Yetakun,132
+2002,APR,Domestic Production,Bongkot,612
+2002,APR,Domestic Production,Erawan,864
+2002,APR,Domestic Production,Nam phong,61
+2002,APR,Domestic Production,Pailin,245
+2002,APR,Domestic Production,Sirikit,58
+2002,APR,Domestic Production,Tan tawan,200
+2002,APR,Import,Yadana,373
+2002,APR,Import,Yetakun,125
+2002,AUG,Domestic Production,Bongkot,628
+2002,AUG,Domestic Production,Erawan,754
+2002,AUG,Domestic Production,Nam phong,59
+2002,AUG,Domestic Production,Pailin,411
+2002,AUG,Domestic Production,Sirikit,57
+2002,AUG,Domestic Production,Tan tawan,208
+2002,AUG,Import,Yadana,455
+2002,AUG,Import,Yetakun,185
+2002,DEC,Domestic Production,Bongkot,384
+2002,DEC,Domestic Production,Erawan,834
+2002,DEC,Domestic Production,Nam phong,55
+2002,DEC,Domestic Production,Pailin,271
+2002,DEC,Domestic Production,Sirikit,56
+2002,DEC,Domestic Production,Tan tawan,213
+2002,DEC,Import,Yadana,376
+2002,DEC,Import,Yetakun,271
+2002,FEB,Domestic Production,Bongkot,553
+2002,FEB,Domestic Production,Erawan,837
+2002,FEB,Domestic Production,Nam phong,61
+2002,FEB,Domestic Production,Oths.,0
+2002,FEB,Domestic Production,Pailin,219
+2002,FEB,Domestic Production,Sirikit,62
+2002,FEB,Domestic Production,Tan tawan,184
+2002,FEB,Import,Yadana,412
+2002,FEB,Import,Yetakun,161
+2002,JAN,Domestic Production,Bongkot,551
+2002,JAN,Domestic Production,Erawan,734
+2002,JAN,Domestic Production,Nam phong,61
+2002,JAN,Domestic Production,Oths.,0
+2002,JAN,Domestic Production,Pailin,180
+2002,JAN,Domestic Production,Sirikit,55
+2002,JAN,Domestic Production,Tan tawan,184
+2002,JAN,Import,Yadana,352
+2002,JAN,Import,Yetakun,134
+2002,JUL,Domestic Production,Bongkot,582
+2002,JUL,Domestic Production,Erawan,753
+2002,JUL,Domestic Production,Nam phong,56
+2002,JUL,Domestic Production,Pailin,427
+2002,JUL,Domestic Production,Sirikit,56
+2002,JUL,Domestic Production,Tan tawan,221
+2002,JUL,Import,Yadana,495
+2002,JUL,Import,Yetakun,201
+2002,JUN,Domestic Production,Bongkot,617
+2002,JUN,Domestic Production,Erawan,870
+2002,JUN,Domestic Production,Nam phong,57
+2002,JUN,Domestic Production,Pailin,269
+2002,JUN,Domestic Production,Sirikit,54
+2002,JUN,Domestic Production,Tan tawan,203
+2002,JUN,Import,Yadana,494
+2002,JUN,Import,Yetakun,199
+2002,MAR,Domestic Production,Bongkot,646
+2002,MAR,Domestic Production,Erawan,878
+2002,MAR,Domestic Production,Nam phong,61
+2002,MAR,Domestic Production,Pailin,231
+2002,MAR,Domestic Production,Sirikit,57
+2002,MAR,Domestic Production,Tan tawan,195
+2002,MAR,Import,Yadana,408
+2002,MAR,Import,Yetakun,147
+2002,MAY,Domestic Production,Bongkot,605
+2002,MAY,Domestic Production,Erawan,864
+2002,MAY,Domestic Production,Nam phong,59
+2002,MAY,Domestic Production,Pailin,252
+2002,MAY,Domestic Production,Sirikit,56
+2002,MAY,Domestic Production,Tan tawan,210
+2002,MAY,Import,Yadana,477
+2002,MAY,Import,Yetakun,187
+2002,NOV,Domestic Production,Bongkot,489
+2002,NOV,Domestic Production,Erawan,749
+2002,NOV,Domestic Production,Nam phong,56
+2002,NOV,Domestic Production,Pailin,285
+2002,NOV,Domestic Production,Sirikit,55
+2002,NOV,Domestic Production,Tan tawan,196
+2002,NOV,Import,Yadana,401
+2002,NOV,Import,Yetakun,286
+2002,OCT,Domestic Production,Bongkot,546
+2002,OCT,Domestic Production,Erawan,780
+2002,OCT,Domestic Production,Nam phong,57
+2002,OCT,Domestic Production,Pailin,360
+2002,OCT,Domestic Production,Sirikit,56
+2002,OCT,Domestic Production,Tan tawan,192
+2002,OCT,Import,Yadana,384
+2002,OCT,Import,Yetakun,271
+2002,SEP,Domestic Production,Bongkot,581
+2002,SEP,Domestic Production,Erawan,767
+2002,SEP,Domestic Production,Nam phong,58
+2002,SEP,Domestic Production,Oths.,0
+2002,SEP,Domestic Production,Pailin,418
+2002,SEP,Domestic Production,Sirikit,56
+2002,SEP,Domestic Production,Tan tawan,197
+2002,SEP,Import,Yadana,384
+2002,SEP,Import,Yetakun,220
+2003,APR,Domestic Production,Bongkot,449
+2003,APR,Domestic Production,Erawan,848
+2003,APR,Domestic Production,Nam phong,55
+2003,APR,Domestic Production,Pailin,417
+2003,APR,Domestic Production,Sirikit,57
+2003,APR,Domestic Production,Tan tawan,236
+2003,APR,Import,Yadana,457
+2003,APR,Import,Yetakun,302
+2003,AUG,Domestic Production,Bongkot,565
+2003,AUG,Domestic Production,Erawan,840
+2003,AUG,Domestic Production,Nam phong,48
+2003,AUG,Domestic Production,Oths.,0
+2003,AUG,Domestic Production,Pailin,418
+2003,AUG,Domestic Production,Sirikit,57
+2003,AUG,Domestic Production,Tan tawan,217
+2003,AUG,Import,Yadana,426
+2003,AUG,Import,Yetakun,277
+2003,DEC,Domestic Production,Bongkot,560
+2003,DEC,Domestic Production,Erawan,813
+2003,DEC,Domestic Production,Nam phong,47
+2003,DEC,Domestic Production,Pailin,374
+2003,DEC,Domestic Production,Sirikit,53
+2003,DEC,Domestic Production,Tan tawan,214
+2003,DEC,Import,Yadana,291
+2003,DEC,Import,Yetakun,193
+2003,FEB,Domestic Production,Bongkot,422
+2003,FEB,Domestic Production,Erawan,827
+2003,FEB,Domestic Production,Nam phong,53
+2003,FEB,Domestic Production,Pailin,409
+2003,FEB,Domestic Production,Sirikit,56
+2003,FEB,Domestic Production,Tan tawan,230
+2003,FEB,Import,Yadana,358
+2003,FEB,Import,Yetakun,250
+2003,JAN,Domestic Production,Bongkot,424
+2003,JAN,Domestic Production,Erawan,757
+2003,JAN,Domestic Production,Nam phong,52
+2003,JAN,Domestic Production,Pailin,343
+2003,JAN,Domestic Production,Sirikit,56
+2003,JAN,Domestic Production,Tan tawan,224
+2003,JAN,Import,Yadana,364
+2003,JAN,Import,Yetakun,257
+2003,JUL,Domestic Production,Bongkot,579
+2003,JUL,Domestic Production,Erawan,877
+2003,JUL,Domestic Production,Nam phong,49
+2003,JUL,Domestic Production,Oths.,0
+2003,JUL,Domestic Production,Pailin,381
+2003,JUL,Domestic Production,Sirikit,56
+2003,JUL,Domestic Production,Tan tawan,210
+2003,JUL,Import,Yadana,442
+2003,JUL,Import,Yetakun,297
+2003,JUN,Domestic Production,Bongkot,508
+2003,JUN,Domestic Production,Erawan,870
+2003,JUN,Domestic Production,Nam phong,50
+2003,JUN,Domestic Production,Oths.,0
+2003,JUN,Domestic Production,Pailin,410
+2003,JUN,Domestic Production,Sirikit,56
+2003,JUN,Domestic Production,Tan tawan,233
+2003,JUN,Import,Yadana,413
+2003,JUN,Import,Yetakun,291
+2003,MAR,Domestic Production,Bongkot,426
+2003,MAR,Domestic Production,Erawan,843
+2003,MAR,Domestic Production,Nam phong,52
+2003,MAR,Domestic Production,Oths.,0
+2003,MAR,Domestic Production,Pailin,461
+2003,MAR,Domestic Production,Sirikit,39
+2003,MAR,Domestic Production,Tan tawan,235
+2003,MAR,Import,Yadana,433
+2003,MAR,Import,Yetakun,291
+2003,MAY,Domestic Production,Bongkot,513
+2003,MAY,Domestic Production,Erawan,820
+2003,MAY,Domestic Production,Nam phong,53
+2003,MAY,Domestic Production,Pailin,415
+2003,MAY,Domestic Production,Sirikit,57
+2003,MAY,Domestic Production,Tan tawan,238
+2003,MAY,Import,Yadana,444
+2003,MAY,Import,Yetakun,296
+2003,NOV,Domestic Production,Bongkot,560
+2003,NOV,Domestic Production,Erawan,811
+2003,NOV,Domestic Production,Nam phong,46
+2003,NOV,Domestic Production,Pailin,396
+2003,NOV,Domestic Production,Sirikit,53
+2003,NOV,Domestic Production,Tan tawan,222
+2003,NOV,Import,Yadana,400
+2003,NOV,Import,Yetakun,263
+2003,OCT,Domestic Production,Bongkot,581
+2003,OCT,Domestic Production,Erawan,813
+2003,OCT,Domestic Production,Nam phong,47
+2003,OCT,Domestic Production,Pailin,418
+2003,OCT,Domestic Production,Sirikit,57
+2003,OCT,Domestic Production,Tan tawan,222
+2003,OCT,Import,Yadana,459
+2003,OCT,Import,Yetakun,300
+2003,SEP,Domestic Production,Bongkot,601
+2003,SEP,Domestic Production,Erawan,789
+2003,SEP,Domestic Production,Nam phong,47
+2003,SEP,Domestic Production,Pailin,428
+2003,SEP,Domestic Production,Sirikit,58
+2003,SEP,Domestic Production,Tan tawan,221
+2003,SEP,Import,Yadana,435
+2003,SEP,Import,Yetakun,284
+2004,APR,Domestic Production,Bongkot,508
+2004,APR,Domestic Production,Erawan,842
+2004,APR,Domestic Production,Nam phong,33
+2004,APR,Domestic Production,Pailin,420
+2004,APR,Domestic Production,Sirikit,52
+2004,APR,Domestic Production,Tan tawan,236
+2004,APR,Import,Yadana,467
+2004,APR,Import,Yetakun,303
+2004,AUG,Domestic Production,Bongkot,599
+2004,AUG,Domestic Production,Erawan,892
+2004,AUG,Domestic Production,Nam phong,32
+2004,AUG,Domestic Production,Pailin,414
+2004,AUG,Domestic Production,Sirikit,52
+2004,AUG,Domestic Production,Tan tawan,203
+2004,AUG,Import,Yadana,462
+2004,AUG,Import,Yetakun,300
+2004,DEC,Domestic Production,Bongkot,591
+2004,DEC,Domestic Production,Erawan,821
+2004,DEC,Domestic Production,Nam phong,34
+2004,DEC,Domestic Production,Pailin,396
+2004,DEC,Domestic Production,Sirikit,57
+2004,DEC,Domestic Production,Tan tawan,189
+2004,DEC,Import,Yadana,438
+2004,DEC,Import,Yetakun,290
+2004,FEB,Domestic Production,Bongkot,566
+2004,FEB,Domestic Production,Erawan,815
+2004,FEB,Domestic Production,Nam phong,41
+2004,FEB,Domestic Production,Pailin,381
+2004,FEB,Domestic Production,Sirikit,47
+2004,FEB,Domestic Production,Tan tawan,166
+2004,FEB,Import,Yadana,339
+2004,FEB,Import,Yetakun,230
+2004,JAN,Domestic Production,Bongkot,586
+2004,JAN,Domestic Production,Erawan,839
+2004,JAN,Domestic Production,Nam phong,46
+2004,JAN,Domestic Production,Pailin,409
+2004,JAN,Domestic Production,Sirikit,53
+2004,JAN,Domestic Production,Tan tawan,127
+2004,JAN,Import,Yadana,272
+2004,JAN,Import,Yetakun,187
+2004,JUL,Domestic Production,Bongkot,603
+2004,JUL,Domestic Production,Erawan,830
+2004,JUL,Domestic Production,Nam phong,34
+2004,JUL,Domestic Production,Pailin,418
+2004,JUL,Domestic Production,Sirikit,57
+2004,JUL,Domestic Production,Tan tawan,228
+2004,JUL,Import,Yadana,467
+2004,JUL,Import,Yetakun,305
+2004,JUN,Domestic Production,Bongkot,604
+2004,JUN,Domestic Production,Erawan,821
+2004,JUN,Domestic Production,Nam phong,32
+2004,JUN,Domestic Production,Pailin,407
+2004,JUN,Domestic Production,Sirikit,55
+2004,JUN,Domestic Production,Tan tawan,235
+2004,JUN,Import,Yadana,458
+2004,JUN,Import,Yetakun,303
+2004,MAR,Domestic Production,Bongkot,592
+2004,MAR,Domestic Production,Erawan,800
+2004,MAR,Domestic Production,Nam phong,32
+2004,MAR,Domestic Production,Pailin,423
+2004,MAR,Domestic Production,Sirikit,52
+2004,MAR,Domestic Production,Tan tawan,245
+2004,MAR,Import,Yadana,467
+2004,MAR,Import,Yetakun,304
+2004,MAY,Domestic Production,Bongkot,615
+2004,MAY,Domestic Production,Erawan,823
+2004,MAY,Domestic Production,Nam phong,33
+2004,MAY,Domestic Production,Pailin,402
+2004,MAY,Domestic Production,Sirikit,56
+2004,MAY,Domestic Production,Tan tawan,226
+2004,MAY,Import,Yadana,459
+2004,MAY,Import,Yetakun,299
+2004,NOV,Domestic Production,Bongkot,624
+2004,NOV,Domestic Production,Erawan,884
+2004,NOV,Domestic Production,Nam phong,34
+2004,NOV,Domestic Production,Pailin,417
+2004,NOV,Domestic Production,Sirikit,52
+2004,NOV,Domestic Production,Tan tawan,229
+2004,NOV,Import,Yadana,486
+2004,NOV,Import,Yetakun,315
+2004,OCT,Domestic Production,Bongkot,643
+2004,OCT,Domestic Production,Erawan,936
+2004,OCT,Domestic Production,Nam phong,34
+2004,OCT,Domestic Production,Pailin,442
+2004,OCT,Domestic Production,Sirikit,58
+2004,OCT,Domestic Production,Tan tawan,211
+2004,OCT,Import,Yadana,479
+2004,OCT,Import,Yetakun,309
+2004,SEP,Domestic Production,Bongkot,632
+2004,SEP,Domestic Production,Erawan,892
+2004,SEP,Domestic Production,Nam phong,34
+2004,SEP,Domestic Production,Pailin,418
+2004,SEP,Domestic Production,Sirikit,55
+2004,SEP,Domestic Production,Tan tawan,225
+2004,SEP,Import,Yadana,467
+2004,SEP,Import,Yetakun,302
+2005,APR,Domestic Production,Bongkot,342
+2005,APR,Domestic Production,Erawan,976
+2005,APR,Domestic Production,Nam phong,33
+2005,APR,Domestic Production,Pailin,437
+2005,APR,Domestic Production,Sirikit,54
+2005,APR,Domestic Production,Tan tawan,228
+2005,APR,Import,Yadana,450
+2005,APR,Import,Yetakun,446
+2005,AUG,Domestic Production,Bongkot,653
+2005,AUG,Domestic Production,Erawan,933
+2005,AUG,Domestic Production,Nam phong,33
+2005,AUG,Domestic Production,Pailin,453
+2005,AUG,Domestic Production,Sirikit,57
+2005,AUG,Domestic Production,Tan tawan,266
+2005,AUG,Import,Yadana,437
+2005,AUG,Import,Yetakun,434
+2005,DEC,Domestic Production,Bongkot,554
+2005,DEC,Domestic Production,Erawan,918
+2005,DEC,Domestic Production,Nam phong,33
+2005,DEC,Domestic Production,Pailin,450
+2005,DEC,Domestic Production,Sirikit,54
+2005,DEC,Domestic Production,Tan tawan,231
+2005,DEC,Import,Yadana,362
+2005,DEC,Import,Yetakun,355
+2005,FEB,Domestic Production,Bongkot,648
+2005,FEB,Domestic Production,Erawan,915
+2005,FEB,Domestic Production,Nam phong,33
+2005,FEB,Domestic Production,Pailin,441
+2005,FEB,Domestic Production,Sirikit,58
+2005,FEB,Domestic Production,Tan tawan,183
+2005,FEB,Import,Yadana,449
+2005,FEB,Import,Yetakun,441
+2005,JAN,Domestic Production,Bongkot,620
+2005,JAN,Domestic Production,Erawan,874
+2005,JAN,Domestic Production,Nam phong,34
+2005,JAN,Domestic Production,Pailin,421
+2005,JAN,Domestic Production,Sirikit,62
+2005,JAN,Domestic Production,Tan tawan,183
+2005,JAN,Import,Yadana,394
+2005,JAN,Import,Yetakun,387
+2005,JUL,Domestic Production,Bongkot,654
+2005,JUL,Domestic Production,Erawan,922
+2005,JUL,Domestic Production,Nam phong,34
+2005,JUL,Domestic Production,Pailin,425
+2005,JUL,Domestic Production,Sirikit,82
+2005,JUL,Domestic Production,Tan tawan,259
+2005,JUL,Import,Yadana,429
+2005,JUL,Import,Yetakun,425
+2005,JUN,Domestic Production,Bongkot,652
+2005,JUN,Domestic Production,Erawan,927
+2005,JUN,Domestic Production,Nam phong,33
+2005,JUN,Domestic Production,Pailin,453
+2005,JUN,Domestic Production,Sirikit,82
+2005,JUN,Domestic Production,Tan tawan,250
+2005,JUN,Import,Yadana,462
+2005,JUN,Import,Yetakun,457
+2005,MAR,Domestic Production,Bongkot,649
+2005,MAR,Domestic Production,Erawan,943
+2005,MAR,Domestic Production,Nam phong,34
+2005,MAR,Domestic Production,Pailin,436
+2005,MAR,Domestic Production,Sirikit,57
+2005,MAR,Domestic Production,Tan tawan,204
+2005,MAR,Import,Yadana,444
+2005,MAR,Import,Yetakun,438
+2005,MAY,Domestic Production,Bongkot,636
+2005,MAY,Domestic Production,Erawan,908
+2005,MAY,Domestic Production,Nam phong,33
+2005,MAY,Domestic Production,Pailin,436
+2005,MAY,Domestic Production,Sirikit,51
+2005,MAY,Domestic Production,Tan tawan,239
+2005,MAY,Import,Yadana,457
+2005,MAY,Import,Yetakun,453
+2005,NOV,Domestic Production,Bongkot,601
+2005,NOV,Domestic Production,Erawan,969
+2005,NOV,Domestic Production,Nam phong,33
+2005,NOV,Domestic Production,Pailin,416
+2005,NOV,Domestic Production,Sirikit,54
+2005,NOV,Domestic Production,Tan tawan,254
+2005,NOV,Import,Yadana,431
+2005,NOV,Import,Yetakun,427
+2005,OCT,Domestic Production,Bongkot,604
+2005,OCT,Domestic Production,Erawan,914
+2005,OCT,Domestic Production,Nam phong,33
+2005,OCT,Domestic Production,Pailin,394
+2005,OCT,Domestic Production,Sirikit,54
+2005,OCT,Domestic Production,Tan tawan,237
+2005,OCT,Import,Yadana,439
+2005,OCT,Import,Yetakun,435
+2005,SEP,Domestic Production,Bongkot,650
+2005,SEP,Domestic Production,Erawan,907
+2005,SEP,Domestic Production,Nam phong,33
+2005,SEP,Domestic Production,Pailin,459
+2005,SEP,Domestic Production,Sirikit,54
+2005,SEP,Domestic Production,Tan tawan,260
+2005,SEP,Import,Yadana,420
+2005,SEP,Import,Yetakun,417
+2006,APR,Domestic Production,Bongkot,569
+2006,APR,Domestic Production,Erawan,963
+2006,APR,Domestic Production,Nam phong,32
+2006,APR,Domestic Production,Pailin,470
+2006,APR,Domestic Production,Sirikit,52
+2006,APR,Domestic Production,Tan tawan,223
+2006,APR,Import,Yadana,455
+2006,APR,Import,Yetakun,386
+2006,AUG,Domestic Production,Bongkot,603
+2006,AUG,Domestic Production,Erawan,1017
+2006,AUG,Domestic Production,Nam phong,31
+2006,AUG,Domestic Production,Pailin,445
+2006,AUG,Domestic Production,Sirikit,51
+2006,AUG,Domestic Production,Tan tawan,195
+2006,AUG,Import,Yadana,484
+2006,AUG,Import,Yetakun,441
+2006,DEC,Domestic Production,Bongkot,581
+2006,DEC,Domestic Production,Erawan,946
+2006,DEC,Domestic Production,Nam phong,27
+2006,DEC,Domestic Production,Pailin,420
+2006,DEC,Domestic Production,Phu horm,71
+2006,DEC,Domestic Production,Sirikit,47
+2006,DEC,Domestic Production,Tan tawan,200
+2006,DEC,Import,Yadana,414
+2006,DEC,Import,Yetakun,378
+2006,FEB,Domestic Production,Bongkot,619
+2006,FEB,Domestic Production,Erawan,984
+2006,FEB,Domestic Production,Nam phong,32
+2006,FEB,Domestic Production,Pailin,443
+2006,FEB,Domestic Production,Sirikit,54
+2006,FEB,Domestic Production,Tan tawan,224
+2006,FEB,Import,Yadana,384
+2006,FEB,Import,Yetakun,383
+2006,JAN,Domestic Production,Bongkot,616
+2006,JAN,Domestic Production,Erawan,959
+2006,JAN,Domestic Production,Nam phong,32
+2006,JAN,Domestic Production,Pailin,450
+2006,JAN,Domestic Production,Sirikit,53
+2006,JAN,Domestic Production,Tan tawan,235
+2006,JAN,Import,Yadana,351
+2006,JAN,Import,Yetakun,342
+2006,JUL,Domestic Production,Bongkot,634
+2006,JUL,Domestic Production,Erawan,1002
+2006,JUL,Domestic Production,Nam phong,31
+2006,JUL,Domestic Production,Pailin,414
+2006,JUL,Domestic Production,Sirikit,52
+2006,JUL,Domestic Production,Tan tawan,225
+2006,JUL,Import,Yadana,460
+2006,JUL,Import,Yetakun,426
+2006,JUN,Domestic Production,Bongkot,698
+2006,JUN,Domestic Production,Erawan,933
+2006,JUN,Domestic Production,Nam phong,32
+2006,JUN,Domestic Production,Pailin,440
+2006,JUN,Domestic Production,Sirikit,50
+2006,JUN,Domestic Production,Tan tawan,225
+2006,JUN,Import,Yadana,488
+2006,JUN,Import,Yetakun,452
+2006,MAR,Domestic Production,Bongkot,653
+2006,MAR,Domestic Production,Erawan,978
+2006,MAR,Domestic Production,Nam phong,32
+2006,MAR,Domestic Production,Pailin,468
+2006,MAR,Domestic Production,Sirikit,53
+2006,MAR,Domestic Production,Tan tawan,212
+2006,MAR,Import,Yadana,474
+2006,MAR,Import,Yetakun,456
+2006,MAY,Domestic Production,Bongkot,629
+2006,MAY,Domestic Production,Erawan,962
+2006,MAY,Domestic Production,Nam phong,32
+2006,MAY,Domestic Production,Pailin,452
+2006,MAY,Domestic Production,Sirikit,51
+2006,MAY,Domestic Production,Tan tawan,220
+2006,MAY,Import,Yadana,488
+2006,MAY,Import,Yetakun,455
+2006,NOV,Domestic Production,Bongkot,647
+2006,NOV,Domestic Production,Erawan,1027
+2006,NOV,Domestic Production,Nam phong,29
+2006,NOV,Domestic Production,Pailin,432
+2006,NOV,Domestic Production,Sirikit,48
+2006,NOV,Domestic Production,Tan tawan,223
+2006,NOV,Import,Yadana,487
+2006,NOV,Import,Yetakun,445
+2006,OCT,Domestic Production,Bongkot,632
+2006,OCT,Domestic Production,Erawan,1010
+2006,OCT,Domestic Production,Nam phong,30
+2006,OCT,Domestic Production,Pailin,407
+2006,OCT,Domestic Production,Sirikit,43
+2006,OCT,Domestic Production,Tan tawan,223
+2006,OCT,Import,Yadana,457
+2006,OCT,Import,Yetakun,410
+2006,SEP,Domestic Production,Bongkot,644
+2006,SEP,Domestic Production,Erawan,1002
+2006,SEP,Domestic Production,Nam phong,29
+2006,SEP,Domestic Production,Pailin,420
+2006,SEP,Domestic Production,Sirikit,50
+2006,SEP,Domestic Production,Tan tawan,219
+2006,SEP,Import,Yadana,478
+2006,SEP,Import,Yetakun,435
+2007,APR,Domestic Production,Bongkot,536
+2007,APR,Domestic Production,Erawan,1069
+2007,APR,Domestic Production,Nam phong,28
+2007,APR,Domestic Production,Pailin,475
+2007,APR,Domestic Production,Phu horm,120
+2007,APR,Domestic Production,Sirikit,43
+2007,APR,Domestic Production,Tan tawan,216
+2007,APR,Import,Yadana,448
+2007,APR,Import,Yetakun,405
+2007,AUG,Domestic Production,Bongkot,653
+2007,AUG,Domestic Production,Erawan,1090
+2007,AUG,Domestic Production,Nam phong,25
+2007,AUG,Domestic Production,Pailin,493
+2007,AUG,Domestic Production,Phu horm,88
+2007,AUG,Domestic Production,Sirikit,46
+2007,AUG,Domestic Production,Tan tawan,219
+2007,AUG,Import,Yadana,470
+2007,AUG,Import,Yetakun,425
+2007,DEC,Domestic Production,Bongkot,599
+2007,DEC,Domestic Production,Erawan,1011
+2007,DEC,Domestic Production,Nam phong,24
+2007,DEC,Domestic Production,Pailin,462
+2007,DEC,Domestic Production,Phu horm,100
+2007,DEC,Domestic Production,Sirikit,45
+2007,DEC,Domestic Production,Tan tawan,214
+2007,DEC,Import,Yadana,429
+2007,DEC,Import,Yetakun,389
+2007,FEB,Domestic Production,Bongkot,640
+2007,FEB,Domestic Production,Erawan,977
+2007,FEB,Domestic Production,Nam phong,29
+2007,FEB,Domestic Production,Pailin,448
+2007,FEB,Domestic Production,Phu horm,89
+2007,FEB,Domestic Production,Sirikit,43
+2007,FEB,Domestic Production,Tan tawan,175
+2007,FEB,Import,Yadana,455
+2007,FEB,Import,Yetakun,419
+2007,JAN,Domestic Production,Bongkot,632
+2007,JAN,Domestic Production,Erawan,976
+2007,JAN,Domestic Production,Nam phong,29
+2007,JAN,Domestic Production,Pailin,420
+2007,JAN,Domestic Production,Phu horm,71
+2007,JAN,Domestic Production,Sirikit,43
+2007,JAN,Domestic Production,Tan tawan,198
+2007,JAN,Import,Yadana,426
+2007,JAN,Import,Yetakun,398
+2007,JUL,Domestic Production,Bongkot,644
+2007,JUL,Domestic Production,Erawan,1084
+2007,JUL,Domestic Production,Nam phong,25
+2007,JUL,Domestic Production,Pailin,466
+2007,JUL,Domestic Production,Phu horm,106
+2007,JUL,Domestic Production,Sirikit,51
+2007,JUL,Domestic Production,Tan tawan,226
+2007,JUL,Import,Yadana,461
+2007,JUL,Import,Yetakun,429
+2007,JUN,Domestic Production,Bongkot,648
+2007,JUN,Domestic Production,Erawan,1123
+2007,JUN,Domestic Production,Nam phong,26
+2007,JUN,Domestic Production,Pailin,449
+2007,JUN,Domestic Production,Phu horm,111
+2007,JUN,Domestic Production,Sirikit,49
+2007,JUN,Domestic Production,Tan tawan,221
+2007,JUN,Import,Yadana,497
+2007,JUN,Import,Yetakun,457
+2007,MAR,Domestic Production,Bongkot,636
+2007,MAR,Domestic Production,Erawan,1049
+2007,MAR,Domestic Production,Nam phong,28
+2007,MAR,Domestic Production,Pailin,465
+2007,MAR,Domestic Production,Phu horm,89
+2007,MAR,Domestic Production,Sirikit,40
+2007,MAR,Domestic Production,Tan tawan,205
+2007,MAR,Import,Yadana,500
+2007,MAR,Import,Yetakun,452
+2007,MAY,Domestic Production,Bongkot,650
+2007,MAY,Domestic Production,Erawan,1113
+2007,MAY,Domestic Production,Nam phong,27
+2007,MAY,Domestic Production,Pailin,463
+2007,MAY,Domestic Production,Phu horm,118
+2007,MAY,Domestic Production,Sirikit,44
+2007,MAY,Domestic Production,Tan tawan,218
+2007,MAY,Import,Yadana,496
+2007,MAY,Import,Yetakun,450
+2007,NOV,Domestic Production,Bongkot,606
+2007,NOV,Domestic Production,Erawan,1026
+2007,NOV,Domestic Production,Nam phong,21
+2007,NOV,Domestic Production,Pailin,456
+2007,NOV,Domestic Production,Phu horm,83
+2007,NOV,Domestic Production,Sirikit,47
+2007,NOV,Domestic Production,Tan tawan,215
+2007,NOV,Import,Yadana,489
+2007,NOV,Import,Yetakun,449
+2007,OCT,Domestic Production,Bongkot,657
+2007,OCT,Domestic Production,Erawan,1029
+2007,OCT,Domestic Production,Nam phong,26
+2007,OCT,Domestic Production,Pailin,466
+2007,OCT,Domestic Production,Phu horm,75
+2007,OCT,Domestic Production,Sirikit,47
+2007,OCT,Domestic Production,Tan tawan,212
+2007,OCT,Import,Yadana,501
+2007,OCT,Import,Yetakun,459
+2007,SEP,Domestic Production,Bongkot,644
+2007,SEP,Domestic Production,Erawan,1080
+2007,SEP,Domestic Production,Nam phong,26
+2007,SEP,Domestic Production,Pailin,422
+2007,SEP,Domestic Production,Phu horm,71
+2007,SEP,Domestic Production,Sirikit,49
+2007,SEP,Domestic Production,Tan tawan,211
+2007,SEP,Import,Yadana,503
+2007,SEP,Import,Yetakun,460
+2008,APR,Domestic Production,Arthit,211
+2008,APR,Domestic Production,Bongkot,662
+2008,APR,Domestic Production,Erawan,1068
+2008,APR,Domestic Production,JDA,49
+2008,APR,Domestic Production,Nam phong,25
+2008,APR,Domestic Production,Pailin,482
+2008,APR,Domestic Production,Phu horm,103
+2008,APR,Domestic Production,Sirikit,43
+2008,APR,Domestic Production,Tan tawan,181
+2008,APR,Import,Yadana,427
+2008,APR,Import,Yetakun,263
+2008,AUG,Domestic Production,Arthit,409
+2008,AUG,Domestic Production,Bongkot,650
+2008,AUG,Domestic Production,Erawan,1006
+2008,AUG,Domestic Production,JDA,100
+2008,AUG,Domestic Production,Nam phong,23
+2008,AUG,Domestic Production,Pailin,457
+2008,AUG,Domestic Production,Phu horm,98
+2008,AUG,Domestic Production,Sirikit,42
+2008,AUG,Domestic Production,Tan tawan,184
+2008,AUG,Import,Yadana,459
+2008,AUG,Import,Yetakun,427
+2008,DEC,Domestic Production,Arthit,343
+2008,DEC,Domestic Production,Bongkot,404
+2008,DEC,Domestic Production,Erawan,859
+2008,DEC,Domestic Production,JDA,443
+2008,DEC,Domestic Production,Nam phong,21
+2008,DEC,Domestic Production,Pailin,319
+2008,DEC,Domestic Production,Phu horm,66
+2008,DEC,Domestic Production,Sirikit,37
+2008,DEC,Domestic Production,Tan tawan,167
+2008,DEC,Import,Yadana,330
+2008,DEC,Import,Yetakun,316
+2008,FEB,Domestic Production,Bongkot,641
+2008,FEB,Domestic Production,Erawan,1113
+2008,FEB,Domestic Production,JDA,13
+2008,FEB,Domestic Production,Nam phong,23
+2008,FEB,Domestic Production,Pailin,439
+2008,FEB,Domestic Production,Phu horm,70
+2008,FEB,Domestic Production,Sirikit,40
+2008,FEB,Domestic Production,Tan tawan,206
+2008,FEB,Import,Yadana,485
+2008,FEB,Import,Yetakun,442
+2008,JAN,Domestic Production,Bongkot,626
+2008,JAN,Domestic Production,Erawan,1109
+2008,JAN,Domestic Production,JDA,24
+2008,JAN,Domestic Production,Nam phong,23
+2008,JAN,Domestic Production,Pailin,441
+2008,JAN,Domestic Production,Phu horm,72
+2008,JAN,Domestic Production,Sirikit,44
+2008,JAN,Domestic Production,Tan tawan,208
+2008,JAN,Import,Yadana,403
+2008,JAN,Import,Yetakun,378
+2008,JUL,Domestic Production,Arthit,377
+2008,JUL,Domestic Production,Bongkot,630
+2008,JUL,Domestic Production,Erawan,1083
+2008,JUL,Domestic Production,JDA,82
+2008,JUL,Domestic Production,Nam phong,23
+2008,JUL,Domestic Production,Pailin,446
+2008,JUL,Domestic Production,Phu horm,83
+2008,JUL,Domestic Production,Sirikit,42
+2008,JUL,Domestic Production,Tan tawan,178
+2008,JUL,Import,Yadana,446
+2008,JUL,Import,Yetakun,422
+2008,JUN,Domestic Production,Arthit,421
+2008,JUN,Domestic Production,Bongkot,659
+2008,JUN,Domestic Production,Erawan,1000
+2008,JUN,Domestic Production,JDA,110
+2008,JUN,Domestic Production,Nam phong,24
+2008,JUN,Domestic Production,Pailin,465
+2008,JUN,Domestic Production,Phu horm,78
+2008,JUN,Domestic Production,Sirikit,42
+2008,JUN,Domestic Production,Tan tawan,191
+2008,JUN,Import,Yadana,423
+2008,JUN,Import,Yetakun,405
+2008,MAR,Domestic Production,Arthit,13
+2008,MAR,Domestic Production,Bongkot,662
+2008,MAR,Domestic Production,Erawan,1111
+2008,MAR,Domestic Production,JDA,52
+2008,MAR,Domestic Production,Nam phong,26
+2008,MAR,Domestic Production,Pailin,425
+2008,MAR,Domestic Production,Phu horm,95
+2008,MAR,Domestic Production,Sirikit,43
+2008,MAR,Domestic Production,Tan tawan,183
+2008,MAR,Import,Yadana,511
+2008,MAR,Import,Yetakun,461
+2008,MAY,Domestic Production,Arthit,425
+2008,MAY,Domestic Production,Bongkot,648
+2008,MAY,Domestic Production,Erawan,1046
+2008,MAY,Domestic Production,JDA,94
+2008,MAY,Domestic Production,Nam phong,24
+2008,MAY,Domestic Production,Pailin,440
+2008,MAY,Domestic Production,Phu horm,94
+2008,MAY,Domestic Production,Sirikit,42
+2008,MAY,Domestic Production,Tan tawan,187
+2008,MAY,Import,Yadana,428
+2008,MAY,Import,Yetakun,400
+2008,NOV,Domestic Production,Arthit,217
+2008,NOV,Domestic Production,Bongkot,469
+2008,NOV,Domestic Production,Erawan,828
+2008,NOV,Domestic Production,JDA,335
+2008,NOV,Domestic Production,Nam phong,22
+2008,NOV,Domestic Production,Pailin,371
+2008,NOV,Domestic Production,Phu horm,79
+2008,NOV,Domestic Production,Sirikit,38
+2008,NOV,Domestic Production,Tan tawan,190
+2008,NOV,Import,Yadana,379
+2008,NOV,Import,Yetakun,359
+2008,OCT,Domestic Production,Arthit,447
+2008,OCT,Domestic Production,Bongkot,653
+2008,OCT,Domestic Production,Erawan,855
+2008,OCT,Domestic Production,JDA,100
+2008,OCT,Domestic Production,Nam phong,23
+2008,OCT,Domestic Production,Pailin,444
+2008,OCT,Domestic Production,Phu horm,85
+2008,OCT,Domestic Production,Sirikit,39
+2008,OCT,Domestic Production,Tan tawan,190
+2008,OCT,Import,Yadana,442
+2008,OCT,Import,Yetakun,413
+2008,SEP,Domestic Production,Arthit,463
+2008,SEP,Domestic Production,Bongkot,538
+2008,SEP,Domestic Production,Erawan,991
+2008,SEP,Domestic Production,JDA,102
+2008,SEP,Domestic Production,Nam phong,23
+2008,SEP,Domestic Production,Pailin,450
+2008,SEP,Domestic Production,Phu horm,98
+2008,SEP,Domestic Production,Sirikit,38
+2008,SEP,Domestic Production,Tan tawan,154
+2008,SEP,Import,Yadana,474
+2008,SEP,Import,Yetakun,439
+2009,APR,Domestic Production,Arthit,353
+2009,APR,Domestic Production,Bongkot,532
+2009,APR,Domestic Production,Erawan,742
+2009,APR,Domestic Production,JDA,412
+2009,APR,Domestic Production,Lanta,2
+2009,APR,Domestic Production,Nam phong,24
+2009,APR,Domestic Production,Oths.,7
+2009,APR,Domestic Production,Pailin,419
+2009,APR,Domestic Production,Phu horm,94
+2009,APR,Domestic Production,Sirikit,27
+2009,APR,Domestic Production,Tan tawan,189
+2009,APR,Import,Yadana,398
+2009,APR,Import,Yetakun,400
+2009,AUG,Domestic Production,Arthit,416
+2009,AUG,Domestic Production,Bongkot,570
+2009,AUG,Domestic Production,Erawan,806
+2009,AUG,Domestic Production,JDA,313
+2009,AUG,Domestic Production,Lanta,1
+2009,AUG,Domestic Production,Nam phong,23
+2009,AUG,Domestic Production,Oths.,4
+2009,AUG,Domestic Production,Pailin,451
+2009,AUG,Domestic Production,Phu horm,92
+2009,AUG,Domestic Production,Sirikit,63
+2009,AUG,Domestic Production,Tan tawan,196
+2009,AUG,Import,Yadana,484
+2009,AUG,Import,Yetakun,460
+2009,DEC,Domestic Production,Arthit,524
+2009,DEC,Domestic Production,Bongkot,569
+2009,DEC,Domestic Production,Erawan,899
+2009,DEC,Domestic Production,JDA,510
+2009,DEC,Domestic Production,Lanta,3
+2009,DEC,Domestic Production,Nam phong,20
+2009,DEC,Domestic Production,Oths.,2
+2009,DEC,Domestic Production,Pailin,376
+2009,DEC,Domestic Production,Phu horm,84
+2009,DEC,Domestic Production,Sirikit,65
+2009,DEC,Domestic Production,Tan tawan,179
+2009,DEC,Domestic Production,Yoong thong,3
+2009,DEC,Import,Yadana,317
+2009,DEC,Import,Yetakun,305
+2009,FEB,Domestic Production,Arthit,374
+2009,FEB,Domestic Production,Bongkot,417
+2009,FEB,Domestic Production,Erawan,857
+2009,FEB,Domestic Production,JDA,417
+2009,FEB,Domestic Production,Nam phong,16
+2009,FEB,Domestic Production,Pailin,409
+2009,FEB,Domestic Production,Phu horm,43
+2009,FEB,Domestic Production,Sirikit,37
+2009,FEB,Domestic Production,Tan tawan,184
+2009,FEB,Import,Yadana,375
+2009,FEB,Import,Yetakun,377
+2009,JAN,Domestic Production,Arthit,373
+2009,JAN,Domestic Production,Bongkot,505
+2009,JAN,Domestic Production,Erawan,926
+2009,JAN,Domestic Production,JDA,422
+2009,JAN,Domestic Production,Nam phong,16
+2009,JAN,Domestic Production,Pailin,371
+2009,JAN,Domestic Production,Phu horm,44
+2009,JAN,Domestic Production,Sirikit,37
+2009,JAN,Domestic Production,Tan tawan,187
+2009,JAN,Import,Yadana,166
+2009,JAN,Import,Yetakun,157
+2009,JUL,Domestic Production,Arthit,390
+2009,JUL,Domestic Production,Bongkot,590
+2009,JUL,Domestic Production,Erawan,689
+2009,JUL,Domestic Production,JDA,426
+2009,JUL,Domestic Production,Lanta,3
+2009,JUL,Domestic Production,Nam phong,23
+2009,JUL,Domestic Production,Oths.,6
+2009,JUL,Domestic Production,Pailin,425
+2009,JUL,Domestic Production,Phu horm,92
+2009,JUL,Domestic Production,Sirikit,64
+2009,JUL,Domestic Production,Tan tawan,190
+2009,JUL,Import,Yadana,445
+2009,JUL,Import,Yetakun,416
+2009,JUN,Domestic Production,Arthit,431
+2009,JUN,Domestic Production,Bongkot,493
+2009,JUN,Domestic Production,Erawan,807
+2009,JUN,Domestic Production,JDA,451
+2009,JUN,Domestic Production,Lanta,2
+2009,JUN,Domestic Production,Nam phong,23
+2009,JUN,Domestic Production,Oths.,7
+2009,JUN,Domestic Production,Pailin,458
+2009,JUN,Domestic Production,Phu horm,96
+2009,JUN,Domestic Production,Sirikit,65
+2009,JUN,Domestic Production,Tan tawan,191
+2009,JUN,Import,Yadana,477
+2009,JUN,Import,Yetakun,451
+2009,MAR,Domestic Production,Arthit,415
+2009,MAR,Domestic Production,Bongkot,526
+2009,MAR,Domestic Production,Erawan,957
+2009,MAR,Domestic Production,JDA,443
+2009,MAR,Domestic Production,Nam phong,16
+2009,MAR,Domestic Production,Pailin,418
+2009,MAR,Domestic Production,Phu horm,44
+2009,MAR,Domestic Production,Sirikit,28
+2009,MAR,Domestic Production,Tan tawan,192
+2009,MAR,Import,Yadana,331
+2009,MAR,Import,Yetakun,336
+2009,MAY,Domestic Production,Arthit,408
+2009,MAY,Domestic Production,Bongkot,648
+2009,MAY,Domestic Production,Erawan,803
+2009,MAY,Domestic Production,JDA,455
+2009,MAY,Domestic Production,Lanta,2
+2009,MAY,Domestic Production,Nam phong,23
+2009,MAY,Domestic Production,Oths.,8
+2009,MAY,Domestic Production,Pailin,449
+2009,MAY,Domestic Production,Phu horm,97
+2009,MAY,Domestic Production,Sirikit,64
+2009,MAY,Domestic Production,Tan tawan,189
+2009,MAY,Import,Yadana,462
+2009,MAY,Import,Yetakun,440
+2009,NOV,Domestic Production,Arthit,507
+2009,NOV,Domestic Production,Bongkot,552
+2009,NOV,Domestic Production,Erawan,825
+2009,NOV,Domestic Production,JDA,482
+2009,NOV,Domestic Production,Lanta,2
+2009,NOV,Domestic Production,Nam phong,17
+2009,NOV,Domestic Production,Oths.,3
+2009,NOV,Domestic Production,Pailin,372
+2009,NOV,Domestic Production,Phu horm,78
+2009,NOV,Domestic Production,Sirikit,64
+2009,NOV,Domestic Production,Tan tawan,192
+2009,NOV,Domestic Production,Yoong thong,5
+2009,NOV,Import,Yadana,479
+2009,NOV,Import,Yetakun,464
+2009,OCT,Domestic Production,Arthit,475
+2009,OCT,Domestic Production,Bongkot,435
+2009,OCT,Domestic Production,Erawan,871
+2009,OCT,Domestic Production,JDA,466
+2009,OCT,Domestic Production,Lanta,1
+2009,OCT,Domestic Production,Nam phong,18
+2009,OCT,Domestic Production,Oths.,2
+2009,OCT,Domestic Production,Pailin,423
+2009,OCT,Domestic Production,Phu horm,102
+2009,OCT,Domestic Production,Sirikit,63
+2009,OCT,Domestic Production,Tan tawan,158
+2009,OCT,Domestic Production,Yoong thong,3
+2009,OCT,Import,Yadana,505
+2009,OCT,Import,Yetakun,469
+2009,SEP,Domestic Production,Arthit,340
+2009,SEP,Domestic Production,Bongkot,637
+2009,SEP,Domestic Production,Erawan,761
+2009,SEP,Domestic Production,JDA,495
+2009,SEP,Domestic Production,Lanta,1
+2009,SEP,Domestic Production,Nam phong,19
+2009,SEP,Domestic Production,Oths.,2
+2009,SEP,Domestic Production,Pailin,436
+2009,SEP,Domestic Production,Phu horm,100
+2009,SEP,Domestic Production,Sirikit,65
+2009,SEP,Domestic Production,Tan tawan,184
+2009,SEP,Import,Yadana,471
+2009,SEP,Import,Yetakun,462
+2010,APR,Domestic Production,Arthit,448
+2010,APR,Domestic Production,Bongkot,573
+2010,APR,Domestic Production,Erawan,888
+2010,APR,Domestic Production,JDA,698
+2010,APR,Domestic Production,Lanta,1
+2010,APR,Domestic Production,Nam phong,19
+2010,APR,Domestic Production,Oths.,3
+2010,APR,Domestic Production,Pailin,399
+2010,APR,Domestic Production,Phu horm,87
+2010,APR,Domestic Production,Sirikit,65
+2010,APR,Domestic Production,Tan tawan,192
+2010,APR,Domestic Production,Yoong thong,4
+2010,APR,Import,Yadana,467
+2010,APR,Import,Yetakun,436
+2010,AUG,Domestic Production,Arthit,419
+2010,AUG,Domestic Production,Bongkot,639
+2010,AUG,Domestic Production,Erawan,1044
+2010,AUG,Domestic Production,JDA,666
+2010,AUG,Domestic Production,Lanta,6
+2010,AUG,Domestic Production,Nam phong,20
+2010,AUG,Domestic Production,Oths.,4
+2010,AUG,Domestic Production,Pailin,448
+2010,AUG,Domestic Production,Phu horm,79
+2010,AUG,Domestic Production,Sirikit,62
+2010,AUG,Domestic Production,Tan tawan,168
+2010,AUG,Domestic Production,Yoong thong,8
+2010,AUG,Import,Yadana,429
+2010,AUG,Import,Yetakun,420
+2010,DEC,Domestic Production,Arthit,523
+2010,DEC,Domestic Production,Bongkot,627
+2010,DEC,Domestic Production,Erawan,950
+2010,DEC,Domestic Production,JDA,672
+2010,DEC,Domestic Production,Lanta,4
+2010,DEC,Domestic Production,Nam phong,17
+2010,DEC,Domestic Production,Oths.,12
+2010,DEC,Domestic Production,Pailin,414
+2010,DEC,Domestic Production,Phu horm,97
+2010,DEC,Domestic Production,Sirikit,65
+2010,DEC,Domestic Production,Tan tawan,174
+2010,DEC,Domestic Production,Yoong thong,7
+2010,DEC,Import,Yadana,411
+2010,DEC,Import,Yetakun,411
+2010,FEB,Domestic Production,Arthit,545
+2010,FEB,Domestic Production,Bongkot,528
+2010,FEB,Domestic Production,Erawan,837
+2010,FEB,Domestic Production,JDA,537
+2010,FEB,Domestic Production,Lanta,2
+2010,FEB,Domestic Production,Nam phong,17
+2010,FEB,Domestic Production,Oths.,2
+2010,FEB,Domestic Production,Pailin,464
+2010,FEB,Domestic Production,Phu horm,72
+2010,FEB,Domestic Production,Sirikit,63
+2010,FEB,Domestic Production,Tan tawan,194
+2010,FEB,Domestic Production,Yoong thong,6
+2010,FEB,Import,Yadana,512
+2010,FEB,Import,Yetakun,466
+2010,JAN,Domestic Production,Arthit,458
+2010,JAN,Domestic Production,Bongkot,604
+2010,JAN,Domestic Production,Erawan,888
+2010,JAN,Domestic Production,JDA,444
+2010,JAN,Domestic Production,Lanta,2
+2010,JAN,Domestic Production,Nam phong,13
+2010,JAN,Domestic Production,Oths.,2
+2010,JAN,Domestic Production,Pailin,438
+2010,JAN,Domestic Production,Phu horm,81
+2010,JAN,Domestic Production,Sirikit,64
+2010,JAN,Domestic Production,Tan tawan,194
+2010,JAN,Domestic Production,Yoong thong,3
+2010,JAN,Import,Yadana,390
+2010,JAN,Import,Yetakun,374
+2010,JUL,Domestic Production,Arthit,450
+2010,JUL,Domestic Production,Bongkot,623
+2010,JUL,Domestic Production,Erawan,1030
+2010,JUL,Domestic Production,JDA,541
+2010,JUL,Domestic Production,Lanta,5
+2010,JUL,Domestic Production,Nam phong,17
+2010,JUL,Domestic Production,Oths.,4
+2010,JUL,Domestic Production,Pailin,433
+2010,JUL,Domestic Production,Phu horm,82
+2010,JUL,Domestic Production,Sirikit,63
+2010,JUL,Domestic Production,Tan tawan,179
+2010,JUL,Domestic Production,Yoong thong,4
+2010,JUL,Import,Yadana,459
+2010,JUL,Import,Yetakun,443
+2010,JUN,Domestic Production,Arthit,522
+2010,JUN,Domestic Production,Bongkot,621
+2010,JUN,Domestic Production,Erawan,1074
+2010,JUN,Domestic Production,JDA,708
+2010,JUN,Domestic Production,Lanta,3
+2010,JUN,Domestic Production,Nam phong,17
+2010,JUN,Domestic Production,Oths.,3
+2010,JUN,Domestic Production,Pailin,394
+2010,JUN,Domestic Production,Phu horm,79
+2010,JUN,Domestic Production,Sirikit,64
+2010,JUN,Domestic Production,Tan tawan,190
+2010,JUN,Domestic Production,Yoong thong,2
+2010,JUN,Import,Yadana,429
+2010,JUN,Import,Yetakun,440
+2010,MAR,Domestic Production,Arthit,579
+2010,MAR,Domestic Production,Bongkot,629
+2010,MAR,Domestic Production,Erawan,950
+2010,MAR,Domestic Production,JDA,619
+2010,MAR,Domestic Production,Lanta,2
+2010,MAR,Domestic Production,Nam phong,20
+2010,MAR,Domestic Production,Oths.,2
+2010,MAR,Domestic Production,Pailin,467
+2010,MAR,Domestic Production,Phu horm,104
+2010,MAR,Domestic Production,Sirikit,63
+2010,MAR,Domestic Production,Tan tawan,196
+2010,MAR,Domestic Production,Yoong thong,5
+2010,MAR,Import,Yadana,353
+2010,MAR,Import,Yetakun,322
+2010,MAY,Domestic Production,Arthit,501
+2010,MAY,Domestic Production,Bongkot,540
+2010,MAY,Domestic Production,Erawan,964
+2010,MAY,Domestic Production,JDA,688
+2010,MAY,Domestic Production,Lanta,2
+2010,MAY,Domestic Production,Nam phong,20
+2010,MAY,Domestic Production,Oths.,3
+2010,MAY,Domestic Production,Pailin,399
+2010,MAY,Domestic Production,Phu horm,100
+2010,MAY,Domestic Production,Sirikit,62
+2010,MAY,Domestic Production,Tan tawan,176
+2010,MAY,Domestic Production,Yoong thong,3
+2010,MAY,Import,Yadana,476
+2010,MAY,Import,Yetakun,457
+2010,NOV,Domestic Production,Arthit,531
+2010,NOV,Domestic Production,Bongkot,600
+2010,NOV,Domestic Production,Erawan,1019
+2010,NOV,Domestic Production,JDA,688
+2010,NOV,Domestic Production,Lanta,5
+2010,NOV,Domestic Production,Nam phong,18
+2010,NOV,Domestic Production,Oths.,6
+2010,NOV,Domestic Production,Pailin,399
+2010,NOV,Domestic Production,Phu horm,99
+2010,NOV,Domestic Production,Sirikit,65
+2010,NOV,Domestic Production,Tan tawan,181
+2010,NOV,Domestic Production,Yoong thong,8
+2010,NOV,Import,Yadana,395
+2010,NOV,Import,Yetakun,394
+2010,OCT,Domestic Production,Arthit,524
+2010,OCT,Domestic Production,Bongkot,623
+2010,OCT,Domestic Production,Erawan,964
+2010,OCT,Domestic Production,JDA,748
+2010,OCT,Domestic Production,Lanta,5
+2010,OCT,Domestic Production,Nam phong,18
+2010,OCT,Domestic Production,Oths.,5
+2010,OCT,Domestic Production,Pailin,449
+2010,OCT,Domestic Production,Phu horm,83
+2010,OCT,Domestic Production,Sirikit,57
+2010,OCT,Domestic Production,Tan tawan,183
+2010,OCT,Domestic Production,Yoong thong,9
+2010,OCT,Import,Yadana,424
+2010,OCT,Import,Yetakun,423
+2010,SEP,Domestic Production,Arthit,516
+2010,SEP,Domestic Production,Bongkot,539
+2010,SEP,Domestic Production,Erawan,1024
+2010,SEP,Domestic Production,JDA,713
+2010,SEP,Domestic Production,Lanta,6
+2010,SEP,Domestic Production,Nam phong,20
+2010,SEP,Domestic Production,Oths.,4
+2010,SEP,Domestic Production,Pailin,454
+2010,SEP,Domestic Production,Phu horm,77
+2010,SEP,Domestic Production,Sirikit,62
+2010,SEP,Domestic Production,Tan tawan,177
+2010,SEP,Domestic Production,Yoong thong,11
+2010,SEP,Import,Yadana,474
+2010,SEP,Import,Yetakun,447
+2011,APR,Domestic Production,Arthit,417
+2011,APR,Domestic Production,Bongkot,637
+2011,APR,Domestic Production,Erawan,984
+2011,APR,Domestic Production,JDA,744
+2011,APR,Domestic Production,Lanta,6
+2011,APR,Domestic Production,Nam phong,14
+2011,APR,Domestic Production,Oths.,9
+2011,APR,Domestic Production,Pailin,476
+2011,APR,Domestic Production,Phu horm,101
+2011,APR,Domestic Production,Sirikit,33
+2011,APR,Domestic Production,Tan tawan,237
+2011,APR,Domestic Production,Yoong thong,12
+2011,APR,Import,Yadana,448
+2011,APR,Import,Yetakun,419
+2011,AUG,Domestic Production,Arthit,339
+2011,AUG,Domestic Production,Bongkot,544
+2011,AUG,Domestic Production,Erawan,901
+2011,AUG,Domestic Production,JDA,776
+2011,AUG,Domestic Production,Lanta,4
+2011,AUG,Domestic Production,Nam phong,16
+2011,AUG,Domestic Production,Oths.,5
+2011,AUG,Domestic Production,Pailin,415
+2011,AUG,Domestic Production,Phu horm,100
+2011,AUG,Domestic Production,Sirikit,37
+2011,AUG,Domestic Production,Tan tawan,253
+2011,AUG,Domestic Production,Yoong thong,11
+2011,AUG,Import,LNG ,297
+2011,AUG,Import,Yadana,486
+2011,AUG,Import,Yetakun,445
+2011,DEC,Domestic Production,Arthit,259
+2011,DEC,Domestic Production,Bongkot,584
+2011,DEC,Domestic Production,Erawan,1307
+2011,DEC,Domestic Production,JDA,732
+2011,DEC,Domestic Production,Lanta,5
+2011,DEC,Domestic Production,Nam phong,12
+2011,DEC,Domestic Production,Oths.,6
+2011,DEC,Domestic Production,Pailin,394
+2011,DEC,Domestic Production,Phu horm,54
+2011,DEC,Domestic Production,Sirikit,38
+2011,DEC,Domestic Production,Tan tawan,256
+2011,DEC,Domestic Production,Yoong thong,13
+2011,DEC,Import,Yadana,304
+2011,DEC,Import,Yetakun,316
+2011,FEB,Domestic Production,Arthit,523
+2011,FEB,Domestic Production,Bongkot,634
+2011,FEB,Domestic Production,Erawan,969
+2011,FEB,Domestic Production,JDA,704
+2011,FEB,Domestic Production,Lanta,5
+2011,FEB,Domestic Production,Nam phong,17
+2011,FEB,Domestic Production,Oths.,59
+2011,FEB,Domestic Production,Pailin,483
+2011,FEB,Domestic Production,Phu horm,89
+2011,FEB,Domestic Production,Sirikit,56
+2011,FEB,Domestic Production,Tan tawan,209
+2011,FEB,Domestic Production,Yoong thong,11
+2011,FEB,Import,Yadana,394
+2011,FEB,Import,Yetakun,397
+2011,JAN,Domestic Production,Arthit,525
+2011,JAN,Domestic Production,Bongkot,585
+2011,JAN,Domestic Production,Erawan,970
+2011,JAN,Domestic Production,JDA,706
+2011,JAN,Domestic Production,Lanta,6
+2011,JAN,Domestic Production,Nam phong,18
+2011,JAN,Domestic Production,Oths.,6
+2011,JAN,Domestic Production,Pailin,463
+2011,JAN,Domestic Production,Phu horm,87
+2011,JAN,Domestic Production,Sirikit,71
+2011,JAN,Domestic Production,Tan tawan,230
+2011,JAN,Domestic Production,Yoong thong,9
+2011,JAN,Import,Yadana,312
+2011,JAN,Import,Yetakun,309
+2011,JUL,Domestic Production,Arthit,379
+2011,JUL,Domestic Production,Bongkot,617
+2011,JUL,Domestic Production,Erawan,610
+2011,JUL,Domestic Production,JDA,774
+2011,JUL,Domestic Production,Lanta,5
+2011,JUL,Domestic Production,Nam phong,18
+2011,JUL,Domestic Production,Oths.,5
+2011,JUL,Domestic Production,Pailin,402
+2011,JUL,Domestic Production,Phu horm,97
+2011,JUL,Domestic Production,Sirikit,38
+2011,JUL,Domestic Production,Tan tawan,265
+2011,JUL,Domestic Production,Yoong thong,8
+2011,JUL,Import,LNG ,212
+2011,JUL,Import,Yadana,506
+2011,JUL,Import,Yetakun,459
+2011,JUN,Domestic Production,Arthit,461
+2011,JUN,Domestic Production,Bongkot,635
+2011,JUN,Domestic Production,Erawan,842
+2011,JUN,Domestic Production,JDA,872
+2011,JUN,Domestic Production,Lanta,5
+2011,JUN,Domestic Production,Nam phong,18
+2011,JUN,Domestic Production,Oths.,9
+2011,JUN,Domestic Production,Pailin,379
+2011,JUN,Domestic Production,Phu horm,110
+2011,JUN,Domestic Production,Sirikit,40
+2011,JUN,Domestic Production,Tan tawan,268
+2011,JUN,Domestic Production,Yoong thong,12
+2011,JUN,Import,LNG ,242
+2011,JUN,Import,Yadana,507
+2011,JUN,Import,Yetakun,445
+2011,MAR,Domestic Production,Arthit,523
+2011,MAR,Domestic Production,Bongkot,646
+2011,MAR,Domestic Production,Erawan,1014
+2011,MAR,Domestic Production,JDA,799
+2011,MAR,Domestic Production,Lanta,6
+2011,MAR,Domestic Production,Nam phong,18
+2011,MAR,Domestic Production,Oths.,7
+2011,MAR,Domestic Production,Pailin,460
+2011,MAR,Domestic Production,Phu horm,92
+2011,MAR,Domestic Production,Sirikit,63
+2011,MAR,Domestic Production,Tan tawan,238
+2011,MAR,Domestic Production,Yoong thong,19
+2011,MAR,Import,Yadana,426
+2011,MAR,Import,Yetakun,411
+2011,MAY,Domestic Production,Arthit,480
+2011,MAY,Domestic Production,Bongkot,650
+2011,MAY,Domestic Production,Erawan,1009
+2011,MAY,Domestic Production,JDA,810
+2011,MAY,Domestic Production,Lanta,6
+2011,MAY,Domestic Production,Nam phong,19
+2011,MAY,Domestic Production,Oths.,10
+2011,MAY,Domestic Production,Pailin,457
+2011,MAY,Domestic Production,Phu horm,108
+2011,MAY,Domestic Production,Sirikit,39
+2011,MAY,Domestic Production,Tan tawan,181
+2011,MAY,Domestic Production,Yoong thong,16
+2011,MAY,Import,LNG ,94
+2011,MAY,Import,Yadana,499
+2011,MAY,Import,Yetakun,452
+2011,NOV,Domestic Production,Arthit,302
+2011,NOV,Domestic Production,Bongkot,490
+2011,NOV,Domestic Production,Erawan,1192
+2011,NOV,Domestic Production,JDA,705
+2011,NOV,Domestic Production,Lanta,5
+2011,NOV,Domestic Production,Nam phong,12
+2011,NOV,Domestic Production,Oths.,7
+2011,NOV,Domestic Production,Pailin,362
+2011,NOV,Domestic Production,Phu horm,51
+2011,NOV,Domestic Production,Sirikit,38
+2011,NOV,Domestic Production,Tan tawan,268
+2011,NOV,Domestic Production,Yoong thong,12
+2011,NOV,Import,LNG ,104
+2011,NOV,Import,Yadana,358
+2011,NOV,Import,Yetakun,374
+2011,OCT,Domestic Production,Arthit,337
+2011,OCT,Domestic Production,Bongkot,598
+2011,OCT,Domestic Production,Erawan,912
+2011,OCT,Domestic Production,JDA,675
+2011,OCT,Domestic Production,Lanta,8
+2011,OCT,Domestic Production,Nam phong,13
+2011,OCT,Domestic Production,Oths.,4
+2011,OCT,Domestic Production,Pailin,402
+2011,OCT,Domestic Production,Phu horm,53
+2011,OCT,Domestic Production,Sirikit,34
+2011,OCT,Domestic Production,Tan tawan,227
+2011,OCT,Domestic Production,Yoong thong,15
+2011,OCT,Import,LNG ,97
+2011,OCT,Import,Yadana,372
+2011,OCT,Import,Yetakun,362
+2011,SEP,Domestic Production,Arthit,344
+2011,SEP,Domestic Production,Bongkot,651
+2011,SEP,Domestic Production,Erawan,954
+2011,SEP,Domestic Production,JDA,802
+2011,SEP,Domestic Production,Lanta,13
+2011,SEP,Domestic Production,Nam phong,13
+2011,SEP,Domestic Production,Oths.,3
+2011,SEP,Domestic Production,Pailin,403
+2011,SEP,Domestic Production,Phu horm,61
+2011,SEP,Domestic Production,Sirikit,35
+2011,SEP,Domestic Production,Tan tawan,209
+2011,SEP,Domestic Production,Yoong thong,20
+2011,SEP,Import,LNG ,119
+2011,SEP,Import,Yadana,505
+2011,SEP,Import,Yetakun,458
+2012,APR,Domestic Production,Arthit,287
+2012,APR,Domestic Production,Bongkot,719
+2012,APR,Domestic Production,Erawan,1367
+2012,APR,Domestic Production,JDA,761
+2012,APR,Domestic Production,Lanta,1
+2012,APR,Domestic Production,Nam phong,12
+2012,APR,Domestic Production,Oths.,1
+2012,APR,Domestic Production,Pailin,436
+2012,APR,Domestic Production,Phu horm,79
+2012,APR,Domestic Production,Sirikit,43
+2012,APR,Domestic Production,Tan tawan,147
+2012,APR,Domestic Production,Yoong thong,12
+2012,APR,Import,Yadana,294
+2012,APR,Import,Yetakun,276
+2012,AUG,Domestic Production,Arthit,271
+2012,AUG,Domestic Production,Bongkot,1123
+2012,AUG,Domestic Production,Erawan,1244
+2012,AUG,Domestic Production,JDA,655
+2012,AUG,Domestic Production,Lanta,1
+2012,AUG,Domestic Production,Nam phong,15
+2012,AUG,Domestic Production,Oths.,1
+2012,AUG,Domestic Production,Pailin,445
+2012,AUG,Domestic Production,Phu horm,90
+2012,AUG,Domestic Production,Sirikit,46
+2012,AUG,Domestic Production,Tan tawan,139
+2012,AUG,Domestic Production,Yoong thong,7
+2012,AUG,Import,LNG ,100
+2012,AUG,Import,Yadana,450
+2012,AUG,Import,Yetakun,421
+2012,DEC,Domestic Production,Arthit,250
+2012,DEC,Domestic Production,Bongkot,1012
+2012,DEC,Domestic Production,Erawan,1373
+2012,DEC,Domestic Production,JDA,702
+2012,DEC,Domestic Production,Lanta,1
+2012,DEC,Domestic Production,Nam phong,15
+2012,DEC,Domestic Production,Oths.,1
+2012,DEC,Domestic Production,Pailin,428
+2012,DEC,Domestic Production,Phu horm,120
+2012,DEC,Domestic Production,Sirikit,47
+2012,DEC,Domestic Production,Tan tawan,119
+2012,DEC,Domestic Production,Yoong thong,7
+2012,DEC,Import,LNG ,144
+2012,DEC,Import,Yadana,435
+2012,DEC,Import,Yetakun,402
+2012,FEB,Domestic Production,Arthit,264
+2012,FEB,Domestic Production,Bongkot,556
+2012,FEB,Domestic Production,Erawan,1288
+2012,FEB,Domestic Production,JDA,769
+2012,FEB,Domestic Production,Lanta,10
+2012,FEB,Domestic Production,Nam phong,12
+2012,FEB,Domestic Production,Oths.,4
+2012,FEB,Domestic Production,Pailin,370
+2012,FEB,Domestic Production,Phu horm,71
+2012,FEB,Domestic Production,Sirikit,41
+2012,FEB,Domestic Production,Tan tawan,202
+2012,FEB,Domestic Production,Yoong thong,9
+2012,FEB,Import,LNG ,116
+2012,FEB,Import,Yadana,405
+2012,FEB,Import,Yetakun,396
+2012,JAN,Domestic Production,Arthit,272
+2012,JAN,Domestic Production,Bongkot,845
+2012,JAN,Domestic Production,Erawan,1313
+2012,JAN,Domestic Production,JDA,777
+2012,JAN,Domestic Production,Lanta,1
+2012,JAN,Domestic Production,Nam phong,13
+2012,JAN,Domestic Production,Oths.,2
+2012,JAN,Domestic Production,Pailin,381
+2012,JAN,Domestic Production,Phu horm,86
+2012,JAN,Domestic Production,Sirikit,38
+2012,JAN,Domestic Production,Tan tawan,153
+2012,JAN,Domestic Production,Yoong thong,11
+2012,JAN,Import,LNG ,115
+2012,JAN,Import,Yadana,297
+2012,JAN,Import,Yetakun,296
+2012,JUL,Domestic Production,Arthit,260
+2012,JUL,Domestic Production,Bongkot,1087
+2012,JUL,Domestic Production,Erawan,1460
+2012,JUL,Domestic Production,JDA,736
+2012,JUL,Domestic Production,Lanta,1
+2012,JUL,Domestic Production,Nam phong,16
+2012,JUL,Domestic Production,Oths.,3
+2012,JUL,Domestic Production,Pailin,400
+2012,JUL,Domestic Production,Phu horm,115
+2012,JUL,Domestic Production,Sirikit,49
+2012,JUL,Domestic Production,Tan tawan,134
+2012,JUL,Domestic Production,Yoong thong,6
+2012,JUL,Import,LNG ,189
+2012,JUL,Import,Yadana,430
+2012,JUL,Import,Yetakun,421
+2012,JUN,Domestic Production,Arthit,281
+2012,JUN,Domestic Production,Bongkot,632
+2012,JUN,Domestic Production,Erawan,1484
+2012,JUN,Domestic Production,JDA,713
+2012,JUN,Domestic Production,Lanta,2
+2012,JUN,Domestic Production,Nam phong,15
+2012,JUN,Domestic Production,Oths.,2
+2012,JUN,Domestic Production,Pailin,467
+2012,JUN,Domestic Production,Phu horm,109
+2012,JUN,Domestic Production,Sirikit,43
+2012,JUN,Domestic Production,Tan tawan,144
+2012,JUN,Domestic Production,Yoong thong,8
+2012,JUN,Import,LNG ,222
+2012,JUN,Import,Yadana,492
+2012,JUN,Import,Yetakun,447
+2012,MAR,Domestic Production,Arthit,263
+2012,MAR,Domestic Production,Bongkot,690
+2012,MAR,Domestic Production,Erawan,1386
+2012,MAR,Domestic Production,JDA,784
+2012,MAR,Domestic Production,Lanta,1
+2012,MAR,Domestic Production,Nam phong,13
+2012,MAR,Domestic Production,Oths.,1
+2012,MAR,Domestic Production,Pailin,446
+2012,MAR,Domestic Production,Phu horm,68
+2012,MAR,Domestic Production,Sirikit,42
+2012,MAR,Domestic Production,Tan tawan,143
+2012,MAR,Domestic Production,Yoong thong,9
+2012,MAR,Import,LNG ,199
+2012,MAR,Import,Yadana,475
+2012,MAR,Import,Yetakun,444
+2012,MAY,Domestic Production,Arthit,278
+2012,MAY,Domestic Production,Bongkot,664
+2012,MAY,Domestic Production,Erawan,1418
+2012,MAY,Domestic Production,JDA,794
+2012,MAY,Domestic Production,Lanta,0
+2012,MAY,Domestic Production,Nam phong,16
+2012,MAY,Domestic Production,Oths.,1
+2012,MAY,Domestic Production,Pailin,468
+2012,MAY,Domestic Production,Phu horm,118
+2012,MAY,Domestic Production,Sirikit,44
+2012,MAY,Domestic Production,Tan tawan,136
+2012,MAY,Domestic Production,Yoong thong,7
+2012,MAY,Import,LNG ,115
+2012,MAY,Import,Yadana,432
+2012,MAY,Import,Yetakun,398
+2012,NOV,Domestic Production,Arthit,265
+2012,NOV,Domestic Production,Bongkot,1003
+2012,NOV,Domestic Production,Erawan,1525
+2012,NOV,Domestic Production,JDA,768
+2012,NOV,Domestic Production,Lanta,1
+2012,NOV,Domestic Production,Nam phong,14
+2012,NOV,Domestic Production,Oths.,1
+2012,NOV,Domestic Production,Pailin,428
+2012,NOV,Domestic Production,Phu horm,126
+2012,NOV,Domestic Production,Sirikit,46
+2012,NOV,Domestic Production,Tan tawan,129
+2012,NOV,Domestic Production,Yoong thong,6
+2012,NOV,Import,LNG ,98
+2012,NOV,Import,Yadana,483
+2012,NOV,Import,Yetakun,438
+2012,OCT,Domestic Production,Arthit,270
+2012,OCT,Domestic Production,Bongkot,999
+2012,OCT,Domestic Production,Erawan,1407
+2012,OCT,Domestic Production,JDA,770
+2012,OCT,Domestic Production,Lanta,1
+2012,OCT,Domestic Production,Nam phong,14
+2012,OCT,Domestic Production,Oths.,0
+2012,OCT,Domestic Production,Pailin,433
+2012,OCT,Domestic Production,Phu horm,66
+2012,OCT,Domestic Production,Sirikit,48
+2012,OCT,Domestic Production,Tan tawan,109
+2012,OCT,Domestic Production,Yoong thong,5
+2012,OCT,Import,LNG ,108
+2012,OCT,Import,Yadana,484
+2012,OCT,Import,Yetakun,447
+2012,SEP,Domestic Production,Arthit,257
+2012,SEP,Domestic Production,Bongkot,1073
+2012,SEP,Domestic Production,Erawan,1363
+2012,SEP,Domestic Production,JDA,747
+2012,SEP,Domestic Production,Lanta,1
+2012,SEP,Domestic Production,Nam phong,16
+2012,SEP,Domestic Production,Oths.,1
+2012,SEP,Domestic Production,Pailin,361
+2012,SEP,Domestic Production,Phu horm,74
+2012,SEP,Domestic Production,Sirikit,49
+2012,SEP,Domestic Production,Tan tawan,131
+2012,SEP,Domestic Production,Yoong thong,4
+2012,SEP,Import,LNG ,148
+2012,SEP,Import,Yadana,399
+2012,SEP,Import,Yetakun,378
+2013,APR,Domestic Production,Arthit,254
+2013,APR,Domestic Production,Bongkot,1095
+2013,APR,Domestic Production,Erawan,1275
+2013,APR,Domestic Production,JDA,751
+2013,APR,Domestic Production,Lanta,1
+2013,APR,Domestic Production,Nam phong,16
+2013,APR,Domestic Production,Oths.,0
+2013,APR,Domestic Production,Pailin,400
+2013,APR,Domestic Production,Phu horm,124
+2013,APR,Domestic Production,Sirikit,51
+2013,APR,Domestic Production,Tan tawan,141
+2013,APR,Domestic Production,Yoong thong,4
+2013,APR,Import,LNG ,300
+2013,APR,Import,Yadana,308
+2013,APR,Import,Yetakun,285
+2013,AUG,Domestic Production,Arthit,247
+2013,AUG,Domestic Production,Bongkot,908
+2013,AUG,Domestic Production,Erawan,1400
+2013,AUG,Domestic Production,JDA,732
+2013,AUG,Domestic Production,Lanta,3
+2013,AUG,Domestic Production,Nam phong,12
+2013,AUG,Domestic Production,Oths.,0
+2013,AUG,Domestic Production,Pailin,374
+2013,AUG,Domestic Production,Phu horm,60
+2013,AUG,Domestic Production,Sirikit,93
+2013,AUG,Domestic Production,Tan tawan,113
+2013,AUG,Domestic Production,Yoong thong,4
+2013,AUG,Import,LNG ,92
+2013,AUG,Import,Yadana,433
+2013,AUG,Import,Yetakun,423
+2013,DEC,Domestic Production,Arthit,216
+2013,DEC,Domestic Production,Bongkot,841
+2013,DEC,Domestic Production,Erawan,1401
+2013,DEC,Domestic Production,JDA,729
+2013,DEC,Domestic Production,Lanta,3
+2013,DEC,Domestic Production,Nam phong,12
+2013,DEC,Domestic Production,Oths.,0
+2013,DEC,Domestic Production,Pailin,372
+2013,DEC,Domestic Production,Phu horm,48
+2013,DEC,Domestic Production,Sirikit,48
+2013,DEC,Domestic Production,Tan tawan,130
+2013,DEC,Domestic Production,Yoong thong,3
+2013,DEC,Import,LNG ,147
+2013,DEC,Import,Yadana,375
+2013,DEC,Import,Yetakun,382
+2013,FEB,Domestic Production,Arthit,255
+2013,FEB,Domestic Production,Bongkot,1030
+2013,FEB,Domestic Production,Erawan,1351
+2013,FEB,Domestic Production,JDA,753
+2013,FEB,Domestic Production,Lanta,1
+2013,FEB,Domestic Production,Nam phong,14
+2013,FEB,Domestic Production,Oths.,0
+2013,FEB,Domestic Production,Pailin,411
+2013,FEB,Domestic Production,Phu horm,120
+2013,FEB,Domestic Production,Sirikit,50
+2013,FEB,Domestic Production,Tan tawan,144
+2013,FEB,Domestic Production,Yoong thong,5
+2013,FEB,Import,LNG ,158
+2013,FEB,Import,Yadana,373
+2013,FEB,Import,Yetakun,350
+2013,JAN,Domestic Production,Arthit,286
+2013,JAN,Domestic Production,Bongkot,1031
+2013,JAN,Domestic Production,Erawan,1429
+2013,JAN,Domestic Production,JDA,492
+2013,JAN,Domestic Production,Lanta,1
+2013,JAN,Domestic Production,Nam phong,15
+2013,JAN,Domestic Production,Oths.,1
+2013,JAN,Domestic Production,Pailin,424
+2013,JAN,Domestic Production,Phu horm,110
+2013,JAN,Domestic Production,Sirikit,49
+2013,JAN,Domestic Production,Tan tawan,121
+2013,JAN,Domestic Production,Yoong thong,6
+2013,JAN,Import,LNG ,143
+2013,JAN,Import,Yadana,415
+2013,JAN,Import,Yetakun,394
+2013,JUL,Domestic Production,Arthit,267
+2013,JUL,Domestic Production,Bongkot,1013
+2013,JUL,Domestic Production,Erawan,1383
+2013,JUL,Domestic Production,JDA,770
+2013,JUL,Domestic Production,Lanta,3
+2013,JUL,Domestic Production,Nam phong,14
+2013,JUL,Domestic Production,Oths.,0
+2013,JUL,Domestic Production,Pailin,463
+2013,JUL,Domestic Production,Phu horm,87
+2013,JUL,Domestic Production,Sirikit,49
+2013,JUL,Domestic Production,Tan tawan,121
+2013,JUL,Domestic Production,Yoong thong,1
+2013,JUL,Import,LNG ,330
+2013,JUL,Import,Yadana,419
+2013,JUL,Import,Yetakun,396
+2013,JUN,Domestic Production,Arthit,262
+2013,JUN,Domestic Production,Bongkot,900
+2013,JUN,Domestic Production,Erawan,1403
+2013,JUN,Domestic Production,JDA,770
+2013,JUN,Domestic Production,Lanta,2
+2013,JUN,Domestic Production,Nam phong,15
+2013,JUN,Domestic Production,Oths.,1
+2013,JUN,Domestic Production,Pailin,404
+2013,JUN,Domestic Production,Phu horm,110
+2013,JUN,Domestic Production,Sirikit,52
+2013,JUN,Domestic Production,Tan tawan,129
+2013,JUN,Domestic Production,Yoong thong,1
+2013,JUN,Import,LNG ,298
+2013,JUN,Import,Yadana,422
+2013,JUN,Import,Yetakun,400
+2013,MAR,Domestic Production,Arthit,261
+2013,MAR,Domestic Production,Bongkot,1061
+2013,MAR,Domestic Production,Erawan,1336
+2013,MAR,Domestic Production,JDA,773
+2013,MAR,Domestic Production,Lanta,1
+2013,MAR,Domestic Production,Nam phong,15
+2013,MAR,Domestic Production,Oths.,0
+2013,MAR,Domestic Production,Pailin,425
+2013,MAR,Domestic Production,Phu horm,118
+2013,MAR,Domestic Production,Sirikit,49
+2013,MAR,Domestic Production,Tan tawan,142
+2013,MAR,Domestic Production,Yoong thong,4
+2013,MAR,Import,LNG ,293
+2013,MAR,Import,Yadana,469
+2013,MAR,Import,Yetakun,431
+2013,MAY,Domestic Production,Arthit,223
+2013,MAY,Domestic Production,Bongkot,1153
+2013,MAY,Domestic Production,Erawan,1375
+2013,MAY,Domestic Production,JDA,780
+2013,MAY,Domestic Production,Lanta,0
+2013,MAY,Domestic Production,Nam phong,15
+2013,MAY,Domestic Production,Oths.,1
+2013,MAY,Domestic Production,Pailin,438
+2013,MAY,Domestic Production,Phu horm,120
+2013,MAY,Domestic Production,Sirikit,50
+2013,MAY,Domestic Production,Tan tawan,101
+2013,MAY,Domestic Production,Yoong thong,2
+2013,MAY,Import,LNG ,102
+2013,MAY,Import,Yadana,448
+2013,MAY,Import,Yetakun,415
+2013,NOV,Domestic Production,Arthit,253
+2013,NOV,Domestic Production,Bongkot,1056
+2013,NOV,Domestic Production,Erawan,1255
+2013,NOV,Domestic Production,JDA,762
+2013,NOV,Domestic Production,Lanta,3
+2013,NOV,Domestic Production,Nam phong,12
+2013,NOV,Domestic Production,Oths.,0
+2013,NOV,Domestic Production,Pailin,446
+2013,NOV,Domestic Production,Phu horm,69
+2013,NOV,Domestic Production,Sirikit,51
+2013,NOV,Domestic Production,Tan tawan,128
+2013,NOV,Domestic Production,Yoong thong,3
+2013,NOV,Import,LNG ,96
+2013,NOV,Import,Yadana,459
+2013,NOV,Import,Yetakun,459
+2013,OCT,Domestic Production,Arthit,251
+2013,OCT,Domestic Production,Bongkot,1013
+2013,OCT,Domestic Production,Erawan,1319
+2013,OCT,Domestic Production,JDA,775
+2013,OCT,Domestic Production,Lanta,3
+2013,OCT,Domestic Production,Nam phong,11
+2013,OCT,Domestic Production,Oths.,0
+2013,OCT,Domestic Production,Pailin,422
+2013,OCT,Domestic Production,Phu horm,51
+2013,OCT,Domestic Production,Sirikit,51
+2013,OCT,Domestic Production,Tan tawan,121
+2013,OCT,Domestic Production,Yoong thong,3
+2013,OCT,Import,LNG ,234
+2013,OCT,Import,Yadana,452
+2013,OCT,Import,Yetakun,453
+2013,SEP,Domestic Production,Arthit,247
+2013,SEP,Domestic Production,Bongkot,999
+2013,SEP,Domestic Production,Erawan,1279
+2013,SEP,Domestic Production,JDA,736
+2013,SEP,Domestic Production,Lanta,1
+2013,SEP,Domestic Production,Nam phong,10
+2013,SEP,Domestic Production,Oths.,0
+2013,SEP,Domestic Production,Pailin,408
+2013,SEP,Domestic Production,Phu horm,39
+2013,SEP,Domestic Production,Sirikit,50
+2013,SEP,Domestic Production,Tan tawan,81
+2013,SEP,Domestic Production,Yoong thong,3
+2013,SEP,Import,LNG ,97
+2013,SEP,Import,Yadana,455
+2013,SEP,Import,Yetakun,436
+2014,APR,Domestic Production,Arthit,257
+2014,APR,Domestic Production,Bongkot,667
+2014,APR,Domestic Production,Erawan,1506
+2014,APR,Domestic Production,JDA,787
+2014,APR,Domestic Production,Lanta,3
+2014,APR,Domestic Production,Nam phong,13
+2014,APR,Domestic Production,Oths.,2
+2014,APR,Domestic Production,Pailin,447
+2014,APR,Domestic Production,Phu horm,117
+2014,APR,Domestic Production,Sirikit,50
+2014,APR,Domestic Production,Tan tawan,106
+2014,APR,Domestic Production,Yoong thong,3
+2014,APR,Import,LNG ,309
+2014,APR,Import,Yadana,399
+2014,APR,Import,Yetakun,387
+2014,AUG,Domestic Production,Arthit,233
+2014,AUG,Domestic Production,Bongkot,1002
+2014,AUG,Domestic Production,Erawan,1275
+2014,AUG,Domestic Production,JDA,800
+2014,AUG,Domestic Production,Lanta,4
+2014,AUG,Domestic Production,Nam phong,11
+2014,AUG,Domestic Production,Oths.,2
+2014,AUG,Domestic Production,Pailin,381
+2014,AUG,Domestic Production,Phu horm,71
+2014,AUG,Domestic Production,Sirikit,48
+2014,AUG,Domestic Production,Tan tawan,94
+2014,AUG,Domestic Production,Yoong thong,1
+2014,AUG,Import,LNG ,240
+2014,AUG,Import,Yadana,490
+2014,AUG,Import,Yetakun,345
+2014,AUG,Import,Zawtika,180
+2014,DEC,Domestic Production,Arthit,239
+2014,DEC,Domestic Production,Bongkot,972
+2014,DEC,Domestic Production,Erawan,1318
+2014,DEC,Domestic Production,JDA,831
+2014,DEC,Domestic Production,Lanta,7
+2014,DEC,Domestic Production,Nam phong,12
+2014,DEC,Domestic Production,Oths.,2
+2014,DEC,Domestic Production,Pailin,362
+2014,DEC,Domestic Production,Phu horm,95
+2014,DEC,Domestic Production,Sirikit,46
+2014,DEC,Domestic Production,Tan tawan,84
+2014,DEC,Domestic Production,Yoong thong,7
+2014,DEC,Import,Yadana,422
+2014,DEC,Import,Yetakun,315
+2014,DEC,Import,Zawtika,192
+2014,FEB,Domestic Production,Arthit,253
+2014,FEB,Domestic Production,Bongkot,1012
+2014,FEB,Domestic Production,Erawan,1466
+2014,FEB,Domestic Production,JDA,773
+2014,FEB,Domestic Production,Lanta,3
+2014,FEB,Domestic Production,Nam phong,13
+2014,FEB,Domestic Production,Oths.,0
+2014,FEB,Domestic Production,Pailin,422
+2014,FEB,Domestic Production,Phu horm,115
+2014,FEB,Domestic Production,Sirikit,52
+2014,FEB,Domestic Production,Tan tawan,133
+2014,FEB,Domestic Production,Yoong thong,3
+2014,FEB,Import,LNG ,165
+2014,FEB,Import,Yadana,280
+2014,FEB,Import,Yetakun,376
+2014,JAN,Domestic Production,Arthit,252
+2014,JAN,Domestic Production,Bongkot,1000
+2014,JAN,Domestic Production,Erawan,1483
+2014,JAN,Domestic Production,JDA,753
+2014,JAN,Domestic Production,Lanta,4
+2014,JAN,Domestic Production,Nam phong,12
+2014,JAN,Domestic Production,Oths.,0
+2014,JAN,Domestic Production,Pailin,415
+2014,JAN,Domestic Production,Phu horm,97
+2014,JAN,Domestic Production,Sirikit,49
+2014,JAN,Domestic Production,Tan tawan,136
+2014,JAN,Domestic Production,Yoong thong,2
+2014,JAN,Import,LNG ,144
+2014,JAN,Import,Yadana,241
+2014,JAN,Import,Yetakun,159
+2014,JUL,Domestic Production,Arthit,214
+2014,JUL,Domestic Production,Bongkot,896
+2014,JUL,Domestic Production,Erawan,1375
+2014,JUL,Domestic Production,JDA,721
+2014,JUL,Domestic Production,Lanta,2
+2014,JUL,Domestic Production,Nam phong,12
+2014,JUL,Domestic Production,Oths.,2
+2014,JUL,Domestic Production,Pailin,408
+2014,JUL,Domestic Production,Phu horm,120
+2014,JUL,Domestic Production,Sirikit,47
+2014,JUL,Domestic Production,Tan tawan,99
+2014,JUL,Domestic Production,Yoong thong,1
+2014,JUL,Import,LNG ,198
+2014,JUL,Import,Yadana,402
+2014,JUL,Import,Yetakun,338
+2014,JUN,Domestic Production,Arthit,207
+2014,JUN,Domestic Production,Bongkot,1085
+2014,JUN,Domestic Production,Erawan,1373
+2014,JUN,Domestic Production,JDA,559
+2014,JUN,Domestic Production,Lanta,2
+2014,JUN,Domestic Production,Nam phong,13
+2014,JUN,Domestic Production,Oths.,2
+2014,JUN,Domestic Production,Pailin,447
+2014,JUN,Domestic Production,Phu horm,133
+2014,JUN,Domestic Production,Sirikit,49
+2014,JUN,Domestic Production,Tan tawan,114
+2014,JUN,Domestic Production,Yoong thong,1
+2014,JUN,Import,LNG ,294
+2014,JUN,Import,Yadana,413
+2014,JUN,Import,Yetakun,375
+2014,MAR,Domestic Production,Arthit,266
+2014,MAR,Domestic Production,Bongkot,1060
+2014,MAR,Domestic Production,Erawan,1495
+2014,MAR,Domestic Production,JDA,747
+2014,MAR,Domestic Production,Lanta,2
+2014,MAR,Domestic Production,Nam phong,13
+2014,MAR,Domestic Production,Oths.,1
+2014,MAR,Domestic Production,Pailin,404
+2014,MAR,Domestic Production,Phu horm,127
+2014,MAR,Domestic Production,Sirikit,40
+2014,MAR,Domestic Production,Tan tawan,128
+2014,MAR,Domestic Production,Yoong thong,2
+2014,MAR,Import,LNG ,145
+2014,MAR,Import,Yadana,409
+2014,MAR,Import,Yetakun,380
+2014,MAY,Domestic Production,Arthit,253
+2014,MAY,Domestic Production,Bongkot,1061
+2014,MAY,Domestic Production,Erawan,1401
+2014,MAY,Domestic Production,JDA,664
+2014,MAY,Domestic Production,Lanta,2
+2014,MAY,Domestic Production,Nam phong,12
+2014,MAY,Domestic Production,Oths.,1
+2014,MAY,Domestic Production,Pailin,441
+2014,MAY,Domestic Production,Phu horm,132
+2014,MAY,Domestic Production,Sirikit,51
+2014,MAY,Domestic Production,Tan tawan,132
+2014,MAY,Domestic Production,Yoong thong,1
+2014,MAY,Import,LNG ,289
+2014,MAY,Import,Yadana,417
+2014,MAY,Import,Yetakun,406
+2014,NOV,Domestic Production,Arthit,272
+2014,NOV,Domestic Production,Bongkot,922
+2014,NOV,Domestic Production,Erawan,1468
+2014,NOV,Domestic Production,JDA,862
+2014,NOV,Domestic Production,Lanta,8
+2014,NOV,Domestic Production,Nam phong,11
+2014,NOV,Domestic Production,Oths.,2
+2014,NOV,Domestic Production,Pailin,390
+2014,NOV,Domestic Production,Phu horm,112
+2014,NOV,Domestic Production,Sirikit,44
+2014,NOV,Domestic Production,Tan tawan,89
+2014,NOV,Domestic Production,Yoong thong,6
+2014,NOV,Import,LNG ,149
+2014,NOV,Import,Yadana,487
+2014,NOV,Import,Yetakun,352
+2014,NOV,Import,Zawtika,223
+2014,OCT,Domestic Production,Arthit,261
+2014,OCT,Domestic Production,Bongkot,1005
+2014,OCT,Domestic Production,Erawan,1418
+2014,OCT,Domestic Production,JDA,857
+2014,OCT,Domestic Production,Lanta,5
+2014,OCT,Domestic Production,Nam phong,11
+2014,OCT,Domestic Production,Oths.,2
+2014,OCT,Domestic Production,Pailin,411
+2014,OCT,Domestic Production,Phu horm,97
+2014,OCT,Domestic Production,Sirikit,46
+2014,OCT,Domestic Production,Tan tawan,74
+2014,OCT,Domestic Production,Yoong thong,6
+2014,OCT,Import,LNG ,147
+2014,OCT,Import,Yadana,459
+2014,OCT,Import,Yetakun,312
+2014,OCT,Import,Zawtika,248
+2014,SEP,Domestic Production,Arthit,244
+2014,SEP,Domestic Production,Bongkot,1008
+2014,SEP,Domestic Production,Erawan,1260
+2014,SEP,Domestic Production,JDA,783
+2014,SEP,Domestic Production,Lanta,7
+2014,SEP,Domestic Production,Nam phong,9
+2014,SEP,Domestic Production,Oths.,2
+2014,SEP,Domestic Production,Pailin,380
+2014,SEP,Domestic Production,Phu horm,49
+2014,SEP,Domestic Production,Sirikit,47
+2014,SEP,Domestic Production,Tan tawan,89
+2014,SEP,Domestic Production,Yoong thong,1
+2014,SEP,Import,LNG ,104
+2014,SEP,Import,Yadana,525
+2014,SEP,Import,Yetakun,333
+2014,SEP,Import,Zawtika,241
+2015,APR,Domestic Production,Arthit,236
+2015,APR,Domestic Production,Bongkot,1034
+2015,APR,Domestic Production,Erawan,1407
+2015,APR,Domestic Production,JDA,603
+2015,APR,Domestic Production,Lanta,4
+2015,APR,Domestic Production,Nam phong,11
+2015,APR,Domestic Production,Oths.,1
+2015,APR,Domestic Production,Pailin,370
+2015,APR,Domestic Production,Phu horm,128
+2015,APR,Domestic Production,Sirikit,50
+2015,APR,Domestic Production,Tan tawan,109
+2015,APR,Domestic Production,Yoong thong,6
+2015,APR,Import,LNG ,400
+2015,APR,Import,Yadana,273
+2015,APR,Import,Yetakun,209
+2015,APR,Import,Zawtika,101
+2015,AUG,Domestic Production,Arthit,254
+2015,AUG,Domestic Production,Bongkot,1063
+2015,AUG,Domestic Production,Erawan,1339
+2015,AUG,Domestic Production,JDA,578
+2015,AUG,Domestic Production,Lanta,1
+2015,AUG,Domestic Production,Nam phong,12
+2015,AUG,Domestic Production,Oths.,2
+2015,AUG,Domestic Production,Pailin,318
+2015,AUG,Domestic Production,Phu horm,118
+2015,AUG,Domestic Production,Sirikit,43
+2015,AUG,Domestic Production,Tan tawan,107
+2015,AUG,Domestic Production,Yoong thong,5
+2015,AUG,Import,LNG ,287
+2015,AUG,Import,Yadana,476
+2015,AUG,Import,Yetakun,280
+2015,AUG,Import,Zawtika,244
+2015,DEC,Domestic Production,Arthit,251
+2015,DEC,Domestic Production,Bongkot,1054
+2015,DEC,Domestic Production,Erawan,1237
+2015,DEC,Domestic Production,JDA,586
+2015,DEC,Domestic Production,Lanta,2
+2015,DEC,Domestic Production,Nam phong,12
+2015,DEC,Domestic Production,Oths.,2
+2015,DEC,Domestic Production,Pailin,341
+2015,DEC,Domestic Production,Phu horm,123
+2015,DEC,Domestic Production,Sirikit,47
+2015,DEC,Domestic Production,Tan tawan,146
+2015,DEC,Domestic Production,Yoong thong,1
+2015,DEC,Import,LNG ,244
+2015,DEC,Import,Yadana,401
+2015,DEC,Import,Yetakun,220
+2015,DEC,Import,Zawtika,213
+2015,FEB,Domestic Production,Arthit,230
+2015,FEB,Domestic Production,Bongkot,916
+2015,FEB,Domestic Production,Erawan,1271
+2015,FEB,Domestic Production,JDA,816
+2015,FEB,Domestic Production,Lanta,4
+2015,FEB,Domestic Production,Nam phong,13
+2015,FEB,Domestic Production,Oths.,1
+2015,FEB,Domestic Production,Pailin,294
+2015,FEB,Domestic Production,Phu horm,120
+2015,FEB,Domestic Production,Sirikit,47
+2015,FEB,Domestic Production,Tan tawan,107
+2015,FEB,Domestic Production,Yoong thong,7
+2015,FEB,Import,LNG ,325
+2015,FEB,Import,Yadana,455
+2015,FEB,Import,Yetakun,322
+2015,FEB,Import,Zawtika,214
+2015,JAN,Domestic Production,Arthit,234
+2015,JAN,Domestic Production,Bongkot,968
+2015,JAN,Domestic Production,Erawan,1281
+2015,JAN,Domestic Production,JDA,780
+2015,JAN,Domestic Production,Lanta,7
+2015,JAN,Domestic Production,Nam phong,12
+2015,JAN,Domestic Production,Oths.,1
+2015,JAN,Domestic Production,Pailin,329
+2015,JAN,Domestic Production,Phu horm,109
+2015,JAN,Domestic Production,Sirikit,46
+2015,JAN,Domestic Production,Tan tawan,103
+2015,JAN,Domestic Production,Yoong thong,7
+2015,JAN,Import,LNG ,145
+2015,JAN,Import,Yadana,413
+2015,JAN,Import,Yetakun,311
+2015,JAN,Import,Zawtika,186
+2015,JUL,Domestic Production,Arthit,247
+2015,JUL,Domestic Production,Bongkot,983
+2015,JUL,Domestic Production,Erawan,1406
+2015,JUL,Domestic Production,JDA,524
+2015,JUL,Domestic Production,Lanta,2
+2015,JUL,Domestic Production,Nam phong,12
+2015,JUL,Domestic Production,Oths.,1
+2015,JUL,Domestic Production,Pailin,345
+2015,JUL,Domestic Production,Phu horm,129
+2015,JUL,Domestic Production,Sirikit,47
+2015,JUL,Domestic Production,Tan tawan,99
+2015,JUL,Domestic Production,Yoong thong,4
+2015,JUL,Import,LNG ,439
+2015,JUL,Import,Yadana,501
+2015,JUL,Import,Yetakun,283
+2015,JUL,Import,Zawtika,246
+2015,JUN,Domestic Production,Arthit,237
+2015,JUN,Domestic Production,Bongkot,1048
+2015,JUN,Domestic Production,Erawan,1317
+2015,JUN,Domestic Production,JDA,575
+2015,JUN,Domestic Production,Lanta,1
+2015,JUN,Domestic Production,Nam phong,13
+2015,JUN,Domestic Production,Oths.,1
+2015,JUN,Domestic Production,Pailin,347
+2015,JUN,Domestic Production,Phu horm,130
+2015,JUN,Domestic Production,Sirikit,48
+2015,JUN,Domestic Production,Tan tawan,91
+2015,JUN,Domestic Production,Yoong thong,4
+2015,JUN,Import,LNG ,230
+2015,JUN,Import,Yadana,497
+2015,JUN,Import,Yetakun,304
+2015,JUN,Import,Zawtika,231
+2015,MAR,Domestic Production,Arthit,244
+2015,MAR,Domestic Production,Bongkot,1043
+2015,MAR,Domestic Production,Erawan,1410
+2015,MAR,Domestic Production,JDA,775
+2015,MAR,Domestic Production,Lanta,3
+2015,MAR,Domestic Production,Nam phong,12
+2015,MAR,Domestic Production,Oths.,2
+2015,MAR,Domestic Production,Pailin,393
+2015,MAR,Domestic Production,Phu horm,131
+2015,MAR,Domestic Production,Sirikit,49
+2015,MAR,Domestic Production,Tan tawan,115
+2015,MAR,Domestic Production,Yoong thong,7
+2015,MAR,Import,LNG ,293
+2015,MAR,Import,Yadana,481
+2015,MAR,Import,Yetakun,316
+2015,MAR,Import,Zawtika,222
+2015,MAY,Domestic Production,Arthit,197
+2015,MAY,Domestic Production,Bongkot,1006
+2015,MAY,Domestic Production,Erawan,1254
+2015,MAY,Domestic Production,JDA,579
+2015,MAY,Domestic Production,Lanta,2
+2015,MAY,Domestic Production,Nam phong,13
+2015,MAY,Domestic Production,Oths.,1
+2015,MAY,Domestic Production,Pailin,362
+2015,MAY,Domestic Production,Phu horm,127
+2015,MAY,Domestic Production,Sirikit,48
+2015,MAY,Domestic Production,Tan tawan,116
+2015,MAY,Domestic Production,Yoong thong,2
+2015,MAY,Import,LNG ,583
+2015,MAY,Import,Yadana,486
+2015,MAY,Import,Yetakun,310
+2015,MAY,Import,Zawtika,237
+2015,NOV,Domestic Production,Arthit,258
+2015,NOV,Domestic Production,Bongkot,1056
+2015,NOV,Domestic Production,Erawan,1388
+2015,NOV,Domestic Production,JDA,573
+2015,NOV,Domestic Production,Lanta,2
+2015,NOV,Domestic Production,Nam phong,12
+2015,NOV,Domestic Production,Oths.,1
+2015,NOV,Domestic Production,Pailin,344
+2015,NOV,Domestic Production,Phu horm,126
+2015,NOV,Domestic Production,Sirikit,46
+2015,NOV,Domestic Production,Tan tawan,142
+2015,NOV,Domestic Production,Yoong thong,4
+2015,NOV,Import,LNG ,421
+2015,NOV,Import,Yadana,396
+2015,NOV,Import,Yetakun,217
+2015,NOV,Import,Zawtika,226
+2015,OCT,Domestic Production,Arthit,238
+2015,OCT,Domestic Production,Bongkot,1003
+2015,OCT,Domestic Production,Erawan,1289
+2015,OCT,Domestic Production,JDA,580
+2015,OCT,Domestic Production,Lanta,1
+2015,OCT,Domestic Production,Nam phong,12
+2015,OCT,Domestic Production,Oths.,1
+2015,OCT,Domestic Production,Pailin,314
+2015,OCT,Domestic Production,Phu horm,108
+2015,OCT,Domestic Production,Sirikit,43
+2015,OCT,Domestic Production,Tan tawan,134
+2015,OCT,Domestic Production,Yoong thong,3
+2015,OCT,Import,LNG ,388
+2015,OCT,Import,Yadana,379
+2015,OCT,Import,Yetakun,229
+2015,OCT,Import,Zawtika,216
+2015,SEP,Domestic Production,Arthit,256
+2015,SEP,Domestic Production,Bongkot,1004
+2015,SEP,Domestic Production,Erawan,1309
+2015,SEP,Domestic Production,JDA,604
+2015,SEP,Domestic Production,Lanta,1
+2015,SEP,Domestic Production,Nam phong,10
+2015,SEP,Domestic Production,Oths.,1
+2015,SEP,Domestic Production,Pailin,293
+2015,SEP,Domestic Production,Phu horm,91
+2015,SEP,Domestic Production,Sirikit,44
+2015,SEP,Domestic Production,Tan tawan,101
+2015,SEP,Domestic Production,Yoong thong,3
+2015,SEP,Import,LNG ,307
+2015,SEP,Import,Yadana,475
+2015,SEP,Import,Yetakun,265
+2015,SEP,Import,Zawtika,244
