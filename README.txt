@@ -1,3 +1,7 @@
+This project intent to analyse natural gas usage from government open data.
+We generated data for bi visualization and prediction model.
+
+====================
 Prerequisite Install
 ====================
 
